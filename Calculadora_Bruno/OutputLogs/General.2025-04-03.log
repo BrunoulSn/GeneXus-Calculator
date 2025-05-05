@@ -1,0 +1,779 @@
+2025-04-03 15:26:51,810: INFO  – Processing file 'C:\Program Files (x86)\GeneXus\GeneXus18_U7\ObjectDefinitions\Language\English.xpz'...
+2025-04-03 15:26:51,892: INFO  – Reading import file objects...
+2025-04-03 15:26:51,912: INFO  – Finished
+2025-04-03 15:26:52,476: INFO  – Importing Language 'English'... 
+2025-04-03 15:26:53,971: INFO  – Successful
+2025-04-03 15:26:56,951: INFO  – Generating Design System Calculadora_Bruno
+2025-04-03 15:26:58,625: INFO  – ---> Command: TargetEnvironment - Elapsed time: 00:00:00.0001730
+2025-04-03 15:26:59,328: INFO  – Success: Create Knowledge Base - Elapsed time: 00:00:13.5308872
+2025-04-03 15:26:59,538: INFO  – ---> Command: SearchTarget - Elapsed time: 00:00:00.0002221
+2025-04-03 15:26:59,653: INFO  – ---> Command: TargetEnvironment - Elapsed time: 00:00:00.0002210
+2025-04-03 15:26:59,703: INFO  – ---> Command: NewKnowledgeBase - Elapsed time: 00:00:34.3563936
+2025-04-03 15:27:17,083: INFO  – ---> Command: SearchTarget - Elapsed time: 00:00:00.0001781
+2025-04-03 15:27:17,099: INFO  – ---> Command: OpenKnowledgeBase - Elapsed time: 00:00:04.6425655
+2025-04-03 15:27:56,944: INFO  – ---> Command: NewObject - Elapsed time: 00:00:14.5250306
+2025-04-03 15:28:52,510: INFO  – ---> Command: CustomCommand - Elapsed time: 00:00:40.2171005
+2025-04-03 15:29:04,293: INFO  – ---> Command: CustomCommand - Elapsed time: 00:00:00.0347794
+2025-04-03 15:29:46,648: INFO  – ---> Command: CustomCommand - Elapsed time: 00:00:00.0078628
+2025-04-03 15:29:52,032: INFO  – ---> Command: CustomCommand - Elapsed time: 00:00:00.0084426
+2025-04-03 15:29:55,179: INFO  – ---> Command: CustomCommand - Elapsed time: 00:00:00.0073737
+2025-04-03 15:30:00,329: INFO  – ---> Command: CustomCommand - Elapsed time: 00:00:00.0128984
+2025-04-03 15:30:02,276: INFO  – ---> Command: CustomCommand - Elapsed time: 00:00:00.0078362
+2025-04-03 15:30:06,160: INFO  – ---> Command: CustomCommand - Elapsed time: 00:00:00.0092617
+2025-04-03 15:30:10,720: INFO  – ---> Command: CustomCommand - Elapsed time: 00:00:00.0142172
+2025-04-03 15:30:13,254: INFO  – ---> Command: CustomCommand - Elapsed time: 00:00:00.0158095
+2025-04-03 15:30:17,543: INFO  – ---> Command: CustomCommand - Elapsed time: 00:00:00.0091919
+2025-04-03 15:30:20,403: INFO  – ---> Command: CustomCommand - Elapsed time: 00:00:00.0078040
+2025-04-03 15:30:25,335: INFO  – ---> Command: CustomCommand - Elapsed time: 00:00:00.0404733
+2025-04-03 15:30:57,961: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0005623
+2025-04-03 15:32:29,116: INFO  – ---> Command: Save - Elapsed time: 00:00:00.7238540
+2025-04-03 15:33:44,291: INFO  – ---> Command: Copy - Elapsed time: 00:00:00.0229002
+2025-04-03 15:33:46,364: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0096727
+2025-04-03 15:33:47,389: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0088814
+2025-04-03 15:33:48,001: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0088342
+2025-04-03 15:33:48,591: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0091688
+2025-04-03 15:33:49,226: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0127163
+2025-04-03 15:33:49,886: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0090200
+2025-04-03 15:33:50,514: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0092749
+2025-04-03 15:33:51,249: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0092894
+2025-04-03 15:33:51,816: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0093286
+2025-04-03 15:34:12,236: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0045773
+2025-04-03 15:34:18,216: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3679460
+2025-04-03 15:34:27,296: INFO  – ---> Command: Copy - Elapsed time: 00:00:00.0001318
+2025-04-03 15:34:34,416: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0024654
+2025-04-03 15:34:40,089: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0013584
+2025-04-03 15:34:43,026: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0024552
+2025-04-03 15:34:50,167: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0023347
+2025-04-03 15:34:54,936: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0018689
+2025-04-03 15:35:01,789: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0023009
+2025-04-03 15:35:07,128: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0019292
+2025-04-03 15:35:13,266: INFO  – ---> Command: SaveAll - Elapsed time: 00:00:00.3124965
+2025-04-03 15:35:43,400: INFO  – ---> Command: CustomCommand - Elapsed time: 00:00:09.2928171
+2025-04-03 15:36:20,234: INFO  – ---> Command: SaveAll - Elapsed time: 00:00:00.3617061
+2025-04-03 15:37:09,606: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3471335
+2025-04-03 15:37:12,911: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3119562
+2025-04-03 15:37:15,826: INFO  – ---> Command: Save - Elapsed time: 00:00:00.2808485
+2025-04-03 15:37:24,696: INFO  – ---> Command: Save - Elapsed time: 00:00:00.2904737
+2025-04-03 15:38:38,086: INFO  – ---> Command: Save - Elapsed time: 00:00:00.2874272
+2025-04-03 15:39:16,276: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3350111
+2025-04-03 15:39:43,106: INFO  – ---> Command: Save - Elapsed time: 00:00:00.2893423
+2025-04-03 15:39:55,976: INFO  – ---> Command: Save - Elapsed time: 00:00:00.2871032
+2025-04-03 15:40:37,326: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3551196
+2025-04-03 15:40:47,626: INFO  – ---> Command: Copy - Elapsed time: 00:00:00.0014984
+2025-04-03 15:40:49,199: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0127842
+2025-04-03 15:40:49,899: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0043854
+2025-04-03 15:40:51,176: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0041719
+2025-04-03 15:40:52,476: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0042104
+2025-04-03 15:40:53,186: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0045244
+2025-04-03 15:40:54,456: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0044051
+2025-04-03 15:40:55,142: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0052631
+2025-04-03 15:40:58,360: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0045789
+2025-04-03 15:41:02,866: INFO  – ---> Command: Save - Elapsed time: 00:00:00.2901349
+2025-04-03 15:41:39,806: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0042322
+2025-04-03 15:41:44,076: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0044905
+2025-04-03 15:41:51,857: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0043159
+2025-04-03 15:41:58,359: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3518829
+2025-04-03 15:42:33,825: INFO  – ---> Command: CustomCommand - Elapsed time: 00:00:00.0014276
+2025-04-03 15:42:40,786: INFO  – ---> Command: CustomCommand - Elapsed time: 00:00:00.0737437
+2025-04-03 15:42:50,795: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3613956
+2025-04-03 15:43:22,441: INFO  – ---> Command: CustomCommand - Elapsed time: 00:00:00.0209064
+2025-04-03 15:43:25,608: INFO  – ---> Command: CustomCommand - Elapsed time: 00:00:00.0159891
+2025-04-03 15:43:27,665: INFO  – ---> Command: CustomCommand - Elapsed time: 00:00:00.0112740
+2025-04-03 15:43:29,976: INFO  – ---> Command: CustomCommand - Elapsed time: 00:00:00.0093121
+2025-04-03 15:43:53,595: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0018187
+2025-04-03 15:43:54,106: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0009879
+2025-04-03 15:43:54,141: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0013367
+2025-04-03 15:43:54,168: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0009587
+2025-04-03 15:43:54,199: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0010936
+2025-04-03 15:43:54,230: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0012021
+2025-04-03 15:43:54,274: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0000217
+2025-04-03 15:43:54,306: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0000222
+2025-04-03 15:43:54,335: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0000234
+2025-04-03 15:43:54,367: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0000219
+2025-04-03 15:43:54,396: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0000216
+2025-04-03 15:43:54,429: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0000238
+2025-04-03 15:44:09,686: INFO  – ---> Command: Save - Elapsed time: 00:00:00.4036455
+2025-04-03 15:44:11,703: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3423714
+2025-04-03 15:45:25,497: INFO  – ---> Command: Cut - Elapsed time: 00:00:00.0094025
+2025-04-03 15:45:30,304: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0145926
+2025-04-03 15:45:31,279: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3752498
+2025-04-03 15:46:20,190: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3737965
+2025-04-03 15:47:00,131: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3705117
+2025-04-03 15:47:03,326: INFO  – ---> Command: AddVariable - Elapsed time: 00:00:00.0102238
+2025-04-03 15:47:05,306: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3145340
+2025-04-03 15:47:07,074: INFO  – ---> Command: Copy - Elapsed time: 00:00:00.0018799
+2025-04-03 15:47:08,846: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0136961
+2025-04-03 15:47:12,954: INFO  – ---> Command: Copy - Elapsed time: 00:00:00.0021892
+2025-04-03 15:47:13,724: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0041692
+2025-04-03 15:47:18,220: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0043954
+2025-04-03 15:47:21,669: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0045126
+2025-04-03 15:47:25,403: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3151368
+2025-04-03 15:48:02,658: INFO  – ---> Command: Copy - Elapsed time: 00:00:00.0020258
+2025-04-03 15:48:04,564: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0044569
+2025-04-03 15:48:06,869: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0047213
+2025-04-03 15:48:08,860: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0044626
+2025-04-03 15:48:10,637: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0044810
+2025-04-03 15:48:11,501: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0043907
+2025-04-03 15:48:13,339: INFO  – ---> Command: Save - Elapsed time: 00:00:00.4107639
+2025-04-03 15:48:15,491: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3221833
+2025-04-03 15:48:31,357: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3173966
+2025-04-03 15:48:33,674: INFO  – ---> Command: Copy - Elapsed time: 00:00:00.0019743
+2025-04-03 15:48:36,088: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0045686
+2025-04-03 15:48:38,773: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0045561
+2025-04-03 15:48:41,132: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0042781
+2025-04-03 15:48:43,706: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3147893
+2025-04-03 15:49:38,811: ERROR – error src0052: Unexpected command 'case' (Web Panel 'General.Calculadora' Events, Line: 2, Char: 1, , Details, )
+2025-04-03 15:49:38,812: INFO  – ---> Command: Save - Elapsed time: 00:00:00.0948588
+2025-04-03 15:49:52,225: ERROR – error src0052: Unexpected command 'case' (Web Panel 'General.Calculadora' Events, Line: 2, Char: 1, , Details, )
+2025-04-03 15:49:52,226: ERROR – error src0054: '&Operacao' is an unexpected expression. (Web Panel 'General.Calculadora' Events, Line: 2, Char: 6, , Details, )
+2025-04-03 15:49:52,226: INFO  – ---> Command: Save - Elapsed time: 00:00:00.0820156
+2025-04-03 15:50:25,093: ERROR – error src0061: Expecting 'Case' clause following 'Do Case' expression (Web Panel 'General.Calculadora' Events, Line: 2, Char: 1, , Details, )
+2025-04-03 15:50:25,094: INFO  – ---> Command: Save - Elapsed time: 00:00:00.0857384
+2025-04-03 15:50:28,858: ERROR – error src0061: Expecting 'Case' clause following 'Do Case' expression (Web Panel 'General.Calculadora' Events, Line: 2, Char: 1, , Details, )
+2025-04-03 15:50:28,858: INFO  – ---> Command: Save - Elapsed time: 00:00:00.0661148
+2025-04-03 15:51:01,939: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3786553
+2025-04-03 15:51:25,195: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0032967
+2025-04-03 15:51:26,260: INFO  – ---> Command: Save - Elapsed time: 00:00:00.4045418
+2025-04-03 15:51:51,336: INFO  – ---> Command: Cut - Elapsed time: 00:00:00.0083863
+2025-04-03 15:51:52,430: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0057649
+2025-04-03 15:51:55,397: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3652267
+2025-04-03 15:51:57,834: INFO  – ---> Command: Copy - Elapsed time: 00:00:00.0020013
+2025-04-03 15:51:59,451: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0195149
+2025-04-03 15:52:01,494: INFO  – ---> Command: Cut - Elapsed time: 00:00:00.0140928
+2025-04-03 15:52:03,198: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0062088
+2025-04-03 15:52:04,437: INFO  – ---> Command: OpenSelectedObject - Elapsed time: 00:00:00.0611702
+2025-04-03 15:52:08,088: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3459388
+2025-04-03 15:52:18,611: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3471530
+2025-04-03 15:52:31,930: INFO  – ---> Command: Copy - Elapsed time: 00:00:00.0020195
+2025-04-03 15:52:47,770: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0099809
+2025-04-03 15:52:53,097: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3206206
+2025-04-03 15:53:11,585: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0087970
+2025-04-03 15:53:14,073: ERROR – error src0052: Unexpected command 'case' (Web Panel 'General.Calculadora' Events, Line: 8, Char: 1, , Details, )
+2025-04-03 15:53:14,074: ERROR – error src0054: '{0}' is an unexpected expression. (Web Panel 'General.Calculadora' Events, Line: 8, Char: 6, , Details, )
+2025-04-03 15:53:14,074: ERROR – error src0054: '{0}' is an unexpected expression. (Web Panel 'General.Calculadora' Events, Line: 9, Char: 1, , Details, )
+2025-04-03 15:53:14,074: INFO  – ---> Command: Save - Elapsed time: 00:00:00.0978530
+2025-04-03 15:53:18,436: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0046768
+2025-04-03 15:53:21,384: INFO  – ---> Command: Cut - Elapsed time: 00:00:00.0080369
+2025-04-03 15:53:26,052: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0116423
+2025-04-03 15:53:26,636: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0122431
+2025-04-03 15:53:26,921: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0128814
+2025-04-03 15:53:27,350: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0057555
+2025-04-03 15:53:34,166: INFO  – ---> Command: Cut - Elapsed time: 00:00:00.0141232
+2025-04-03 15:53:36,233: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0171136
+2025-04-03 15:53:40,750: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3583808
+2025-04-03 15:53:43,115: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0225482
+2025-04-03 15:53:45,964: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0043655
+2025-04-03 15:53:50,458: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3295987
+2025-04-03 15:54:15,424: INFO  – ---> Command: RunMainObject - Elapsed time: 00:00:00.0486159
+2025-04-03 15:54:44,095: INFO  – ---> Command: BuildCommandWrapperUI - Elapsed time: 00:00:28.6335191
+2025-04-03 15:55:22,565: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3500319
+2025-04-03 15:55:24,383: INFO  – ---> Command: RunMainObject - Elapsed time: 00:00:00.0071515
+2025-04-03 15:55:31,774: INFO  – ---> Command: BuildCommandWrapperUI - Elapsed time: 00:00:07.3750620
+2025-04-03 15:56:01,755: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0034262
+2025-04-03 15:56:02,707: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0030235
+2025-04-03 15:56:16,795: ERROR – error src0051: Unexpected expression (Web Panel 'General.Calculadora' Events, Line: 5, Char: 5, , Details, )
+2025-04-03 15:56:16,805: INFO  – ---> Command: Save - Elapsed time: 00:00:00.0852067
+2025-04-03 15:56:20,075: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0040304
+2025-04-03 15:56:21,015: INFO  – ---> Command: Save - Elapsed time: 00:00:00.4285452
+2025-04-03 15:56:27,055: INFO  – ---> Command: Copy - Elapsed time: 00:00:00.0020203
+2025-04-03 15:56:29,612: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0055954
+2025-04-03 15:56:29,835: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0110007
+2025-04-03 15:56:36,245: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0096801
+2025-04-03 15:56:38,488: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0044065
+2025-04-03 15:56:40,010: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3876993
+2025-04-03 15:56:42,155: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0097257
+2025-04-03 15:56:43,935: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0043862
+2025-04-03 15:56:47,285: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0096353
+2025-04-03 15:56:51,055: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3215713
+2025-04-03 15:56:55,895: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0047742
+2025-04-03 15:56:59,985: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0095884
+2025-04-03 15:57:02,985: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0040538
+2025-04-03 15:57:04,965: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0043495
+2025-04-03 15:57:05,355: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0094015
+2025-04-03 15:57:05,938: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3433353
+2025-04-03 15:57:07,148: INFO  – ---> Command: RunMainObject - Elapsed time: 00:00:00.0036102
+2025-04-03 15:57:14,489: INFO  – ---> Command: BuildCommandWrapperUI - Elapsed time: 00:00:07.3390031
+2025-04-03 15:57:48,305: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3436250
+2025-04-03 15:58:06,035: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3316219
+2025-04-03 15:58:13,529: INFO  – ---> Command: RunMainObject - Elapsed time: 00:00:00.0022229
+2025-04-03 15:58:21,155: INFO  – ---> Command: BuildCommandWrapperUI - Elapsed time: 00:00:07.6214650
+2025-04-03 16:00:06,900: INFO  – ---> Command: Save - Elapsed time: 00:00:00.4076352
+2025-04-03 16:00:10,216: INFO  – ---> Command: BuildAll - Elapsed time: 00:00:00.0054176
+2025-04-03 16:00:36,939: INFO  – ---> Command: BuildCommandWrapperUI - Elapsed time: 00:00:26.7148158
+2025-04-03 16:03:09,035: INFO  – ---> Command: Save - Elapsed time: 00:00:00.4027620
+2025-04-03 16:03:26,076: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0046930
+2025-04-03 16:03:26,219: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0033656
+2025-04-03 16:03:26,370: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0031250
+2025-04-03 16:03:26,515: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0030136
+2025-04-03 16:03:26,667: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0033034
+2025-04-03 16:03:26,810: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0030741
+2025-04-03 16:03:26,980: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0032930
+2025-04-03 16:03:27,139: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0034072
+2025-04-03 16:03:27,539: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0032220
+2025-04-03 16:03:28,264: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3598458
+2025-04-03 16:03:34,757: INFO  – ---> Command: Cut - Elapsed time: 00:00:00.0298846
+2025-04-03 16:03:37,677: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0210913
+2025-04-03 16:03:38,515: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3629323
+2025-04-03 16:03:52,053: INFO  – ---> Command: AddVariable - Elapsed time: 00:00:00.0078960
+2025-04-03 16:03:54,345: INFO  – ---> Command: AddVariable - Elapsed time: 00:00:00.0060928
+2025-04-03 16:04:09,277: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3417815
+2025-04-03 16:04:18,458: INFO  – ---> Command: Save - Elapsed time: 00:00:00.4019889
+2025-04-03 16:04:29,678: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3313115
+2025-04-03 16:04:36,025: INFO  – ---> Command: Copy - Elapsed time: 00:00:00.0012113
+2025-04-03 16:04:37,537: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0171696
+2025-04-03 16:04:40,149: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0050344
+2025-04-03 16:04:44,311: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0073361
+2025-04-03 16:04:48,266: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3225155
+2025-04-03 16:04:50,122: INFO  – ---> Command: RunMainObject - Elapsed time: 00:00:00.0022024
+2025-04-03 16:04:54,897: INFO  – ---> Command: BuildCommandWrapperUI - Elapsed time: 00:00:04.7724493
+2025-04-03 16:05:59,008: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3686167
+2025-04-03 16:06:01,515: INFO  – ---> Command: Save - Elapsed time: 00:00:01.7796275
+2025-04-03 16:06:39,063: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3836512
+2025-04-03 16:06:52,813: INFO  – ---> Command: CustomCommand - Elapsed time: 00:00:03.3443974
+2025-04-03 16:06:54,361: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0334347
+2025-04-03 16:06:54,391: INFO  – ---> Command: CustomCommand - Elapsed time: 00:00:00.0095617
+2025-04-03 16:07:01,230: INFO  – ---> Command: SaveAll - Elapsed time: 00:00:00.3018405
+2025-04-03 16:07:02,660: INFO  – ---> Command: RunMainObject - Elapsed time: 00:00:00.0037460
+2025-04-03 16:07:07,450: INFO  – ---> Command: BuildCommandWrapperUI - Elapsed time: 00:00:04.7876135
+2025-04-03 16:07:56,833: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3863863
+2025-04-03 16:07:57,823: INFO  – ---> Command: RunMainObject - Elapsed time: 00:00:00.0077900
+2025-04-03 16:08:02,695: INFO  – ---> Command: BuildCommandWrapperUI - Elapsed time: 00:00:04.8615872
+2025-04-03 16:08:14,472: INFO  – ---> Command: Contents - Elapsed time: 00:00:00.3902342
+2025-04-03 16:08:15,183: INFO  – ---> Command: Contents - Elapsed time: 00:00:00.0543078
+2025-04-03 16:08:59,721: INFO  – ---> Command: Cut - Elapsed time: 00:00:00.0172473
+2025-04-03 16:09:00,137: ERROR – error src0279: Missing 'event' reserved word to start an event block. (Web Panel 'General.Calculadora' Events, Line: 3, Char: 1, , Details, )
+2025-04-03 16:09:00,137: ERROR – error src0253: Event name is missing. (Web Panel 'General.Calculadora' Events, Line: 3, Char: 1, , Details, )
+2025-04-03 16:09:00,138: INFO  – ---> Command: Save - Elapsed time: 00:00:00.1054636
+2025-04-03 16:09:03,898: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0300641
+2025-04-03 16:09:06,169: INFO  – ---> Command: Cut - Elapsed time: 00:00:00.0173319
+2025-04-03 16:09:06,863: INFO  – ---> Command: Save - Elapsed time: 00:00:00.4479981
+2025-04-03 16:09:08,170: INFO  – ---> Command: RunMainObject - Elapsed time: 00:00:00.0022295
+2025-04-03 16:09:18,910: INFO  – ---> Command: BuildCommandWrapperUI - Elapsed time: 00:00:10.7306626
+2025-04-03 16:09:23,393: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0184945
+2025-04-03 16:09:28,053: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0139349
+2025-04-03 16:09:28,345: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0174698
+2025-04-03 16:09:28,562: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0104219
+2025-04-03 16:09:28,789: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0058440
+2025-04-03 16:09:29,013: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0054953
+2025-04-03 16:09:29,221: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0055332
+2025-04-03 16:09:29,404: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0051218
+2025-04-03 16:09:29,590: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0061443
+2025-04-03 16:09:29,765: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0062134
+2025-04-03 16:09:29,957: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0051661
+2025-04-03 16:09:30,141: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0052941
+2025-04-03 16:09:30,325: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0060537
+2025-04-03 16:09:30,533: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0053886
+2025-04-03 16:09:30,717: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0054605
+2025-04-03 16:09:30,918: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0060722
+2025-04-03 16:09:31,116: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0053622
+2025-04-03 16:09:31,325: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0059871
+2025-04-03 16:09:31,533: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0054462
+2025-04-03 16:09:31,758: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0064058
+2025-04-03 16:09:31,985: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0056954
+2025-04-03 16:09:32,188: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0053616
+2025-04-03 16:09:32,415: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0078983
+2025-04-03 16:09:32,629: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0058643
+2025-04-03 16:09:32,829: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0057353
+2025-04-03 16:09:34,720: INFO  – ---> Command: Redo - Elapsed time: 00:00:00.0075421
+2025-04-03 16:09:36,139: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3638192
+2025-04-03 16:10:31,015: INFO  – ---> Command: Copy - Elapsed time: 00:00:00.0019062
+2025-04-03 16:10:32,010: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0058492
+2025-04-03 16:10:40,615: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0055368
+2025-04-03 16:10:42,564: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0056365
+2025-04-03 16:10:43,414: INFO  – ---> Command: Save - Elapsed time: 00:00:00.4363122
+2025-04-03 16:10:44,150: INFO  – ---> Command: RunMainObject - Elapsed time: 00:00:00.0023608
+2025-04-03 16:10:49,108: INFO  – ---> Command: BuildCommandWrapperUI - Elapsed time: 00:00:04.9400127
+2025-04-03 16:11:03,105: INFO  – ---> Command: Copy - Elapsed time: 00:00:00.0020824
+2025-04-03 16:11:04,371: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0109977
+2025-04-03 16:11:05,161: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0103761
+2025-04-03 16:11:05,987: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0110266
+2025-04-03 16:11:06,656: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3928317
+2025-04-03 16:11:54,440: INFO  – ---> Command: Save - Elapsed time: 00:00:00.4007138
+2025-04-03 16:11:55,354: INFO  – ---> Command: RunMainObject - Elapsed time: 00:00:00.0024861
+2025-04-03 16:11:59,985: INFO  – ---> Command: BuildCommandWrapperUI - Elapsed time: 00:00:04.6258772
+2025-04-03 16:12:44,690: INFO  – ---> Command: Copy - Elapsed time: 00:00:00.0007795
+2025-04-03 16:14:50,814: INFO  – ---> Command: Copy - Elapsed time: 00:00:00.0018259
+2025-04-03 16:15:00,804: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0061759
+2025-04-03 16:15:02,335: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0057409
+2025-04-03 16:15:03,474: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0060334
+2025-04-03 16:15:04,340: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3882506
+2025-04-03 16:15:05,903: INFO  – ---> Command: RunMainObject - Elapsed time: 00:00:00.0084356
+2025-04-03 16:15:15,441: INFO  – ---> Command: BuildCommandWrapperUI - Elapsed time: 00:00:09.5330866
+2025-04-03 16:15:26,581: INFO  – ---> Command: BuildCommandWrapperUI - Elapsed time: 00:00:09.8610972
+2025-04-03 16:16:13,744: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0039206
+2025-04-03 16:16:16,275: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0044408
+2025-04-03 16:16:16,694: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0029893
+2025-04-03 16:16:17,714: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0049109
+2025-04-03 16:16:18,094: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0025101
+2025-04-03 16:16:19,284: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0046386
+2025-04-03 16:16:19,644: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0024521
+2025-04-03 16:16:20,534: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0045473
+2025-04-03 16:16:20,868: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0024030
+2025-04-03 16:16:22,295: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0085005
+2025-04-03 16:16:23,494: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0043918
+2025-04-03 16:16:23,884: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0024253
+2025-04-03 16:16:25,395: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0044272
+2025-04-03 16:16:26,250: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0053191
+2025-04-03 16:16:27,285: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0038217
+2025-04-03 16:16:30,296: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0044529
+2025-04-03 16:16:30,585: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0023984
+2025-04-03 16:16:33,094: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0042532
+2025-04-03 16:16:33,425: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0023186
+2025-04-03 16:16:35,315: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0044619
+2025-04-03 16:16:35,685: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0023472
+2025-04-03 16:16:37,579: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0044934
+2025-04-03 16:16:38,108: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0045921
+2025-04-03 16:16:42,244: INFO  – ---> Command: Save - Elapsed time: 00:00:00.4074937
+2025-04-03 16:16:45,056: INFO  – ---> Command: BuildAll - Elapsed time: 00:00:00.0078719
+2025-04-03 16:16:54,478: INFO  – ---> Command: BuildCommandWrapperUI - Elapsed time: 00:00:09.4132052
+2025-04-03 16:17:53,774: INFO  – ---> Command: CustomCommand - Elapsed time: 00:00:00.4520890
+2025-04-03 16:17:54,644: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.2211768
+2025-04-03 16:18:40,443: INFO  – ---> Command: CustomCommand - Elapsed time: 00:00:00.0006187
+2025-04-03 16:18:53,924: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3806465
+2025-04-03 16:19:21,170: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3313954
+2025-04-03 16:19:23,925: INFO  – ---> Command: BuildAll - Elapsed time: 00:00:00.0037635
+2025-04-03 16:19:33,642: INFO  – ---> Command: BuildCommandWrapperUI - Elapsed time: 00:00:09.7142599
+2025-04-03 16:20:23,904: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3988385
+2025-04-03 16:20:25,224: INFO  – ---> Command: SaveAll - Elapsed time: 00:00:00.0008120
+2025-04-03 16:20:36,476: INFO  – ---> Command: CustomCommand - Elapsed time: 00:00:00.0019884
+2025-04-03 16:21:12,424: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3698626
+2025-04-03 16:22:26,362: ERROR – error src0057: Expecting 'EndIf' command to close the 'If' block (Web Panel 'General.Calculadora' Events, Line: 4, Char: 1, , Details, )
+2025-04-03 16:22:26,363: ERROR – error src0053: '!' is an invalid character. (Web Panel 'General.Calculadora' Events, Line: 4, Char: 31, , Details, )
+2025-04-03 16:22:26,363: ERROR – error src0086: This code must be inside an 'Event' or 'Subroutine' definition. (Web Panel 'General.Calculadora' Events, Line: 16, Char: 9, , Details, )
+2025-04-03 16:22:26,363: INFO  – ---> Command: Save - Elapsed time: 00:00:00.0833430
+2025-04-03 16:22:35,745: ERROR – error src0057: Expecting 'EndIf' command to close the 'If' block (Web Panel 'General.Calculadora' Events, Line: 4, Char: 1, , Details, )
+2025-04-03 16:22:35,745: ERROR – error src0054: '{0}' is an unexpected expression. (Web Panel 'General.Calculadora' Events, Line: 4, Char: 15, , Details, )
+2025-04-03 16:22:35,745: ERROR – error src0053: '!' is an invalid character. (Web Panel 'General.Calculadora' Events, Line: 4, Char: 32, , Details, )
+2025-04-03 16:22:35,746: ERROR – error src0054: '{0}' is an unexpected expression. (Web Panel 'General.Calculadora' Events, Line: 4, Char: 32, , Details, )
+2025-04-03 16:22:35,746: ERROR – error src0052: Unexpected command 'case' (Web Panel 'General.Calculadora' Events, Line: 6, Char: 1, , Details, )
+2025-04-03 16:22:35,746: ERROR – error src0054: '{0}' is an unexpected expression. (Web Panel 'General.Calculadora' Events, Line: 6, Char: 6, , Details, )
+2025-04-03 16:22:35,747: ERROR – error src0054: '{0}' is an unexpected expression. (Web Panel 'General.Calculadora' Events, Line: 7, Char: 1, , Details, )
+2025-04-03 16:22:35,747: ERROR – error src0052: Unexpected command 'case' (Web Panel 'General.Calculadora' Events, Line: 8, Char: 1, , Details, )
+2025-04-03 16:22:35,747: ERROR – error src0054: '{0}' is an unexpected expression. (Web Panel 'General.Calculadora' Events, Line: 8, Char: 6, , Details, )
+2025-04-03 16:22:35,747: ERROR – error src0054: '{0}' is an unexpected expression. (Web Panel 'General.Calculadora' Events, Line: 9, Char: 1, , Details, )
+2025-04-03 16:22:35,747: ERROR – error src0052: Unexpected command 'case' (Web Panel 'General.Calculadora' Events, Line: 10, Char: 1, , Details, )
+2025-04-03 16:22:35,748: ERROR – error src0054: '{0}' is an unexpected expression. (Web Panel 'General.Calculadora' Events, Line: 10, Char: 6, , Details, )
+2025-04-03 16:22:35,748: ERROR – error src0054: '{0}' is an unexpected expression. (Web Panel 'General.Calculadora' Events, Line: 11, Char: 1, , Details, )
+2025-04-03 16:22:35,748: ERROR – error src0052: Unexpected command 'case' (Web Panel 'General.Calculadora' Events, Line: 12, Char: 1, , Details, )
+2025-04-03 16:22:35,748: ERROR – error src0054: '{0}' is an unexpected expression. (Web Panel 'General.Calculadora' Events, Line: 12, Char: 6, , Details, )
+2025-04-03 16:22:35,749: ERROR – error src0054: '{0}' is an unexpected expression. (Web Panel 'General.Calculadora' Events, Line: 13, Char: 1, , Details, )
+2025-04-03 16:22:35,749: ERROR – error src0052: Unexpected command 'endcase' (Web Panel 'General.Calculadora' Events, Line: 14, Char: 1, , Details, )
+2025-04-03 16:22:35,749: ERROR – error src0052: Unexpected command 'endif' (Web Panel 'General.Calculadora' Events, Line: 15, Char: 1, , Details, )
+2025-04-03 16:22:35,749: ERROR – error src0086: This code must be inside an 'Event' or 'Subroutine' definition. (Web Panel 'General.Calculadora' Events, Line: 16, Char: 9, , Details, )
+2025-04-03 16:22:35,750: INFO  – ---> Command: Save - Elapsed time: 00:00:00.0832994
+2025-04-03 16:25:00,731: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0051681
+2025-04-03 16:25:00,938: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0035252
+2025-04-03 16:25:01,114: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0033578
+2025-04-03 16:25:01,304: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0032098
+2025-04-03 16:25:01,504: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0034972
+2025-04-03 16:25:05,994: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0047166
+2025-04-03 16:25:17,195: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0047346
+2025-04-03 16:25:17,698: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0030586
+2025-04-03 16:25:17,731: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0029822
+2025-04-03 16:25:17,764: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0029747
+2025-04-03 16:25:17,795: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0037368
+2025-04-03 16:25:17,825: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0029127
+2025-04-03 16:25:17,856: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0029428
+2025-04-03 16:25:17,888: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0036752
+2025-04-03 16:25:17,933: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0032389
+2025-04-03 16:25:17,965: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0028548
+2025-04-03 16:25:17,997: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0034004
+2025-04-03 16:25:18,028: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0032146
+2025-04-03 16:25:18,059: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0032284
+2025-04-03 16:25:18,091: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0038407
+2025-04-03 16:25:18,120: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0029383
+2025-04-03 16:25:18,516: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0029800
+2025-04-03 16:25:18,864: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0028459
+2025-04-03 16:25:19,104: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0030511
+2025-04-03 16:25:19,326: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0029415
+2025-04-03 16:25:19,569: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0030034
+2025-04-03 16:25:28,117: ERROR – error src0265: Invalid attribute 'null' (Web Panel 'General.Calculadora' Events, Line: 4, Char: 19, , Details, )
+2025-04-03 16:25:28,117: INFO  – ---> Command: Save - Elapsed time: 00:00:00.0868307
+2025-04-03 16:26:04,114: INFO  – ---> Command: Cut - Elapsed time: 00:00:00.0069228
+2025-04-03 16:26:05,995: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0051220
+2025-04-03 16:26:11,517: ERROR – error src0201: 'isNull' argument 1: invalid type (Web Panel 'General.Calculadora' Events, Line: 4, Char: 16, , Details, )
+2025-04-03 16:26:11,517: INFO  – ---> Command: Save - Elapsed time: 00:00:00.1396888
+2025-04-03 16:26:22,714: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0047175
+2025-04-03 16:26:24,247: ERROR – error src0201: 'isNull' argument 1: invalid type (Web Panel 'General.Calculadora' Events, Line: 4, Char: 11, , Details, )
+2025-04-03 16:26:24,248: INFO  – ---> Command: Save - Elapsed time: 00:00:00.0893199
+2025-04-03 16:26:27,798: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0046711
+2025-04-03 16:26:28,206: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0048182
+2025-04-03 16:26:28,680: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0049417
+2025-04-03 16:26:29,125: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0049806
+2025-04-03 16:26:29,460: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0052128
+2025-04-03 16:26:29,804: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0054645
+2025-04-03 16:26:30,732: ERROR – error src0201: 'isNull' argument 1: invalid type (Web Panel 'General.Calculadora' Events, Line: 4, Char: 12, , Details, )
+2025-04-03 16:26:30,733: INFO  – ---> Command: Save - Elapsed time: 00:00:00.0855368
+2025-04-03 16:26:30,974: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0069609
+2025-04-03 16:26:32,204: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0048770
+2025-04-03 16:26:32,644: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0050727
+2025-04-03 16:26:34,354: INFO  – ---> Command: Redo - Elapsed time: 00:00:00.0045864
+2025-04-03 16:26:34,524: INFO  – ---> Command: Redo - Elapsed time: 00:00:00.0054060
+2025-04-03 16:26:34,838: INFO  – ---> Command: Redo - Elapsed time: 00:00:00.0046700
+2025-04-03 16:26:35,075: INFO  – ---> Command: Redo - Elapsed time: 00:00:00.0057384
+2025-04-03 16:26:35,767: ERROR – error src0201: 'isNull' argument 1: invalid type (Web Panel 'General.Calculadora' Events, Line: 4, Char: 16, , Details, )
+2025-04-03 16:26:35,767: INFO  – ---> Command: Save - Elapsed time: 00:00:00.0806841
+2025-04-03 16:26:43,333: ERROR – error src0201: 'isNull' argument 1: invalid type (Web Panel 'General.Calculadora' Events, Line: 4, Char: 11, , Details, )
+2025-04-03 16:26:43,333: INFO  – ---> Command: Save - Elapsed time: 00:00:00.1101021
+2025-04-03 16:26:58,665: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0053156
+2025-04-03 16:26:59,694: ERROR – error src0201: 'isNull' argument 1: invalid type (Web Panel 'General.Calculadora' Events, Line: 4, Char: 11, , Details, )
+2025-04-03 16:26:59,694: INFO  – ---> Command: Save - Elapsed time: 00:00:00.0796393
+2025-04-03 16:27:55,581: ERROR – error src0201: 'IsNull' argument 1: invalid type (Web Panel 'General.Calculadora' Events, Line: 4, Char: 11, , Details, )
+2025-04-03 16:27:55,581: INFO  – ---> Command: Save - Elapsed time: 00:00:00.1189828
+2025-04-03 16:28:33,364: ERROR – error src0051: Unexpected expression (Web Panel 'General.Calculadora' Events, Line: 5, Char: 8, , Details, )
+2025-04-03 16:28:33,365: INFO  – ---> Command: Save - Elapsed time: 00:00:00.0939567
+2025-04-03 16:28:37,434: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0044648
+2025-04-03 16:28:39,370: ERROR – error src0294: Unknown function 'IsEmpty' (Web Panel 'General.Calculadora' Events, Line: 4, Char: 13, , Details, )
+2025-04-03 16:28:39,370: INFO  – ---> Command: Save - Elapsed time: 00:00:00.1152045
+2025-04-03 16:29:42,474: INFO  – ---> Command: Save - Elapsed time: 00:00:00.4143652
+2025-04-03 16:31:23,674: INFO  – ---> Command: AddVariable - Elapsed time: 00:00:00.0066357
+2025-04-03 16:31:28,539: INFO  – ---> Command: Save - Elapsed time: 00:00:00.4053167
+2025-04-03 16:31:34,744: INFO  – ---> Command: SaveAll - Elapsed time: 00:00:00.0012026
+2025-04-03 16:32:12,879: INFO  – ---> Command: Save - Elapsed time: 00:00:00.4000204
+2025-04-03 16:32:15,347: INFO  – ---> Command: Cut - Elapsed time: 00:00:00.0179091
+2025-04-03 16:32:16,958: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0079883
+2025-04-03 16:32:17,555: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3224892
+2025-04-03 16:32:18,034: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0192557
+2025-04-03 16:32:18,374: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0091928
+2025-04-03 16:32:19,274: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0046146
+2025-04-03 16:32:33,919: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3242856
+2025-04-03 16:32:47,365: INFO  – ---> Command: Cut - Elapsed time: 00:00:00.0067583
+2025-04-03 16:32:49,404: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0089645
+2025-04-03 16:32:50,064: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3850898
+2025-04-03 16:34:11,894: INFO  – ---> Command: Cut - Elapsed time: 00:00:00.0058523
+2025-04-03 16:34:17,534: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0045603
+2025-04-03 16:34:18,219: INFO  – ---> Command: Save - Elapsed time: 00:00:00.4121499
+2025-04-03 16:34:28,104: INFO  – ---> Command: Copy - Elapsed time: 00:00:00.0015773
+2025-04-03 16:34:31,494: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0077669
+2025-04-03 16:34:33,784: INFO  – ---> Command: Cut - Elapsed time: 00:00:00.0058433
+2025-04-03 16:34:39,514: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0044050
+2025-04-03 16:34:40,055: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3188582
+2025-04-03 16:35:06,824: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0166558
+2025-04-03 16:35:07,074: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0146525
+2025-04-03 16:35:07,294: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0064079
+2025-04-03 16:35:07,494: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0063709
+2025-04-03 16:35:07,724: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0062558
+2025-04-03 16:35:07,944: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0063363
+2025-04-03 16:35:08,194: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0064435
+2025-04-03 16:35:08,424: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0051940
+2025-04-03 16:35:08,629: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0076095
+2025-04-03 16:35:08,794: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0047120
+2025-04-03 16:35:08,986: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0116956
+2025-04-03 16:35:09,170: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0109664
+2025-04-03 16:35:09,624: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0086269
+2025-04-03 16:35:09,914: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0132999
+2025-04-03 16:35:10,188: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0083373
+2025-04-03 16:35:10,674: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0065901
+2025-04-03 16:35:11,024: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0045598
+2025-04-03 16:35:11,360: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0120954
+2025-04-03 16:35:11,714: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0081310
+2025-04-03 16:35:11,994: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0040798
+2025-04-03 16:35:12,237: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0040990
+2025-04-03 16:35:12,594: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0040046
+2025-04-03 16:35:12,818: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0041583
+2025-04-03 16:35:13,119: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0115231
+2025-04-03 16:35:13,404: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0067849
+2025-04-03 16:35:13,716: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0086237
+2025-04-03 16:35:13,994: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0056755
+2025-04-03 16:35:14,258: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0047860
+2025-04-03 16:35:14,514: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0049406
+2025-04-03 16:35:14,779: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0046170
+2025-04-03 16:35:15,004: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0044783
+2025-04-03 16:35:15,384: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0096957
+2025-04-03 16:35:16,012: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0212285
+2025-04-03 16:35:17,584: INFO  – ---> Command: Redo - Elapsed time: 00:00:00.0130084
+2025-04-03 16:35:18,519: INFO  – ---> Command: Save - Elapsed time: 00:00:00.4086230
+2025-04-03 16:36:45,024: INFO  – ---> Command: NewObject - Elapsed time: 00:00:13.0945592
+2025-04-03 16:37:16,278: ERROR – error src0056: Missed ';' at the end of the rule. (Procedure 'General.ChecaVazio' Rules, Line: 1, Char: 1, , Details, )
+2025-04-03 16:37:16,279: INFO  – ---> Command: Save - Elapsed time: 00:00:00.0482542
+2025-04-03 16:37:18,924: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3017514
+2025-04-03 16:37:28,954: INFO  – ---> Command: AddVariable - Elapsed time: 00:00:00.0063854
+2025-04-03 16:38:10,037: INFO  – ---> Command: Cut - Elapsed time: 00:00:00.0067310
+2025-04-03 16:38:11,555: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0068387
+2025-04-03 16:38:11,883: ERROR – error src0057: Expecting 'EndIf' command to close the 'If' block (Procedure 'General.ChecaVazio' Source, Line: 1, Char: 1, , Details, )
+2025-04-03 16:38:11,884: ERROR – error src0052: Unexpected command '{0}' (Procedure 'General.ChecaVazio' Source, Line: 4, Char: 1, , Details, )
+2025-04-03 16:38:11,884: ERROR – error src0054: 'false' is an unexpected expression. (Procedure 'General.ChecaVazio' Source, Line: 5, Char: 8, , Details, )
+2025-04-03 16:38:11,884: ERROR – error src0052: Unexpected command 'endif' (Procedure 'General.ChecaVazio' Source, Line: 6, Char: 1, , Details, )
+2025-04-03 16:38:11,884: INFO  – ---> Command: Save - Elapsed time: 00:00:00.0379927
+2025-04-03 16:38:22,702: ERROR – error src0057: Expecting 'EndIf' command to close the 'If' block (Procedure 'General.ChecaVazio' Source, Line: 1, Char: 1, , Details, )
+2025-04-03 16:38:22,702: ERROR – error src0052: Unexpected command '{0}' (Procedure 'General.ChecaVazio' Source, Line: 3, Char: 1, , Details, )
+2025-04-03 16:38:22,704: ERROR – error src0054: 'false' is an unexpected expression. (Procedure 'General.ChecaVazio' Source, Line: 4, Char: 8, , Details, )
+2025-04-03 16:38:22,704: ERROR – error src0052: Unexpected command 'endif' (Procedure 'General.ChecaVazio' Source, Line: 5, Char: 1, , Details, )
+2025-04-03 16:38:22,704: INFO  – ---> Command: Save - Elapsed time: 00:00:00.0488745
+2025-04-03 16:38:45,538: ERROR – error src0057: Expecting 'EndIf' command to close the 'If' block (Procedure 'General.ChecaVazio' Source, Line: 1, Char: 1, , Details, )
+2025-04-03 16:38:45,538: ERROR – error src0052: Unexpected command '{0}' (Procedure 'General.ChecaVazio' Source, Line: 3, Char: 1, , Details, )
+2025-04-03 16:38:45,539: ERROR – error src0054: 'false' is an unexpected expression. (Procedure 'General.ChecaVazio' Source, Line: 4, Char: 8, , Details, )
+2025-04-03 16:38:45,539: ERROR – error src0052: Unexpected command 'endif' (Procedure 'General.ChecaVazio' Source, Line: 5, Char: 1, , Details, )
+2025-04-03 16:38:45,539: INFO  – ---> Command: Save - Elapsed time: 00:00:00.0285199
+2025-04-03 16:38:59,664: INFO  – ---> Command: Cut - Elapsed time: 00:00:00.0057880
+2025-04-03 16:39:01,533: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0077563
+2025-04-03 16:39:01,818: ERROR – error src0057: Expecting 'EndIf' command to close the 'If' block (Procedure 'General.ChecaVazio' Source, Line: 1, Char: 1, , Details, )
+2025-04-03 16:39:01,819: ERROR – error src0052: Unexpected command 'endif' (Procedure 'General.ChecaVazio' Source, Line: 3, Char: 1, , Details, )
+2025-04-03 16:39:01,819: ERROR – error src0052: Unexpected command '{0}' (Procedure 'General.ChecaVazio' Source, Line: 4, Char: 1, , Details, )
+2025-04-03 16:39:01,819: ERROR – error src0054: 'false' is an unexpected expression. (Procedure 'General.ChecaVazio' Source, Line: 5, Char: 8, , Details, )
+2025-04-03 16:39:01,820: INFO  – ---> Command: Save - Elapsed time: 00:00:00.0280574
+2025-04-03 16:39:06,344: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0057941
+2025-04-03 16:39:06,964: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0099104
+2025-04-03 16:39:08,156: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0045270
+2025-04-03 16:39:46,547: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0041132
+2025-04-03 16:39:46,734: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0019892
+2025-04-03 16:39:47,788: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0019546
+2025-04-03 16:39:52,406: ERROR – error src0119: ';' not longer supported as command separator; remove it. (Procedure 'General.ChecaVazio' Source, Line: 4, Char: 5, , Details, )
+2025-04-03 16:39:52,406: ERROR – error src0119: ';' not longer supported as command separator; remove it. (Procedure 'General.ChecaVazio' Source, Line: 6, Char: 6, , Details, )
+2025-04-03 16:39:52,407: INFO  – ---> Command: Save - Elapsed time: 00:00:00.0478102
+2025-04-03 16:39:57,660: ERROR – error src0294: Unknown function 'IsEmpty' (Procedure 'General.ChecaVazio' Source, Line: 2, Char: 16, , Details, )
+2025-04-03 16:39:57,660: INFO  – ---> Command: Save - Elapsed time: 00:00:00.0780616
+2025-04-03 16:40:15,494: INFO  – ---> Command: Cut - Elapsed time: 00:00:00.0114692
+2025-04-03 16:40:17,694: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0087172
+2025-04-03 16:40:18,230: ERROR – error src0018: Error parsing starting in &checaVazio=1 (Details, )
+2025-04-03 16:40:18,230: INFO  – ---> Command: Save - Elapsed time: 00:00:00.0242922
+2025-04-03 16:40:20,779: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0142805
+2025-04-03 16:40:23,074: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0138598
+2025-04-03 16:40:23,568: ERROR – error src0294: Unknown function 'IsEmpty' (Procedure 'General.ChecaVazio' Source, Line: 2, Char: 16, , Details, )
+2025-04-03 16:40:23,568: INFO  – ---> Command: Save - Elapsed time: 00:00:00.0813562
+2025-04-03 16:40:35,614: INFO  – ---> Command: Save - Elapsed time: 00:00:00.2803534
+2025-04-03 16:40:47,604: INFO  – ---> Command: Save - Elapsed time: 00:00:00.1669306
+2025-04-03 16:40:54,464: INFO  – ---> Command: Save - Elapsed time: 00:00:00.1609301
+2025-04-03 16:46:49,606: ERROR – error src0057: Expecting 'EndIf' command to close the 'If' block (Web Panel 'General.Calculadora' Events, Line: 22, Char: 1, , Details, )
+2025-04-03 16:46:49,607: INFO  – ---> Command: Save - Elapsed time: 00:00:00.1927471
+2025-04-03 16:46:58,141: INFO  – ---> Command: Cut - Elapsed time: 00:00:00.0068711
+2025-04-03 16:47:00,683: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0051307
+2025-04-03 16:47:01,328: INFO  – ---> Command: Save - Elapsed time: 00:00:00.4096707
+2025-04-03 16:47:05,601: INFO  – ---> Command: RunMainObject - Elapsed time: 00:00:00.0028952
+2025-04-03 16:47:10,913: INFO  – ---> Command: BuildCommandWrapperUI - Elapsed time: 00:00:05.3089578
+2025-04-03 16:47:26,104: INFO  – ---> Command: Copy - Elapsed time: 00:00:00.0018007
+2025-04-03 16:47:27,329: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0034985
+2025-04-03 16:47:27,558: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0083567
+2025-04-03 16:47:30,541: INFO  – ---> Command: Save - Elapsed time: 00:00:00.1833831
+2025-04-03 16:47:35,739: INFO  – ---> Command: Save - Elapsed time: 00:00:00.1649987
+2025-04-03 16:47:40,542: INFO  – ---> Command: BuildAll - Elapsed time: 00:00:00.0042205
+2025-04-03 16:47:51,737: INFO  – ---> Command: BuildCommandWrapperUI - Elapsed time: 00:00:11.1940172
+2025-04-03 16:48:38,803: INFO  – ---> Command: Save - Elapsed time: 00:00:00.4126972
+2025-04-03 16:48:43,776: INFO  – ---> Command: BuildSelectedObjectOnly - Elapsed time: 00:00:00.0084595
+2025-04-03 16:48:56,548: INFO  – ---> Command: BuildCommandWrapperUI - Elapsed time: 00:00:12.7603966
+2025-04-03 16:49:11,406: INFO  – ---> Command: BuildCommandWrapperUI - Elapsed time: 00:00:00.3984507
+2025-04-03 16:49:11,450: INFO  – ---> Command: BuildCommandWrapperUI - Elapsed time: 00:00:01.9614133
+2025-04-03 16:50:21,839: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0091536
+2025-04-03 16:50:22,616: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0181295
+2025-04-03 16:50:23,298: INFO  – ---> Command: Save - Elapsed time: 00:00:00.4122984
+2025-04-03 16:52:47,183: INFO  – ---> Command: Copy - Elapsed time: 00:00:00.0011688
+2025-04-03 16:52:51,795: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0055201
+2025-04-03 16:52:54,865: INFO  – ---> Command: Cut - Elapsed time: 00:00:00.0188943
+2025-04-03 16:52:58,690: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0049023
+2025-04-03 16:52:59,182: INFO  – ---> Command: SelectAll - Elapsed time: 00:00:00.0163865
+2025-04-03 16:53:06,107: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0052870
+2025-04-03 16:53:07,435: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0048964
+2025-04-03 16:53:10,793: INFO  – ---> Command: Copy - Elapsed time: 00:00:00.0021457
+2025-04-03 16:53:13,203: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0051956
+2025-04-03 16:53:15,081: INFO  – ---> Command: Cut - Elapsed time: 00:00:00.0061136
+2025-04-03 16:53:18,876: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0054728
+2025-04-03 16:53:19,581: INFO  – ---> Command: Save - Elapsed time: 00:00:00.4146383
+2025-04-03 16:53:28,043: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0054252
+2025-04-03 16:53:30,510: INFO  – ---> Command: Cut - Elapsed time: 00:00:00.0074603
+2025-04-03 16:53:35,883: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0048906
+2025-04-03 16:53:36,469: INFO  – ---> Command: Save - Elapsed time: 00:00:00.4071919
+2025-04-03 16:54:12,515: INFO  – ---> Command: BuildSelectedObjectOnly - Elapsed time: 00:00:00.0042854
+2025-04-03 16:54:22,904: INFO  – ---> Command: BuildCommandWrapperUI - Elapsed time: 00:00:10.3867644
+2025-04-03 16:54:48,040: INFO  – ---> Command: Copy - Elapsed time: 00:00:00.0019279
+2025-04-03 16:54:50,715: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0061908
+2025-04-03 16:54:57,884: ERROR – error src0057: Expecting 'EndIf' command to close the 'If' block (Web Panel 'General.Calculadora' Events, Line: 22, Char: 1, , Details, )
+2025-04-03 16:54:57,884: INFO  – ---> Command: Save - Elapsed time: 00:00:00.0899160
+2025-04-03 16:55:02,102: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3927704
+2025-04-03 16:55:06,328: INFO  – ---> Command: Copy - Elapsed time: 00:00:00.0020222
+2025-04-03 16:55:11,148: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0056288
+2025-04-03 16:55:17,716: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0053487
+2025-04-03 16:55:24,219: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0050876
+2025-04-03 16:55:28,611: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3409447
+2025-04-03 16:55:39,885: INFO  – ---> Command: Cut - Elapsed time: 00:00:00.0178588
+2025-04-03 16:55:41,451: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0045520
+2025-04-03 16:55:50,626: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3971570
+2025-04-03 16:56:31,975: INFO  – ---> Command: Copy - Elapsed time: 00:00:00.0009427
+2025-04-03 16:56:33,743: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0092563
+2025-04-03 16:56:35,291: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0056864
+2025-04-03 16:56:37,890: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0096457
+2025-04-03 16:56:39,349: INFO  – ---> Command: Cut - Elapsed time: 00:00:00.0070301
+2025-04-03 16:56:40,707: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0051442
+2025-04-03 16:56:45,903: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0061389
+2025-04-03 16:56:55,321: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0110435
+2025-04-03 16:57:13,755: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0052167
+2025-04-03 16:57:14,042: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0096823
+2025-04-03 16:57:14,241: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0111737
+2025-04-03 16:57:14,443: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0058043
+2025-04-03 16:57:14,652: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0069743
+2025-04-03 16:57:15,148: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0057225
+2025-04-03 16:57:15,492: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0057287
+2025-04-03 16:57:16,884: INFO  – ---> Command: Redo - Elapsed time: 00:00:00.0058419
+2025-04-03 16:57:24,370: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3886283
+2025-04-03 16:57:26,888: INFO  – ---> Command: Cut - Elapsed time: 00:00:00.0182459
+2025-04-03 16:57:28,175: INFO  – ---> Command: ToggleBookmark - Elapsed time: 00:00:00.0010434
+2025-04-03 16:57:28,675: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0054920
+2025-04-03 16:57:30,262: INFO  – ---> Command: ToggleBookmark - Elapsed time: 00:00:00.0005395
+2025-04-03 16:57:37,168: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3388465
+2025-04-03 16:57:57,509: INFO  – ---> Command: Save - Elapsed time: 00:00:00.4289838
+2025-04-03 16:58:04,187: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3489794
+2025-04-03 16:58:11,574: INFO  – ---> Command: Cut - Elapsed time: 00:00:00.0167788
+2025-04-03 16:58:17,946: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3479415
+2025-04-03 16:58:24,114: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3401820
+2025-04-03 16:58:35,537: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3308946
+2025-04-03 16:59:33,768: INFO  – ---> Command: NewObject - Elapsed time: 00:00:06.2342525
+2025-04-03 16:59:57,986: ERROR – error src0056: Missed ';' at the end of the rule. (Procedure 'General.MensagemUsuario' Rules, Line: 1, Char: 1, , Details, )
+2025-04-03 16:59:57,986: INFO  – ---> Command: Save - Elapsed time: 00:00:00.0287581
+2025-04-03 17:00:03,625: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3397900
+2025-04-03 17:00:17,914: INFO  – ---> Command: Save - Elapsed time: 00:00:00.2207919
+2025-04-03 17:01:03,569: INFO  – ---> Command: Delete - Elapsed time: 00:00:01.8359264
+2025-04-03 17:01:37,287: INFO  – ---> Command: NewObject - Elapsed time: 00:00:32.1371840
+2025-04-03 17:02:05,862: ERROR – error src0056: Missed ';' at the end of the rule. (Procedure 'General.MsgUsuario' Rules, Line: 1, Char: 1, , Details, )
+2025-04-03 17:02:10,673: INFO  – ---> Command: Save - Elapsed time: 00:00:00.2671051
+2025-04-03 17:02:15,635: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0065970
+2025-04-03 17:02:16,242: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0043460
+2025-04-03 17:02:16,578: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0044905
+2025-04-03 17:02:16,858: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0044238
+2025-04-03 17:02:17,082: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0046777
+2025-04-03 17:02:19,646: ERROR – error src0056: Missed ';' at the end of the rule. (Procedure 'General.MsgUsuario' Rules, Line: 1, Char: 1, , Details, )
+2025-04-03 17:02:19,646: INFO  – ---> Command: Save - Elapsed time: 00:00:00.0409850
+2025-04-03 17:02:22,244: INFO  – ---> Command: Save - Elapsed time: 00:00:00.2150415
+2025-04-03 17:02:35,696: ERROR – error src0119: ';' not longer supported as command separator; remove it. (Procedure 'General.MsgUsuario' Source, Line: 2, Char: 1, , Details, )
+2025-04-03 17:02:35,697: INFO  – ---> Command: Save - Elapsed time: 00:00:00.0271413
+2025-04-03 17:02:40,583: INFO  – ---> Command: Save - Elapsed time: 00:00:01.9684588
+2025-04-03 17:02:42,828: INFO  – ---> Command: Save - Elapsed time: 00:00:00.1737628
+2025-04-03 17:02:59,101: INFO  – ---> Command: Delete - Elapsed time: 00:00:01.3674351
+2025-04-03 17:03:01,654: INFO  – ---> Command: Save - Elapsed time: 00:00:00.1758650
+2025-04-03 17:03:08,665: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0192301
+2025-04-03 17:03:09,402: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0048354
+2025-04-03 17:03:10,210: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0122900
+2025-04-03 17:03:10,818: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0050320
+2025-04-03 17:03:24,077: INFO  – ---> Command: Cut - Elapsed time: 00:00:00.0070082
+2025-04-03 17:03:25,628: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0053215
+2025-04-03 17:03:26,635: INFO  – ---> Command: Copy - Elapsed time: 00:00:00.0014724
+2025-04-03 17:03:33,446: ERROR – error src0052: Unexpected command '{0}' (Web Panel 'General.Calculadora' Events, Line: 51, Char: 1, , Details, )
+2025-04-03 17:03:33,446: INFO  – ---> Command: Save - Elapsed time: 00:00:00.1044741
+2025-04-03 17:03:53,134: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3926963
+2025-04-03 17:03:56,983: INFO  – ---> Command: Copy - Elapsed time: 00:00:00.0018082
+2025-04-03 17:04:02,254: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0160722
+2025-04-03 17:04:03,062: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3359221
+2025-04-03 17:04:06,558: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3278005
+2025-04-03 17:04:09,839: INFO  – ---> Command: Copy - Elapsed time: 00:00:00.0022543
+2025-04-03 17:04:13,541: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0235425
+2025-04-03 17:04:19,523: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0132444
+2025-04-03 17:04:20,107: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3496187
+2025-04-03 17:04:29,851: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0053514
+2025-04-03 17:04:31,505: INFO  – ---> Command: Save - Elapsed time: 00:00:00.4589703
+2025-04-03 17:05:52,353: INFO  – ---> Command: BuildSelectedObjectOnly - Elapsed time: 00:00:00.0026950
+2025-04-03 17:06:04,534: INFO  – ---> Command: BuildCommandWrapperUI - Elapsed time: 00:00:12.1673179
+2025-04-03 17:07:51,232: INFO  – ---> Command: Copy - Elapsed time: 00:00:00.0020767
+2025-04-03 17:08:03,356: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0061902
+2025-04-03 17:08:05,259: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0059207
+2025-04-03 17:08:06,931: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0055597
+2025-04-03 17:08:08,391: INFO  – ---> Command: Save - Elapsed time: 00:00:00.4425594
+2025-04-03 17:08:11,500: INFO  – ---> Command: BuildSelectedObjectOnly - Elapsed time: 00:00:00.0068576
+2025-04-03 17:08:21,411: INFO  – ---> Command: BuildCommandWrapperUI - Elapsed time: 00:00:09.9050562
+2025-04-03 17:09:59,008: INFO  – ---> Command: CustomCommand - Elapsed time: 00:00:02.8612487
+2025-04-03 17:10:00,985: INFO  – ---> Command: Save - Elapsed time: 00:00:00.4357487
+2025-04-03 17:10:03,548: INFO  – ---> Command: BuildSelectedObjectOnly - Elapsed time: 00:00:00.0055450
+2025-04-03 17:10:13,532: INFO  – ---> Command: BuildCommandWrapperUI - Elapsed time: 00:00:09.9742562
+2025-04-03 17:11:05,109: INFO  – ---> Command: Save - Elapsed time: 00:00:00.4559294
+2025-04-03 17:11:11,244: INFO  – ---> Command: BuildSelectedObjectOnly - Elapsed time: 00:00:00.0072078
+2025-04-03 17:11:21,203: INFO  – ---> Command: BuildCommandWrapperUI - Elapsed time: 00:00:09.9527640
+2025-04-03 17:12:30,648: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0192490
+2025-04-03 17:12:31,091: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0050834
+2025-04-03 17:12:31,948: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0060836
+2025-04-03 17:12:32,586: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0050705
+2025-04-03 17:12:32,939: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0055296
+2025-04-03 17:12:33,972: INFO  – ---> Command: Save - Elapsed time: 00:00:00.4305883
+2025-04-03 17:13:16,630: INFO  – ---> Command: Save - Elapsed time: 00:00:00.4256156
+2025-04-03 17:13:21,153: INFO  – ---> Command: BuildSelectedObjectOnly - Elapsed time: 00:00:00.0028352
+2025-04-03 17:13:30,940: INFO  – ---> Command: BuildCommandWrapperUI - Elapsed time: 00:00:09.7830519
+2025-04-03 17:13:44,404: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0185236
+2025-04-03 17:13:45,950: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3775663
+2025-04-03 17:14:01,282: INFO  – ---> Command: Save - Elapsed time: 00:00:00.3491654
+2025-04-03 17:14:19,587: INFO  – ---> Command: Save - Elapsed time: 00:00:00.5173208
+2025-04-03 17:14:23,809: INFO  – ---> Command: BuildSelectedObjectOnly - Elapsed time: 00:00:00.0032444
+2025-04-03 17:14:33,178: INFO  – ---> Command: BuildCommandWrapperUI - Elapsed time: 00:00:09.3601537
+2025-04-03 17:15:52,585: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0120662
+2025-04-03 17:15:52,954: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0123813
+2025-04-03 17:16:02,954: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0050184
+2025-04-03 17:16:08,607: INFO  – ---> Command: Save - Elapsed time: 00:00:00.7215205
+2025-04-03 17:16:13,171: INFO  – ---> Command: BuildSelectedObjectOnly - Elapsed time: 00:00:00.0057451
+2025-04-03 17:16:24,290: INFO  – ---> Command: BuildCommandWrapperUI - Elapsed time: 00:00:11.1104236
+2025-04-03 17:17:01,364: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0161157
+2025-04-03 17:17:01,824: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0053705
+2025-04-03 17:17:02,138: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0102304
+2025-04-03 17:17:02,374: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0055768
+2025-04-03 17:17:02,717: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0084832
+2025-04-03 17:17:02,984: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0067249
+2025-04-03 17:17:03,294: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0108495
+2025-04-03 17:17:03,584: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0053479
+2025-04-03 17:17:04,459: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0175783
+2025-04-03 17:17:06,230: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0114918
+2025-04-03 17:17:07,225: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0062206
+2025-04-03 17:17:08,274: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0057813
+2025-04-03 17:17:08,585: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0057142
+2025-04-03 17:17:08,834: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0049724
+2025-04-03 17:17:09,254: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0084677
+2025-04-03 17:17:11,748: INFO  – ---> Command: Save - Elapsed time: 00:00:00.8204540
+2025-04-03 17:17:42,644: INFO  – ---> Command: Save - Elapsed time: 00:00:00.6808237
+2025-04-03 17:19:33,156: INFO  – ---> Command: RunMainObject - Elapsed time: 00:00:00.0111355
+2025-04-03 17:19:42,424: INFO  – ---> Command: BuildCommandWrapperUI - Elapsed time: 00:00:09.2373070
+2025-04-03 17:19:45,572: INFO  – ---> Command: BuildCommandWrapperUI - Elapsed time: 00:00:00.5187256
+2025-04-03 17:22:10,853: ERROR – error src0052: Unexpected command 'endif' (Web Panel 'General.Calculadora' Events, Line: 30, Char: 1, , Details, )
+2025-04-03 17:22:10,853: INFO  – ---> Command: Save - Elapsed time: 00:00:00.0965437
+2025-04-03 17:22:16,115: INFO  – ---> Command: Save - Elapsed time: 00:00:00.6458749
+2025-04-03 17:22:21,170: INFO  – ---> Command: BuildSelectedObjectOnly - Elapsed time: 00:00:00.0042609
+2025-04-03 17:22:30,846: INFO  – ---> Command: BuildCommandWrapperUI - Elapsed time: 00:00:09.6742345
+2025-04-03 17:22:59,216: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0191323
+2025-04-03 17:23:00,342: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0097483
+2025-04-03 17:23:01,500: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0069808
+2025-04-03 17:23:32,377: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0041939
+2025-04-03 17:23:33,209: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0047769
+2025-04-03 17:23:33,617: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0045341
+2025-04-03 17:23:34,029: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0080655
+2025-04-03 17:23:37,267: INFO  – ---> Command: Save - Elapsed time: 00:00:00.2697445
+2025-04-03 17:23:57,195: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0057816
+2025-04-03 17:23:58,425: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0047311
+2025-04-03 17:23:58,795: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0063105
+2025-04-03 17:23:58,960: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0034736
+2025-04-03 17:23:59,137: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0043921
+2025-04-03 17:23:59,288: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0035536
+2025-04-03 17:23:59,496: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0039143
+2025-04-03 17:24:02,139: INFO  – ---> Command: Save - Elapsed time: 00:00:00.6217439
+2025-04-03 17:24:05,514: INFO  – ---> Command: BuildSelectedObjectOnly - Elapsed time: 00:00:00.0042094
+2025-04-03 17:24:15,548: INFO  – ---> Command: BuildCommandWrapperUI - Elapsed time: 00:00:10.0249818
+2025-04-03 17:24:40,015: INFO  – ---> Command: Copy - Elapsed time: 00:00:00.0016427
+2025-04-03 17:24:42,589: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0238594
+2025-04-03 17:24:47,385: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0117033
+2025-04-03 17:24:51,462: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0107167
+2025-04-03 17:24:52,716: INFO  – ---> Command: Save - Elapsed time: 00:00:00.8149886
+2025-04-03 17:24:56,333: INFO  – ---> Command: BuildSelectedObjectOnly - Elapsed time: 00:00:00.0074800
+2025-04-03 17:25:05,540: INFO  – ---> Command: BuildCommandWrapperUI - Elapsed time: 00:00:09.1964473
+2025-04-03 17:25:57,392: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0197045
+2025-04-03 17:25:59,784: INFO  – ---> Command: Redo - Elapsed time: 00:00:00.0115529
+2025-04-03 17:26:00,999: INFO  – ---> Command: Save - Elapsed time: 00:00:00.7307547
+2025-04-03 17:26:20,840: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0270286
+2025-04-03 17:26:33,399: INFO  – ---> Command: Copy - Elapsed time: 00:00:00.0018266
+2025-04-03 17:26:38,504: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0106646
+2025-04-03 17:26:40,688: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0113012
+2025-04-03 17:26:44,927: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0106193
+2025-04-03 17:26:47,709: INFO  – ---> Command: Save - Elapsed time: 00:00:00.7526029
+2025-04-03 17:26:50,514: INFO  – ---> Command: BuildSelectedObjectOnly - Elapsed time: 00:00:00.0044330
+2025-04-03 17:27:00,471: INFO  – ---> Command: BuildCommandWrapperUI - Elapsed time: 00:00:09.9549306
+2025-04-03 17:27:30,135: INFO  – ---> Command: Copy - Elapsed time: 00:00:00.0022467
+2025-04-03 17:27:30,926: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0093600
+2025-04-03 17:27:35,250: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0047411
+2025-04-03 17:27:37,658: INFO  – ---> Command: Undo - Elapsed time: 00:00:00.0056243
+2025-04-03 17:27:39,244: ERROR – error src0082: Invalid expression for second operator (Web Panel 'General.Calculadora' Events, Line: 59, Char: 34, , Details, )
+2025-04-03 17:27:39,245: ERROR – error src0057: Expecting 'EndIf' command to close the 'If' block (Web Panel 'General.Calculadora' Events, Line: 59, Char: 1, , Details, )
+2025-04-03 17:27:39,245: INFO  – ---> Command: Save - Elapsed time: 00:00:00.1043436
+2025-04-03 17:27:44,810: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0047610
+2025-04-03 17:27:44,960: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0034726
+2025-04-03 17:27:45,111: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0030209
+2025-04-03 17:27:51,328: INFO  – ---> Command: Delete - Elapsed time: 00:00:00.0031355
+2025-04-03 17:27:52,359: INFO  – ---> Command: Save - Elapsed time: 00:00:00.7383559
+2025-04-03 17:27:55,333: INFO  – ---> Command: Copy - Elapsed time: 00:00:00.0009318
+2025-04-03 17:27:59,966: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0093715
+2025-04-03 17:28:06,062: INFO  – ---> Command: Copy - Elapsed time: 00:00:00.0015860
+2025-04-03 17:28:07,304: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0113749
+2025-04-03 17:28:10,967: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0101896
+2025-04-03 17:28:12,767: INFO  – ---> Command: Paste - Elapsed time: 00:00:00.0109169
+2025-04-03 17:28:13,634: INFO  – ---> Command: Save - Elapsed time: 00:00:00.6290195
+2025-04-03 17:28:17,064: INFO  – ---> Command: BuildSelectedObjectOnly - Elapsed time: 00:00:00.0028856
+2025-04-03 17:28:26,389: INFO  – ---> Command: BuildCommandWrapperUI - Elapsed time: 00:00:09.3193739

@@ -1,0 +1,14 @@
+@layer Calculadora_Bruno{
+:root
+{
+	--colors_azul : #B3CFF1;
+	--colors_corpainel : #CAC9C9;
+	--colors_resultadobackground : #FFFFFF;
+	--colors_rosa : #DD0CDD;
+	--colors_new_colors : #abc;
+	--fonts_titletext : Roboto;
+	--borders_fofs : 2px;
+	--shadows_painelshadow : 0px 3px 10px #abc;
+
+}
+}

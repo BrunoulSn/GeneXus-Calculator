@@ -1,0 +1,184 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Modelos\\Teinamento\\Calculadora_Bruno\\NETPostgreSQL002\\build\\general.calculadora\\general.calculadora.csproj": {}
+  },
+  "projects": {
+    "D:\\Modelos\\Teinamento\\Calculadora_Bruno\\NETPostgreSQL002\\build\\general.calculadora\\general.calculadora.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Modelos\\Teinamento\\Calculadora_Bruno\\NETPostgreSQL002\\build\\general.calculadora\\general.calculadora.csproj",
+        "projectName": "general.calculadora",
+        "projectPath": "D:\\Modelos\\Teinamento\\Calculadora_Bruno\\NETPostgreSQL002\\build\\general.calculadora\\general.calculadora.csproj",
+        "packagesPath": "C:\\Users\\Desenvolvedor\\.nuget\\packages\\",
+        "outputPath": "D:\\Modelos\\Teinamento\\Calculadora_Bruno\\NETPostgreSQL002\\build\\general.calculadora\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "D:\\Modelos\\Teinamento\\Calculadora_Bruno\\NETPostgreSQL002\\NuGet.Config",
+          "C:\\Users\\Desenvolvedor\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Modelos\\Teinamento\\Calculadora_Bruno\\NETPostgreSQL002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+                "projectPath": "D:\\Modelos\\Teinamento\\Calculadora_Bruno\\NETPostgreSQL002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.27.1, 1.27.1]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.27.1, 1.27.1]"
+            },
+            "Npgsql": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.7, )"
+            },
+            "iTextSharp-LGPL": {
+              "target": "Package",
+              "version": "[4.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.310/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Modelos\\Teinamento\\Calculadora_Bruno\\NETPostgreSQL002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Modelos\\Teinamento\\Calculadora_Bruno\\NETPostgreSQL002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj",
+        "projectName": "GeneXus.Programs.Common",
+        "projectPath": "D:\\Modelos\\Teinamento\\Calculadora_Bruno\\NETPostgreSQL002\\build\\GeneXus.Programs.Common\\GeneXus.Programs.Common.csproj",
+        "packagesPath": "C:\\Users\\Desenvolvedor\\.nuget\\packages\\",
+        "outputPath": "D:\\Modelos\\Teinamento\\Calculadora_Bruno\\NETPostgreSQL002\\build\\GeneXus.Programs.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "D:\\Modelos\\Teinamento\\Calculadora_Bruno\\NETPostgreSQL002\\NuGet.Config",
+          "C:\\Users\\Desenvolvedor\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/genexuslabs/13fb82d9-57a8-49ef-95bb-0ec8324e470c/_packaging/dotnet-prereleases/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GeneXus.Classes.Web.Core": {
+              "target": "Package",
+              "version": "[1.27.1, 1.27.1]"
+            },
+            "GeneXus.PdfReportsCS.Core": {
+              "target": "Package",
+              "version": "[1.27.1, 1.27.1]"
+            },
+            "Npgsql": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.7, )"
+            },
+            "iTextSharp-LGPL": {
+              "target": "Package",
+              "version": "[4.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.310/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

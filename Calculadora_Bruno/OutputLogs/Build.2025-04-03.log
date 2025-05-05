@@ -1,0 +1,1033 @@
+2025-04-03 15:54:15,482: INFO  – ========== Run Developer Menu started ==========
+2025-04-03 15:54:15,849: INFO  – ========== Copy Module 'GeneXus' started ==========
+2025-04-03 15:54:15,894: INFO  – Success: Copy Module 'GeneXus' - Elapsed time: 00:00:00.0452449
+2025-04-03 15:54:15,996: INFO  – ========== Copy Module 'GeneXusUnanimo' started ==========
+2025-04-03 15:54:16,000: INFO  – Success: Copy Module 'GeneXusUnanimo' - Elapsed time: 00:00:00.0040004
+2025-04-03 15:54:16,207: INFO  – ========== Target Environment update started ==========
+2025-04-03 15:54:16,845: INFO  – Success: Target Environment update - Elapsed time: 00:00:00.6384857
+2025-04-03 15:54:16,862: INFO  – Building changed objects list
+2025-04-03 15:54:17,262: INFO  – Generating User Control GeneXusUnanimo.Dropdown
+2025-04-03 15:54:17,312: INFO  – Generating User Control GeneXusUnanimo.DropdownAngular
+2025-04-03 15:54:17,445: INFO  – Generating User Control GeneXusUnanimo.Select
+2025-04-03 15:54:17,545: INFO  – Generating User Control GeneXusUnanimo.SelectAngular
+2025-04-03 15:54:17,573: INFO  – Generating User Control GeneXusUnanimo.Sidebar
+2025-04-03 15:54:17,617: INFO  – Generating User Control GeneXusUnanimo.SidebarAngular
+2025-04-03 15:54:17,643: INFO  – Generating User Control GeneXusUnanimo.Treeview
+2025-04-03 15:54:17,690: INFO  – Generating User Control GeneXusUnanimo.TreeviewAngular
+2025-04-03 15:54:17,727: INFO  – Generating User Control GeneXusUnanimo.Step
+2025-04-03 15:54:17,803: INFO  – Generating User Control GeneXusUnanimo.StepAngular
+2025-04-03 15:54:17,818: INFO  – Generating User Control GeneXusUnanimo.Alert
+2025-04-03 15:54:17,861: INFO  – Generating User Control GeneXusUnanimo.AlertAngular
+2025-04-03 15:54:17,879: INFO  – Generating User Control GeneXusUnanimo.Icon
+2025-04-03 15:54:17,923: INFO  – Generating User Control GeneXusUnanimo.IconAngular
+2025-04-03 15:54:17,938: INFO  – Generating User Control GeneXusUnanimo.Switch
+2025-04-03 15:54:18,035: INFO  – Generating User Control GeneXusUnanimo.Slider
+2025-04-03 15:54:18,125: INFO  – Generating User Control GeneXusUnanimo.Button
+2025-04-03 15:54:18,870: INFO  – ========== Specification started ==========
+2025-04-03 15:54:23,075: INFO  –  Specifying General.UI.MasterUnanimoSidebar ...
+2025-04-03 15:54:27,341: INFO  –  Specifying General.Calculadora ...
+2025-04-03 15:54:27,356: INFO  –  Specifying General.UI.MasterPrompt ...
+2025-04-03 15:54:28,870: INFO  –  Specifying General.UI.SidebarItemsDP ...
+2025-04-03 15:54:28,919: INFO  – Generating Resources...
+2025-04-03 15:54:32,425: ERROR – error spc0009: Type mismatch in expression: int(&auxResultado). (Web Panel 'General.Calculadora' Events, Line: 4, , Details, )
+2025-04-03 15:54:32,425: ERROR – error spc0010: Type mismatch in assignment: &Operacao = '/' (Numeric=Character). (Web Panel 'General.Calculadora' Events, Line: 17, , Details, )
+2025-04-03 15:54:32,425: ERROR – error spc0010: Type mismatch in assignment: &Operacao = '*' (Numeric=Character). (Web Panel 'General.Calculadora' Events, Line: 23, , Details, )
+2025-04-03 15:54:32,425: ERROR – error spc0010: Type mismatch in assignment: &Operacao = '-' (Numeric=Character). (Web Panel 'General.Calculadora' Events, Line: 29, , Details, )
+2025-04-03 15:54:32,425: ERROR – error spc0010: Type mismatch in assignment: &Operacao = '+' (Numeric=Character). (Web Panel 'General.Calculadora' Events, Line: 35, , Details, )
+2025-04-03 15:54:32,434: ERROR – error spc0009: Type mismatch in condition: &Operacao = '/'. (Web Panel 'General.Calculadora' Events, Line: 3, , Details, )
+2025-04-03 15:54:32,434: ERROR – error spc0009: Type mismatch in condition: &Operacao = '*'. (Web Panel 'General.Calculadora' Events, Line: 5, , Details, )
+2025-04-03 15:54:32,434: ERROR – error spc0009: Type mismatch in condition: &Operacao = '-'. (Web Panel 'General.Calculadora' Events, Line: 7, , Details, )
+2025-04-03 15:54:32,434: ERROR – error spc0009: Type mismatch in condition: &Operacao = '+'. (Web Panel 'General.Calculadora' Events, Line: 9, , Details, )
+2025-04-03 15:54:32,532: INFO  – Success
+2025-04-03 15:54:32,605: INFO  – ========== Default (.NET) Generation started ==========
+2025-04-03 15:54:33,536: INFO  – Failed: Specification - Elapsed time: 00:00:14.6655813
+2025-04-03 15:54:39,953: INFO  – Copying standard files from C:\Program Files (x86)\GeneXus\GeneXus18_U7 to NETPostgreSQL002\web...
+2025-04-03 15:54:41,009: INFO  – Generating to NETPostgreSQL002\web\GxWebStd.cs
+2025-04-03 15:54:41,235: INFO  – Generating to NETPostgreSQL002\web\general\ui\masterunanimosidebar.cs
+2025-04-03 15:54:41,408: INFO  – Generating to NETPostgreSQL002\web\general\ui\masterunanimosidebar.js
+2025-04-03 15:54:41,512: INFO  – Generating to NETPostgreSQL002\web\general\ui\sidebaritemsdp.cs
+2025-04-03 15:54:41,551: INFO  – Generating to NETPostgreSQL002\web\general\ui\masterprompt.cs
+2025-04-03 15:54:41,588: INFO  – Generating to NETPostgreSQL002\web\general\ui\masterprompt.js
+2025-04-03 15:54:44,085: INFO  – Failed: Run Developer Menu - Elapsed time: 00:00:28.6040969
+2025-04-03 15:55:24,407: INFO  – ========== Run Developer Menu started ==========
+2025-04-03 15:55:24,545: INFO  – ========== Copy Module 'GeneXus' started ==========
+2025-04-03 15:55:24,545: INFO  – Success: Copy Module 'GeneXus' - Elapsed time: 00:00:00
+2025-04-03 15:55:24,647: INFO  – ========== Copy Module 'GeneXusUnanimo' started ==========
+2025-04-03 15:55:24,647: INFO  – Success: Copy Module 'GeneXusUnanimo' - Elapsed time: 00:00:00
+2025-04-03 15:55:24,725: INFO  – ========== Target Environment update started ==========
+2025-04-03 15:55:25,005: INFO  – Success: Target Environment update - Elapsed time: 00:00:00.2800412
+2025-04-03 15:55:25,011: INFO  – Building changed objects list
+2025-04-03 15:55:25,527: INFO  – ========== Specification started ==========
+2025-04-03 15:55:27,169: INFO  –  Specifying General.Calculadora ...
+2025-04-03 15:55:28,505: ERROR – error spc0009: Type mismatch in expression: int(&auxResultado). (Web Panel 'General.Calculadora' Events, Line: 4, , Details, )
+2025-04-03 15:55:29,370: INFO  – Failed: Specification - Elapsed time: 00:00:03.8383559
+2025-04-03 15:55:31,763: INFO  – Failed: Run Developer Menu - Elapsed time: 00:00:07.3557207
+2025-04-03 15:57:07,159: INFO  – ========== Run Developer Menu started ==========
+2025-04-03 15:57:07,265: INFO  – ========== Copy Module 'GeneXus' started ==========
+2025-04-03 15:57:07,275: INFO  – Success: Copy Module 'GeneXus' - Elapsed time: 00:00:00.0097729
+2025-04-03 15:57:07,371: INFO  – ========== Copy Module 'GeneXusUnanimo' started ==========
+2025-04-03 15:57:07,371: INFO  – Success: Copy Module 'GeneXusUnanimo' - Elapsed time: 00:00:00.0055388
+2025-04-03 15:57:07,445: INFO  – ========== Target Environment update started ==========
+2025-04-03 15:57:07,641: INFO  – Success: Target Environment update - Elapsed time: 00:00:00.2057766
+2025-04-03 15:57:07,645: INFO  – Building changed objects list
+2025-04-03 15:57:08,135: INFO  – ========== Specification started ==========
+2025-04-03 15:57:09,708: INFO  –  Specifying General.Calculadora ...
+2025-04-03 15:57:11,201: ERROR – error spc0010: Type mismatch in assignment: &Resultado = val(&auxResultado) / val(&Resultado) (Varchar=Numeric). (Web Panel 'General.Calculadora' Events, Line: 4, , Details, )
+2025-04-03 15:57:11,202: ERROR – error spc0010: Type mismatch in assignment: &Resultado = val(&auxResultado) * val(&Resultado) (Varchar=Numeric). (Web Panel 'General.Calculadora' Events, Line: 6, , Details, )
+2025-04-03 15:57:11,204: ERROR – error spc0010: Type mismatch in assignment: &Resultado = val(&auxResultado) - val(&Resultado) (Varchar=Numeric). (Web Panel 'General.Calculadora' Events, Line: 8, , Details, )
+2025-04-03 15:57:11,206: ERROR – error spc0010: Type mismatch in assignment: &Resultado = val(&auxResultado) + val(&Resultado) (Varchar=Numeric). (Web Panel 'General.Calculadora' Events, Line: 10, , Details, )
+2025-04-03 15:57:12,078: INFO  – Failed: Specification - Elapsed time: 00:00:03.9372767
+2025-04-03 15:57:14,477: INFO  – Failed: Run Developer Menu - Elapsed time: 00:00:07.3176065
+2025-04-03 15:58:13,543: INFO  – ========== Run Developer Menu started ==========
+2025-04-03 15:58:13,645: INFO  – ========== Copy Module 'GeneXus' started ==========
+2025-04-03 15:58:13,649: INFO  – Success: Copy Module 'GeneXus' - Elapsed time: 00:00:00.0035434
+2025-04-03 15:58:13,740: INFO  – ========== Copy Module 'GeneXusUnanimo' started ==========
+2025-04-03 15:58:13,740: INFO  – Success: Copy Module 'GeneXusUnanimo' - Elapsed time: 00:00:00
+2025-04-03 15:58:13,795: INFO  – ========== Target Environment update started ==========
+2025-04-03 15:58:13,995: INFO  – Success: Target Environment update - Elapsed time: 00:00:00.1996539
+2025-04-03 15:58:14,004: INFO  – Building changed objects list
+2025-04-03 15:58:14,465: INFO  – ========== Specification started ==========
+2025-04-03 15:58:16,091: INFO  –  Specifying General.Calculadora ...
+2025-04-03 15:58:17,885: ERROR – error spc0010: Type mismatch in assignment: &Resultado = val(&auxResultado) / val(&Resultado) (Varchar=Numeric). (Web Panel 'General.Calculadora' Events, Line: 4, , Details, )
+2025-04-03 15:58:17,890: ERROR – error spc0010: Type mismatch in assignment: &Resultado = val(&auxResultado) * val(&Resultado) (Varchar=Numeric). (Web Panel 'General.Calculadora' Events, Line: 6, , Details, )
+2025-04-03 15:58:17,891: ERROR – error spc0010: Type mismatch in assignment: &Resultado = val(&auxResultado) - val(&Resultado) (Varchar=Numeric). (Web Panel 'General.Calculadora' Events, Line: 8, , Details, )
+2025-04-03 15:58:17,893: ERROR – error spc0010: Type mismatch in assignment: &Resultado = val(&auxResultado) + val(&Resultado) (Varchar=Numeric). (Web Panel 'General.Calculadora' Events, Line: 10, , Details, )
+2025-04-03 15:58:18,748: INFO  – Failed: Specification - Elapsed time: 00:00:04.2831684
+2025-04-03 15:58:21,144: INFO  – Failed: Run Developer Menu - Elapsed time: 00:00:07.6070978
+2025-04-03 16:00:10,235: INFO  – ========== Build All started ==========
+2025-04-03 16:00:10,351: INFO  – ========== Copy Module 'GeneXus' started ==========
+2025-04-03 16:00:10,353: INFO  – Success: Copy Module 'GeneXus' - Elapsed time: 00:00:00.0057759
+2025-04-03 16:00:10,466: INFO  – ========== Copy Module 'GeneXusUnanimo' started ==========
+2025-04-03 16:00:10,475: INFO  – Success: Copy Module 'GeneXusUnanimo' - Elapsed time: 00:00:00.0090204
+2025-04-03 16:00:10,535: INFO  – ========== Target Environment update started ==========
+2025-04-03 16:00:10,835: INFO  – Success: Target Environment update - Elapsed time: 00:00:00.2998513
+2025-04-03 16:00:10,838: INFO  – Building changed objects list
+2025-04-03 16:00:11,345: INFO  – ========== Specification started ==========
+2025-04-03 16:00:12,865: INFO  –  Specifying General.Calculadora ...
+2025-04-03 16:00:14,235: ERROR – error spc0009: Type mismatch in expression: '' + val(&auxResultado) / val(&Resultado). (Web Panel 'General.Calculadora' Events, Line: 4, , Details, )
+2025-04-03 16:00:14,240: ERROR – error spc0009: Type mismatch in expression: '' + val(&auxResultado) * val(&Resultado). (Web Panel 'General.Calculadora' Events, Line: 6, , Details, )
+2025-04-03 16:00:14,242: ERROR – error spc0009: Type mismatch in expression: '' + val(&auxResultado). (Web Panel 'General.Calculadora' Events, Line: 8, , Details, )
+2025-04-03 16:00:15,025: INFO  – Failed: Specification - Elapsed time: 00:00:03.6719025
+2025-04-03 16:00:15,712: INFO  – Generating to NETPostgreSQL002\web\GxModelInfoProvider.cs
+2025-04-03 16:00:15,713: INFO  – Generating to NETPostgreSQL002\web\GxObjectCollection.cs
+2025-04-03 16:00:15,721: INFO  – Generating to NETPostgreSQL002\web\gxcfg.js
+2025-04-03 16:00:15,741: INFO  – Generating to NETPostgreSQL002\web\GxWebServicesConfig.cs
+2025-04-03 16:00:15,742: INFO  – Generating to NETPostgreSQL002\web\GXCFG.WEB
+2025-04-03 16:00:16,046: INFO  – Generating to NETPostgreSQL002\web\Developermenu.bld
+2025-04-03 16:00:16,101: INFO  – Generating to NETPostgreSQL002\web\genexus.programs.common.bld
+2025-04-03 16:00:16,149: INFO  – Generating to NETPostgreSQL002\web\bld41.info
+2025-04-03 16:00:16,150: INFO  – Generating to NETPostgreSQL002\web\DeveloperMenu.xml
+2025-04-03 16:00:16,155: INFO  – Generating to NETPostgreSQL002\web\GxFullTextSearchReindexer.cs
+2025-04-03 16:00:16,155: INFO  – Generating to NETPostgreSQL002\web\SoapParm.cs
+2025-04-03 16:00:16,685: INFO  – Success: Default (.NET) Generation - Elapsed time: 00:05:44.0814962
+2025-04-03 16:00:16,867: INFO  – Compressing static files...
+2025-04-03 16:00:17,439: INFO  – Success
+2025-04-03 16:00:17,690: INFO  – ========== DeveloperMenu Compilation for Default (.NET) started ==========
+2025-04-03 16:00:17,705: INFO  – dotnet publish -nologo -v q  /p:PdfLibrary=ITEXT "D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\web\GxDeps.csproj" -o "D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\web\bin"
+2025-04-03 16:00:30,465: INFO  – dotnet publish -nologo -c Release /v:q /m  "D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln"
+2025-04-03 16:00:32,653: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\GeneXus.Programs.Common\GeneXus.Programs.Common.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 16:00:32,654: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterprompt\general.ui.masterprompt.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 16:00:32,654: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\general.ui.masterunanimosidebar.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 16:00:33,188: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\developermenu\developermenu.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 16:00:33,506: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\GeneXus.Programs.Common\GeneXus.Programs.Common.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 16:00:33,530: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\developermenu\developermenu.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 16:00:33,561: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterprompt\general.ui.masterprompt.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 16:00:33,562: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\general.ui.masterunanimosidebar.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 16:00:36,403: INFO  – Success: DeveloperMenu Compilation for Default (.NET) - Elapsed time: 00:00:18.7133472
+2025-04-03 16:00:36,406: INFO  – ========== Web config update started ==========
+2025-04-03 16:00:36,700: INFO  – Gx config file: gxcfg.web
+2025-04-03 16:00:36,700: INFO  – Web config file: appsettings.json
+2025-04-03 16:00:36,711: INFO  – Updating web config ...
+2025-04-03 16:00:36,890: INFO  – Success: Web config update - Elapsed time: 00:00:00.4789366
+2025-04-03 16:00:36,916: INFO  – Failed: Build All - Elapsed time: 00:00:26.6809505
+2025-04-03 16:04:50,138: INFO  – ========== Run Developer Menu started ==========
+2025-04-03 16:04:50,246: INFO  – ========== Copy Module 'GeneXus' started ==========
+2025-04-03 16:04:50,247: INFO  – Success: Copy Module 'GeneXus' - Elapsed time: 00:00:00.0010023
+2025-04-03 16:04:50,345: INFO  – ========== Copy Module 'GeneXusUnanimo' started ==========
+2025-04-03 16:04:50,346: INFO  – Success: Copy Module 'GeneXusUnanimo' - Elapsed time: 00:00:00.0012510
+2025-04-03 16:04:50,417: INFO  – ========== Target Environment update started ==========
+2025-04-03 16:04:50,610: INFO  – Success: Target Environment update - Elapsed time: 00:00:00.1929329
+2025-04-03 16:04:50,613: INFO  – Building changed objects list
+2025-04-03 16:04:51,090: INFO  – ========== Specification started ==========
+2025-04-03 16:04:52,615: INFO  –  Specifying General.Calculadora ...
+2025-04-03 16:04:53,913: WARN  – warning spc0047: Variable Numero1 not defined; N(10.2) assumed. (Web Panel 'General.Calculadora', , Details, )
+2025-04-03 16:04:53,915: ERROR – error spc0009: Type mismatch in expression: '' + &Numero1 / &numero2. (Web Panel 'General.Calculadora' Events, Line: 6, , Details, )
+2025-04-03 16:04:53,916: ERROR – error spc0009: Type mismatch in expression: '' + &Numero1 * &numero2. (Web Panel 'General.Calculadora' Events, Line: 8, , Details, )
+2025-04-03 16:04:53,918: ERROR – error spc0009: Type mismatch in expression: '' + &Numero1. (Web Panel 'General.Calculadora' Events, Line: 10, , Details, )
+2025-04-03 16:04:54,781: INFO  – Failed: Specification - Elapsed time: 00:00:03.6911146
+2025-04-03 16:04:54,885: INFO  – Failed: Run Developer Menu - Elapsed time: 00:00:04.7480862
+2025-04-03 16:07:02,672: INFO  – ========== Run Developer Menu started ==========
+2025-04-03 16:07:02,777: INFO  – ========== Copy Module 'GeneXus' started ==========
+2025-04-03 16:07:02,781: INFO  – Success: Copy Module 'GeneXus' - Elapsed time: 00:00:00.0010004
+2025-04-03 16:07:02,877: INFO  – ========== Copy Module 'GeneXusUnanimo' started ==========
+2025-04-03 16:07:02,878: INFO  – Success: Copy Module 'GeneXusUnanimo' - Elapsed time: 00:00:00.0009992
+2025-04-03 16:07:02,942: INFO  – ========== Target Environment update started ==========
+2025-04-03 16:07:03,186: INFO  – Success: Target Environment update - Elapsed time: 00:00:00.2441254
+2025-04-03 16:07:03,190: INFO  – Building changed objects list
+2025-04-03 16:07:03,661: INFO  – ========== Specification started ==========
+2025-04-03 16:07:05,230: INFO  –  Specifying General.Calculadora ...
+2025-04-03 16:07:06,536: WARN  – warning spc0047: Variable Numero1 not defined; N(10.2) assumed. (Web Panel 'General.Calculadora', , Details, )
+2025-04-03 16:07:06,538: ERROR – error spc0009: Type mismatch in expression: '' + &Numero1 / &numero2. (Web Panel 'General.Calculadora' Events, Line: 6, , Details, )
+2025-04-03 16:07:06,539: ERROR – error spc0009: Type mismatch in expression: '' + &Numero1 * &numero2. (Web Panel 'General.Calculadora' Events, Line: 8, , Details, )
+2025-04-03 16:07:06,541: ERROR – error spc0009: Type mismatch in expression: '' + &Numero1. (Web Panel 'General.Calculadora' Events, Line: 10, , Details, )
+2025-04-03 16:07:07,334: INFO  – Failed: Specification - Elapsed time: 00:00:03.6718642
+2025-04-03 16:07:07,440: INFO  – Failed: Run Developer Menu - Elapsed time: 00:00:04.7679632
+2025-04-03 16:07:57,848: INFO  – ========== Run Developer Menu started ==========
+2025-04-03 16:07:57,937: INFO  – ========== Copy Module 'GeneXus' started ==========
+2025-04-03 16:07:57,938: INFO  – Success: Copy Module 'GeneXus' - Elapsed time: 00:00:00.0009998
+2025-04-03 16:07:58,032: INFO  – ========== Copy Module 'GeneXusUnanimo' started ==========
+2025-04-03 16:07:58,033: INFO  – Success: Copy Module 'GeneXusUnanimo' - Elapsed time: 00:00:00
+2025-04-03 16:07:58,111: INFO  – ========== Target Environment update started ==========
+2025-04-03 16:07:58,299: INFO  – Success: Target Environment update - Elapsed time: 00:00:00.1879821
+2025-04-03 16:07:58,302: INFO  – Building changed objects list
+2025-04-03 16:07:58,825: INFO  – ========== Specification started ==========
+2025-04-03 16:08:00,413: INFO  –  Specifying General.Calculadora ...
+2025-04-03 16:08:01,662: WARN  – warning spc0047: Variable Numero1 not defined; N(10.2) assumed. (Web Panel 'General.Calculadora', , Details, )
+2025-04-03 16:08:01,663: ERROR – error spc0010: Type mismatch in assignment: &Resultado = &Numero1 / &numero2 (Varchar=Numeric). (Web Panel 'General.Calculadora' Events, Line: 6, , Details, )
+2025-04-03 16:08:01,665: ERROR – error spc0010: Type mismatch in assignment: &Resultado = &Numero1 * &numero2 (Varchar=Numeric). (Web Panel 'General.Calculadora' Events, Line: 8, , Details, )
+2025-04-03 16:08:01,667: ERROR – error spc0010: Type mismatch in assignment: &Resultado = &Numero1 - &numero2 (Varchar=Numeric). (Web Panel 'General.Calculadora' Events, Line: 10, , Details, )
+2025-04-03 16:08:01,669: ERROR – error spc0010: Type mismatch in assignment: &Resultado = &Numero1 + &numero2 (Varchar=Numeric). (Web Panel 'General.Calculadora' Events, Line: 12, , Details, )
+2025-04-03 16:08:02,561: INFO  – Failed: Specification - Elapsed time: 00:00:03.7351441
+2025-04-03 16:08:02,666: INFO  – Failed: Run Developer Menu - Elapsed time: 00:00:04.8233746
+2025-04-03 16:09:08,187: INFO  – ========== Run Developer Menu started ==========
+2025-04-03 16:09:08,281: INFO  – ========== Copy Module 'GeneXus' started ==========
+2025-04-03 16:09:08,282: INFO  – Success: Copy Module 'GeneXus' - Elapsed time: 00:00:00.0011136
+2025-04-03 16:09:08,378: INFO  – ========== Copy Module 'GeneXusUnanimo' started ==========
+2025-04-03 16:09:08,379: INFO  – Success: Copy Module 'GeneXusUnanimo' - Elapsed time: 00:00:00.0010001
+2025-04-03 16:09:08,455: INFO  – ========== Target Environment update started ==========
+2025-04-03 16:09:08,665: INFO  – Success: Target Environment update - Elapsed time: 00:00:00.2082851
+2025-04-03 16:09:08,667: INFO  – Building changed objects list
+2025-04-03 16:09:09,163: INFO  – ========== Specification started ==========
+2025-04-03 16:09:10,714: INFO  –  Specifying General.Calculadora ...
+2025-04-03 16:09:11,977: WARN  – warning spc0156: Event 'BotaoResultado' for control 'Botaoresultado' is not defined. (Web Panel 'General.Calculadora', , Details, )
+2025-04-03 16:09:12,041: INFO  – Generating Resources...
+2025-04-03 16:09:13,401: INFO  – Success
+2025-04-03 16:09:13,408: INFO  – Success: Specification - Elapsed time: 00:00:04.2441793
+2025-04-03 16:09:13,520: INFO  – ========== Default (.NET) Generation started ==========
+2025-04-03 16:09:14,195: INFO  – Generating to NETPostgreSQL002\web\general\calculadora.cs
+2025-04-03 16:09:14,401: INFO  – Generating to NETPostgreSQL002\web\general\calculadora.js
+2025-04-03 16:09:14,451: INFO  – Generating to NETPostgreSQL002\web\gxcfg.js
+2025-04-03 16:09:14,463: INFO  – Generating to NETPostgreSQL002\web\GXCFG.WEB
+2025-04-03 16:09:14,549: INFO  – Generating to NETPostgreSQL002\web\Developermenu.bld
+2025-04-03 16:09:14,598: INFO  – Generating to NETPostgreSQL002\web\genexus.programs.common.bld
+2025-04-03 16:09:14,636: INFO  – Generating to NETPostgreSQL002\web\bld41.info
+2025-04-03 16:09:14,638: INFO  – Generating to NETPostgreSQL002\web\DeveloperMenu.xml
+2025-04-03 16:09:15,113: INFO  – Success: Default (.NET) Generation - Elapsed time: 00:00:01.5925335
+2025-04-03 16:09:15,142: INFO  – Compressing static files...
+2025-04-03 16:09:15,195: INFO  – Success
+2025-04-03 16:09:15,279: INFO  – ========== DeveloperMenu Compilation for Default (.NET) started ==========
+2025-04-03 16:09:15,285: INFO  – dotnet publish -nologo -c Release /v:q /m  "D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln"
+2025-04-03 16:09:16,348: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\general.ui.masterunanimosidebar.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 16:09:16,372: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\GeneXus.Programs.Common\GeneXus.Programs.Common.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 16:09:16,413: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterprompt\general.ui.masterprompt.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 16:09:16,652: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\developermenu\developermenu.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 16:09:16,652: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.calculadora\general.calculadora.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 16:09:17,026: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterprompt\general.ui.masterprompt.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 16:09:17,069: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\general.ui.masterunanimosidebar.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 16:09:17,082: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\developermenu\developermenu.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 16:09:17,089: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.calculadora\general.calculadora.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 16:09:17,117: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\GeneXus.Programs.Common\GeneXus.Programs.Common.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 16:09:18,365: INFO  – Success: DeveloperMenu Compilation for Default (.NET) - Elapsed time: 00:00:03.0863185
+2025-04-03 16:09:18,367: INFO  – ========== Web config update started ==========
+2025-04-03 16:09:18,462: INFO  – Gx config file: gxcfg.web
+2025-04-03 16:09:18,462: INFO  – Web config file: appsettings.json
+2025-04-03 16:09:18,470: INFO  – Updating web config ...
+2025-04-03 16:09:18,563: INFO  – Success: Web config update - Elapsed time: 00:00:00.1973023
+2025-04-03 16:09:18,818: INFO  – Success: Run Developer Menu - Elapsed time: 00:00:10.6232200
+2025-04-03 16:10:44,176: INFO  – ========== Run Developer Menu started ==========
+2025-04-03 16:10:44,284: INFO  – ========== Copy Module 'GeneXus' started ==========
+2025-04-03 16:10:44,287: INFO  – Success: Copy Module 'GeneXus' - Elapsed time: 00:00:00.0021836
+2025-04-03 16:10:44,375: INFO  – ========== Copy Module 'GeneXusUnanimo' started ==========
+2025-04-03 16:10:44,379: INFO  – Success: Copy Module 'GeneXusUnanimo' - Elapsed time: 00:00:00
+2025-04-03 16:10:44,442: INFO  – ========== Target Environment update started ==========
+2025-04-03 16:10:44,663: INFO  – Success: Target Environment update - Elapsed time: 00:00:00.2217254
+2025-04-03 16:10:44,667: INFO  – Building changed objects list
+2025-04-03 16:10:45,165: INFO  – ========== Specification started ==========
+2025-04-03 16:10:46,775: INFO  –  Specifying General.Calculadora ...
+2025-04-03 16:10:48,175: WARN  – warning spc0047: Variable Numero1 not defined; N(10.2) assumed. (Web Panel 'General.Calculadora', , Details, )
+2025-04-03 16:10:48,178: ERROR – error spc0009: Type mismatch in expression: '' + int(&Numero1 / &numero2). (Web Panel 'General.Calculadora' Events, Line: 6, , Details, )
+2025-04-03 16:10:48,180: ERROR – error spc0009: Type mismatch in expression: '' + int(&Numero1 * &numero2). (Web Panel 'General.Calculadora' Events, Line: 8, , Details, )
+2025-04-03 16:10:48,182: ERROR – error spc0009: Type mismatch in expression: '' + int(&Numero1 - &numero2). (Web Panel 'General.Calculadora' Events, Line: 10, , Details, )
+2025-04-03 16:10:48,996: INFO  – Failed: Specification - Elapsed time: 00:00:03.8248959
+2025-04-03 16:10:49,096: INFO  – Failed: Run Developer Menu - Elapsed time: 00:00:04.9205079
+2025-04-03 16:11:55,368: INFO  – ========== Run Developer Menu started ==========
+2025-04-03 16:11:55,469: INFO  – ========== Copy Module 'GeneXus' started ==========
+2025-04-03 16:11:55,470: INFO  – Success: Copy Module 'GeneXus' - Elapsed time: 00:00:00.0009999
+2025-04-03 16:11:55,565: INFO  – ========== Copy Module 'GeneXusUnanimo' started ==========
+2025-04-03 16:11:55,566: INFO  – Success: Copy Module 'GeneXusUnanimo' - Elapsed time: 00:00:00.0009988
+2025-04-03 16:11:55,639: INFO  – ========== Target Environment update started ==========
+2025-04-03 16:11:55,828: INFO  – Success: Target Environment update - Elapsed time: 00:00:00.1889800
+2025-04-03 16:11:55,830: INFO  – Building changed objects list
+2025-04-03 16:11:56,309: INFO  – ========== Specification started ==========
+2025-04-03 16:11:57,809: INFO  –  Specifying General.Calculadora ...
+2025-04-03 16:11:59,067: WARN  – warning spc0047: Variable Numero1 not defined; N(10.2) assumed. (Web Panel 'General.Calculadora', , Details, )
+2025-04-03 16:11:59,068: ERROR – error spc0010: Type mismatch in assignment: &Resultado = int(&Numero1 / &numero2) (Varchar=Numeric). (Web Panel 'General.Calculadora' Events, Line: 6, , Details, )
+2025-04-03 16:11:59,070: ERROR – error spc0010: Type mismatch in assignment: &Resultado = int(&Numero1 * &numero2) (Varchar=Numeric). (Web Panel 'General.Calculadora' Events, Line: 8, , Details, )
+2025-04-03 16:11:59,071: ERROR – error spc0010: Type mismatch in assignment: &Resultado = int(&Numero1 - &numero2) (Varchar=Numeric). (Web Panel 'General.Calculadora' Events, Line: 10, , Details, )
+2025-04-03 16:11:59,867: INFO  – Failed: Specification - Elapsed time: 00:00:03.5580046
+2025-04-03 16:11:59,973: INFO  – Failed: Run Developer Menu - Elapsed time: 00:00:04.6042160
+2025-04-03 16:15:05,926: INFO  – ========== Run Developer Menu started ==========
+2025-04-03 16:15:06,026: INFO  – ========== Copy Module 'GeneXus' started ==========
+2025-04-03 16:15:06,029: INFO  – Success: Copy Module 'GeneXus' - Elapsed time: 00:00:00.0024011
+2025-04-03 16:15:06,125: INFO  – ========== Copy Module 'GeneXusUnanimo' started ==========
+2025-04-03 16:15:06,125: INFO  – Success: Copy Module 'GeneXusUnanimo' - Elapsed time: 00:00:00
+2025-04-03 16:15:06,192: INFO  – ========== Target Environment update started ==========
+2025-04-03 16:15:06,404: INFO  – Success: Target Environment update - Elapsed time: 00:00:00.2126103
+2025-04-03 16:15:06,410: INFO  – Building changed objects list
+2025-04-03 16:15:06,895: INFO  – ========== Specification started ==========
+2025-04-03 16:15:08,504: INFO  –  Specifying General.Calculadora ...
+2025-04-03 16:15:09,911: WARN  – warning spc0047: Variable Numero1 not defined; N(10.2) assumed. (Web Panel 'General.Calculadora', , Details, )
+2025-04-03 16:15:10,039: INFO  – Generating Resources...
+2025-04-03 16:15:10,126: INFO  – Success
+2025-04-03 16:15:10,865: INFO  – Success: Specification - Elapsed time: 00:00:03.9700313
+2025-04-03 16:15:10,979: INFO  – ========== Default (.NET) Generation started ==========
+2025-04-03 16:15:11,630: INFO  – Generating to NETPostgreSQL002\web\general\calculadora.cs
+2025-04-03 16:15:11,845: INFO  – Generating to NETPostgreSQL002\web\general\calculadora.js
+2025-04-03 16:15:11,899: INFO  – Generating to NETPostgreSQL002\web\gxcfg.js
+2025-04-03 16:15:11,910: INFO  – Generating to NETPostgreSQL002\web\GXCFG.WEB
+2025-04-03 16:15:12,009: INFO  – Generating to NETPostgreSQL002\web\Developermenu.bld
+2025-04-03 16:15:12,057: INFO  – Generating to NETPostgreSQL002\web\genexus.programs.common.bld
+2025-04-03 16:15:12,104: INFO  – Generating to NETPostgreSQL002\web\bld41.info
+2025-04-03 16:15:12,106: INFO  – Generating to NETPostgreSQL002\web\DeveloperMenu.xml
+2025-04-03 16:15:12,574: INFO  – Success: Default (.NET) Generation - Elapsed time: 00:00:01.5955219
+2025-04-03 16:15:12,604: INFO  – Compressing static files...
+2025-04-03 16:15:12,664: INFO  – Success
+2025-04-03 16:15:12,756: INFO  – ========== DeveloperMenu Compilation for Default (.NET) started ==========
+2025-04-03 16:15:12,769: INFO  – dotnet publish -nologo -c Release /v:q /m  "D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln"
+2025-04-03 16:15:13,863: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterprompt\general.ui.masterprompt.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 16:15:13,868: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.calculadora\general.calculadora.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 16:15:13,869: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\developermenu\developermenu.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 16:15:13,870: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\GeneXus.Programs.Common\GeneXus.Programs.Common.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 16:15:13,891: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\general.ui.masterunanimosidebar.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 16:15:13,979: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\developermenu\developermenu.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 16:15:13,997: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterprompt\general.ui.masterprompt.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 16:15:14,000: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.calculadora\general.calculadora.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 16:15:14,077: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\GeneXus.Programs.Common\GeneXus.Programs.Common.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 16:15:14,078: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\general.ui.masterunanimosidebar.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 16:15:15,028: INFO  – Success: DeveloperMenu Compilation for Default (.NET) - Elapsed time: 00:00:02.2713230
+2025-04-03 16:15:15,034: INFO  – ========== Web config update started ==========
+2025-04-03 16:15:15,174: INFO  – Gx config file: gxcfg.web
+2025-04-03 16:15:15,174: INFO  – Web config file: appsettings.json
+2025-04-03 16:15:15,183: INFO  – Updating web config ...
+2025-04-03 16:15:15,284: INFO  – Success: Web config update - Elapsed time: 00:00:00.2506301
+2025-04-03 16:15:15,415: INFO  – Success: Run Developer Menu - Elapsed time: 00:00:09.4879377
+2025-04-03 16:15:16,720: INFO  – ========== Run Calculadora Without Building started ==========
+2025-04-03 16:15:16,746: INFO  – ========== Execution started ==========
+2025-04-03 16:15:16,757: INFO  – dotnet watch run  --non-interactive --property OutputPath="D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\web\bin" --project "D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\GxWebStartup\GxWebStartup.csproj"  "Calculadora_BrunoNETPostgreSQL" "D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\web" 8082 http
+2025-04-03 16:15:16,792: INFO  – Starting Service
+2025-04-03 16:15:20,864: INFO  – ... waiting for server ...
+2025-04-03 16:15:26,525: INFO  – Success: Execution - Elapsed time: 00:00:09.7735776
+2025-04-03 16:15:26,567: INFO  – Success: Run Calculadora Without Building - Elapsed time: 00:00:09.8470488
+2025-04-03 16:16:45,083: INFO  – ========== Build All started ==========
+2025-04-03 16:16:45,189: INFO  – ========== Copy Module 'GeneXus' started ==========
+2025-04-03 16:16:45,191: INFO  – Success: Copy Module 'GeneXus' - Elapsed time: 00:00:00.0023712
+2025-04-03 16:16:45,287: INFO  – ========== Copy Module 'GeneXusUnanimo' started ==========
+2025-04-03 16:16:45,287: INFO  – Success: Copy Module 'GeneXusUnanimo' - Elapsed time: 00:00:00
+2025-04-03 16:16:45,364: INFO  – ========== Target Environment update started ==========
+2025-04-03 16:16:45,559: INFO  – Success: Target Environment update - Elapsed time: 00:00:00.1990030
+2025-04-03 16:16:45,566: INFO  – Building changed objects list
+2025-04-03 16:16:46,053: INFO  – ========== Specification started ==========
+2025-04-03 16:16:47,545: INFO  –  Specifying General.Calculadora ...
+2025-04-03 16:16:48,844: WARN  – warning spc0047: Variable Numero1 not defined; N(10.2) assumed. (Web Panel 'General.Calculadora', , Details, )
+2025-04-03 16:16:48,927: INFO  – Generating Resources...
+2025-04-03 16:16:49,084: INFO  – Success
+2025-04-03 16:16:49,695: INFO  – Success: Specification - Elapsed time: 00:00:03.6410762
+2025-04-03 16:16:49,798: INFO  – ========== Default (.NET) Generation started ==========
+2025-04-03 16:16:50,450: INFO  – Generating to NETPostgreSQL002\web\general\calculadora.cs
+2025-04-03 16:16:50,669: INFO  – Generating to NETPostgreSQL002\web\general\calculadora.js
+2025-04-03 16:16:50,738: INFO  – Generating to NETPostgreSQL002\web\gxcfg.js
+2025-04-03 16:16:50,749: INFO  – Generating to NETPostgreSQL002\web\GXCFG.WEB
+2025-04-03 16:16:50,835: INFO  – Generating to NETPostgreSQL002\web\Developermenu.bld
+2025-04-03 16:16:50,882: INFO  – Generating to NETPostgreSQL002\web\genexus.programs.common.bld
+2025-04-03 16:16:50,923: INFO  – Generating to NETPostgreSQL002\web\bld41.info
+2025-04-03 16:16:50,927: INFO  – Generating to NETPostgreSQL002\web\DeveloperMenu.xml
+2025-04-03 16:16:51,394: INFO  – Success: Default (.NET) Generation - Elapsed time: 00:00:01.5967043
+2025-04-03 16:16:51,420: INFO  – Compressing static files...
+2025-04-03 16:16:51,491: INFO  – Success
+2025-04-03 16:16:51,554: INFO  – ========== DeveloperMenu Compilation for Default (.NET) started ==========
+2025-04-03 16:16:51,575: INFO  – dotnet publish -nologo -c Release /v:q /m  "D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln"
+2025-04-03 16:16:52,775: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.calculadora\general.calculadora.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 16:16:52,775: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterprompt\general.ui.masterprompt.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 16:16:52,775: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\GeneXus.Programs.Common\GeneXus.Programs.Common.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 16:16:52,776: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\developermenu\developermenu.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 16:16:52,786: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\general.ui.masterunanimosidebar.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 16:16:52,889: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.calculadora\general.calculadora.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 16:16:52,889: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\developermenu\developermenu.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 16:16:52,911: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterprompt\general.ui.masterprompt.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 16:16:52,991: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\general.ui.masterunanimosidebar.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 16:16:52,992: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\GeneXus.Programs.Common\GeneXus.Programs.Common.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 16:16:54,268: INFO  – Success: DeveloperMenu Compilation for Default (.NET) - Elapsed time: 00:00:02.7138778
+2025-04-03 16:16:54,269: INFO  – ========== Web config update started ==========
+2025-04-03 16:16:54,356: INFO  – Gx config file: gxcfg.web
+2025-04-03 16:16:54,356: INFO  – Web config file: appsettings.json
+2025-04-03 16:16:54,362: INFO  – Updating web config ...
+2025-04-03 16:16:54,455: INFO  – Success: Web config update - Elapsed time: 00:00:00.1864364
+2025-04-03 16:16:54,465: INFO  – Success: Build All - Elapsed time: 00:00:09.3901593
+2025-04-03 16:19:23,937: INFO  – ========== Build All started ==========
+2025-04-03 16:19:24,044: INFO  – ========== Copy Module 'GeneXus' started ==========
+2025-04-03 16:19:24,046: INFO  – Success: Copy Module 'GeneXus' - Elapsed time: 00:00:00.0016965
+2025-04-03 16:19:24,136: INFO  – ========== Copy Module 'GeneXusUnanimo' started ==========
+2025-04-03 16:19:24,136: INFO  – Success: Copy Module 'GeneXusUnanimo' - Elapsed time: 00:00:00
+2025-04-03 16:19:24,215: INFO  – ========== Target Environment update started ==========
+2025-04-03 16:19:24,414: INFO  – Success: Target Environment update - Elapsed time: 00:00:00.1999059
+2025-04-03 16:19:24,422: INFO  – Building changed objects list
+2025-04-03 16:19:24,922: INFO  – ========== Specification started ==========
+2025-04-03 16:19:26,460: INFO  –  Specifying General.Calculadora ...
+2025-04-03 16:19:27,684: WARN  – warning spc0047: Variable Numero1 not defined; N(10.2) assumed. (Web Panel 'General.Calculadora', , Details, )
+2025-04-03 16:19:27,765: INFO  – Generating Resources...
+2025-04-03 16:19:27,875: INFO  – Success
+2025-04-03 16:19:28,535: INFO  – Success: Specification - Elapsed time: 00:00:03.6135369
+2025-04-03 16:19:28,654: INFO  – ========== Default (.NET) Generation started ==========
+2025-04-03 16:19:29,369: INFO  – Generating to NETPostgreSQL002\web\general\calculadora.cs
+2025-04-03 16:19:29,584: INFO  – Generating to NETPostgreSQL002\web\general\calculadora.js
+2025-04-03 16:19:29,643: INFO  – Generating to NETPostgreSQL002\web\gxcfg.js
+2025-04-03 16:19:29,654: INFO  – Generating to NETPostgreSQL002\web\GXCFG.WEB
+2025-04-03 16:19:29,746: INFO  – Generating to NETPostgreSQL002\web\Developermenu.bld
+2025-04-03 16:19:29,799: INFO  – Generating to NETPostgreSQL002\web\genexus.programs.common.bld
+2025-04-03 16:19:29,842: INFO  – Generating to NETPostgreSQL002\web\bld41.info
+2025-04-03 16:19:29,844: INFO  – Generating to NETPostgreSQL002\web\DeveloperMenu.xml
+2025-04-03 16:19:30,344: INFO  – Success: Default (.NET) Generation - Elapsed time: 00:00:01.6899354
+2025-04-03 16:19:30,381: INFO  – Compressing static files...
+2025-04-03 16:19:30,444: INFO  – Success
+2025-04-03 16:19:30,529: INFO  – ========== DeveloperMenu Compilation for Default (.NET) started ==========
+2025-04-03 16:19:30,541: INFO  – dotnet publish -nologo -c Release /v:q /m  "D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln"
+2025-04-03 16:19:31,821: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterprompt\general.ui.masterprompt.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 16:19:31,826: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\general.ui.masterunanimosidebar.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 16:19:31,826: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.calculadora\general.calculadora.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 16:19:31,829: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\GeneXus.Programs.Common\GeneXus.Programs.Common.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 16:19:31,832: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\developermenu\developermenu.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 16:19:31,973: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\developermenu\developermenu.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 16:19:31,989: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterprompt\general.ui.masterprompt.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 16:19:31,993: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.calculadora\general.calculadora.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 16:19:32,024: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\general.ui.masterunanimosidebar.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 16:19:32,137: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\GeneXus.Programs.Common\GeneXus.Programs.Common.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 16:19:33,399: INFO  – Success: DeveloperMenu Compilation for Default (.NET) - Elapsed time: 00:00:02.8705628
+2025-04-03 16:19:33,401: INFO  – ========== Web config update started ==========
+2025-04-03 16:19:33,506: INFO  – Gx config file: gxcfg.web
+2025-04-03 16:19:33,506: INFO  – Web config file: appsettings.json
+2025-04-03 16:19:33,519: INFO  – Updating web config ...
+2025-04-03 16:19:33,613: INFO  – Success: Web config update - Elapsed time: 00:00:00.2115402
+2025-04-03 16:19:33,630: INFO  – Success: Build All - Elapsed time: 00:00:09.6924300
+2025-04-03 16:47:05,618: INFO  – ========== Run Developer Menu started ==========
+2025-04-03 16:47:05,809: INFO  – ========== Copy Module 'GeneXus' started ==========
+2025-04-03 16:47:05,811: INFO  – Success: Copy Module 'GeneXus' - Elapsed time: 00:00:00.0019990
+2025-04-03 16:47:05,920: INFO  – ========== Copy Module 'GeneXusUnanimo' started ==========
+2025-04-03 16:47:05,922: INFO  – Success: Copy Module 'GeneXusUnanimo' - Elapsed time: 00:00:00.0009833
+2025-04-03 16:47:06,011: INFO  – ========== Target Environment update started ==========
+2025-04-03 16:47:06,343: INFO  – Success: Target Environment update - Elapsed time: 00:00:00.3338569
+2025-04-03 16:47:06,345: INFO  – Building changed objects list
+2025-04-03 16:47:06,879: INFO  – ========== Specification started ==========
+2025-04-03 16:47:08,571: INFO  –  Specifying General.Calculadora ...
+2025-04-03 16:47:08,572: INFO  –  Specifying General.ChecaVazio ...
+2025-04-03 16:47:08,699: ERROR – error spc0010: Type mismatch in assignment: &checaVazio = 1 (Varchar=Numeric). (Procedure 'General.ChecaVazio' Source, Line: 3, , Details, )
+2025-04-03 16:47:08,700: ERROR – error spc0010: Type mismatch in assignment: &checaVazio = 0 (Varchar=Numeric). (Procedure 'General.ChecaVazio' Source, Line: 5, , Details, )
+2025-04-03 16:47:10,032: WARN  – warning spc0025: Too many parameters in udp/udf referencing General.ChecaVazio. (Web Panel 'General.Calculadora' Events, Line: 22, , Details, )
+2025-04-03 16:47:10,032: ERROR – error spc0009: Type mismatch in condition: COND(General.ChecaVazio(,&Operacao))). (Web Panel 'General.Calculadora' Events, Line: 22, , Details, )
+2025-04-03 16:47:10,798: INFO  – Failed: Specification - Elapsed time: 00:00:03.9180684
+2025-04-03 16:47:10,904: INFO  – Failed: Run Developer Menu - Elapsed time: 00:00:05.2856031
+2025-04-03 16:47:40,557: INFO  – ========== Build All started ==========
+2025-04-03 16:47:40,664: INFO  – ========== Copy Module 'GeneXus' started ==========
+2025-04-03 16:47:40,665: INFO  – Success: Copy Module 'GeneXus' - Elapsed time: 00:00:00.0009988
+2025-04-03 16:47:40,761: INFO  – ========== Copy Module 'GeneXusUnanimo' started ==========
+2025-04-03 16:47:40,763: INFO  – Success: Copy Module 'GeneXusUnanimo' - Elapsed time: 00:00:00.0011282
+2025-04-03 16:47:40,835: INFO  – ========== Target Environment update started ==========
+2025-04-03 16:47:40,909: INFO  – Success: Target Environment update - Elapsed time: 00:00:00.0744696
+2025-04-03 16:47:40,911: INFO  – Building changed objects list
+2025-04-03 16:47:41,388: INFO  – ========== Specification started ==========
+2025-04-03 16:47:42,936: INFO  –  Specifying General.Calculadora ...
+2025-04-03 16:47:42,946: INFO  –  Specifying General.ChecaVazio ...
+2025-04-03 16:47:43,097: INFO  – Generating Resources...
+2025-04-03 16:47:43,204: INFO  – Success
+2025-04-03 16:47:43,243: INFO  – ========== Default (.NET) Generation started ==========
+2025-04-03 16:47:43,865: INFO  – Generating to NETPostgreSQL002\web\general\checavazio.cs
+2025-04-03 16:47:44,407: WARN  – warning spc0025: Too many parameters in udp/udf referencing General.ChecaVazio. (Web Panel 'General.Calculadora' Events, Line: 22, , Details, )
+2025-04-03 16:47:44,407: ERROR – error spc0009: Type mismatch in condition: COND(General.ChecaVazio(,&Operacao))). (Web Panel 'General.Calculadora' Events, Line: 22, , Details, )
+2025-04-03 16:47:45,176: INFO  – Failed: Specification - Elapsed time: 00:00:03.7879841
+2025-04-03 16:47:45,353: INFO  – Generating to NETPostgreSQL002\web\gxcfg.js
+2025-04-03 16:47:45,369: INFO  – Generating to NETPostgreSQL002\web\GXCFG.WEB
+2025-04-03 16:47:45,463: INFO  – Generating to NETPostgreSQL002\web\Developermenu.bld
+2025-04-03 16:47:45,528: INFO  – Generating to NETPostgreSQL002\web\genexus.programs.common.bld
+2025-04-03 16:47:45,616: INFO  – Generating to NETPostgreSQL002\web\bld41.info
+2025-04-03 16:47:45,618: INFO  – Generating to NETPostgreSQL002\web\DeveloperMenu.xml
+2025-04-03 16:47:46,131: INFO  – Success: Default (.NET) Generation - Elapsed time: 00:00:02.8878639
+2025-04-03 16:47:46,161: INFO  – Compressing static files...
+2025-04-03 16:47:46,197: INFO  – Success
+2025-04-03 16:47:46,290: INFO  – ========== DeveloperMenu Compilation for Default (.NET) started ==========
+2025-04-03 16:47:46,307: INFO  – dotnet publish -nologo -c Release /v:q /m  "D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln"
+2025-04-03 16:47:48,207: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\developermenu\developermenu.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 16:47:48,207: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.calculadora\general.calculadora.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 16:47:48,208: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\general.ui.masterunanimosidebar.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 16:47:48,220: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\GeneXus.Programs.Common\GeneXus.Programs.Common.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 16:47:48,220: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterprompt\general.ui.masterprompt.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 16:47:48,403: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\developermenu\developermenu.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 16:47:48,421: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterprompt\general.ui.masterprompt.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 16:47:48,422: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\general.ui.masterunanimosidebar.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 16:47:48,437: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.calculadora\general.calculadora.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 16:47:48,601: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\GeneXus.Programs.Common\GeneXus.Programs.Common.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 16:47:51,074: INFO  – Success: DeveloperMenu Compilation for Default (.NET) - Elapsed time: 00:00:04.7829433
+2025-04-03 16:47:51,075: INFO  – ========== Web config update started ==========
+2025-04-03 16:47:51,530: INFO  – Gx config file: gxcfg.web
+2025-04-03 16:47:51,530: INFO  – Web config file: appsettings.json
+2025-04-03 16:47:51,539: INFO  – Updating web config ...
+2025-04-03 16:47:51,687: INFO  – Success: Web config update - Elapsed time: 00:00:00.6115778
+2025-04-03 16:47:51,709: INFO  – Failed: Build All - Elapsed time: 00:00:11.1523156
+2025-04-03 16:48:43,803: INFO  – ========== Build With This Only started ==========
+2025-04-03 16:48:43,956: INFO  – ========== Copy Module 'GeneXus' started ==========
+2025-04-03 16:48:43,958: INFO  – Success: Copy Module 'GeneXus' - Elapsed time: 00:00:00.0010014
+2025-04-03 16:48:44,061: INFO  – ========== Copy Module 'GeneXusUnanimo' started ==========
+2025-04-03 16:48:44,062: INFO  – Success: Copy Module 'GeneXusUnanimo' - Elapsed time: 00:00:00.0009998
+2025-04-03 16:48:44,128: INFO  – ========== Target Environment update started ==========
+2025-04-03 16:48:44,396: INFO  – Success: Target Environment update - Elapsed time: 00:00:00.2691448
+2025-04-03 16:48:44,399: INFO  – Building changed objects list
+2025-04-03 16:48:44,686: INFO  – ========== Specification started ==========
+2025-04-03 16:48:46,287: INFO  –  Specifying General.Calculadora ...
+2025-04-03 16:48:47,561: WARN  – warning spc0025: Too many parameters in udp/udf referencing General.ChecaVazio. (Web Panel 'General.Calculadora' Events, Line: 22, , Details, )
+2025-04-03 16:48:48,343: INFO  – Success: Specification - Elapsed time: 00:00:03.6566356
+2025-04-03 16:48:48,453: INFO  – ========== Default (.NET) Generation started ==========
+2025-04-03 16:48:49,079: INFO  – Generating to NETPostgreSQL002\web\general\calculadora.cs
+2025-04-03 16:48:49,295: INFO  – Generating to NETPostgreSQL002\web\general\calculadora.js
+2025-04-03 16:48:49,887: INFO  – Success: Default (.NET) Generation - Elapsed time: 00:00:01.4348811
+2025-04-03 16:48:49,910: INFO  – Compressing static files...
+2025-04-03 16:48:49,957: INFO  – Success
+2025-04-03 16:48:50,104: INFO  – ========== DeveloperMenu Compilation for Default (.NET) started ==========
+2025-04-03 16:48:50,121: INFO  – dotnet publish -nologo -c Release /v:q /m  "D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln"
+2025-04-03 16:48:51,406: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterprompt\general.ui.masterprompt.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 16:48:51,406: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\general.ui.masterunanimosidebar.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 16:48:51,411: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.calculadora\general.calculadora.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 16:48:51,434: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\GeneXus.Programs.Common\GeneXus.Programs.Common.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 16:48:51,437: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\developermenu\developermenu.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 16:48:51,586: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.calculadora\general.calculadora.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 16:48:51,587: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\developermenu\developermenu.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 16:48:51,625: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\GeneXus.Programs.Common\GeneXus.Programs.Common.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 16:48:55,151: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\general.ui.masterunanimosidebar.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 16:48:55,179: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterprompt\general.ui.masterprompt.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 16:48:56,394: INFO  – Success: DeveloperMenu Compilation for Default (.NET) - Elapsed time: 00:00:06.2902194
+2025-04-03 16:48:56,396: INFO  – ========== Web config update started ==========
+2025-04-03 16:48:56,505: INFO  – Gx config file: gxcfg.web
+2025-04-03 16:48:56,507: INFO  – Web config file: appsettings.json
+2025-04-03 16:48:56,523: INFO  – Success: Web config update - Elapsed time: 00:00:00.1275420
+2025-04-03 16:48:56,535: INFO  – Success: Build With This Only - Elapsed time: 00:00:12.7337651
+2025-04-03 16:49:09,488: INFO  – ========== Run Calculadora Without Building started ==========
+2025-04-03 16:49:09,504: INFO  – ========== Execution started ==========
+2025-04-03 16:49:11,008: INFO  – ========== Run Calculadora Without Building started ==========
+2025-04-03 16:49:11,018: INFO  – ========== Execution started ==========
+2025-04-03 16:49:11,403: INFO  – Success: Execution - Elapsed time: 00:00:00.3840937
+2025-04-03 16:49:11,403: INFO  – Success: Execution
+2025-04-03 16:49:11,406: INFO  – Success: Run Calculadora Without Building - Elapsed time: 00:00:00.3971085
+2025-04-03 16:49:11,431: INFO  – Success: Run Calculadora Without Building
+2025-04-03 16:54:12,531: INFO  – ========== Build With This Only started ==========
+2025-04-03 16:54:12,653: INFO  – ========== Copy Module 'GeneXus' started ==========
+2025-04-03 16:54:12,655: INFO  – Success: Copy Module 'GeneXus' - Elapsed time: 00:00:00
+2025-04-03 16:54:12,751: INFO  – ========== Copy Module 'GeneXusUnanimo' started ==========
+2025-04-03 16:54:12,752: INFO  – Success: Copy Module 'GeneXusUnanimo' - Elapsed time: 00:00:00.0011558
+2025-04-03 16:54:12,822: INFO  – ========== Target Environment update started ==========
+2025-04-03 16:54:13,018: INFO  – Success: Target Environment update - Elapsed time: 00:00:00.1957892
+2025-04-03 16:54:13,021: INFO  – Building changed objects list
+2025-04-03 16:54:13,319: INFO  – ========== Specification started ==========
+2025-04-03 16:54:14,897: INFO  –  Specifying General.Calculadora ...
+2025-04-03 16:54:16,179: WARN  – warning spc0025: Too many parameters in udp/udf referencing General.ChecaVazio. (Web Panel 'General.Calculadora' Events, Line: 22, , Details, )
+2025-04-03 16:54:17,004: INFO  – Success: Specification - Elapsed time: 00:00:03.6848301
+2025-04-03 16:54:17,123: INFO  – ========== Default (.NET) Generation started ==========
+2025-04-03 16:54:17,782: INFO  – Generating to NETPostgreSQL002\web\general\calculadora.cs
+2025-04-03 16:54:18,020: INFO  – Generating to NETPostgreSQL002\web\general\calculadora.js
+2025-04-03 16:54:18,603: INFO  – Success: Default (.NET) Generation - Elapsed time: 00:00:01.4800625
+2025-04-03 16:54:18,628: INFO  – Compressing static files...
+2025-04-03 16:54:18,676: INFO  – Success
+2025-04-03 16:54:18,868: INFO  – ========== DeveloperMenu Compilation for Default (.NET) started ==========
+2025-04-03 16:54:18,884: INFO  – dotnet publish -nologo -c Release /v:q /m  "D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln"
+2025-04-03 16:54:20,192: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterprompt\general.ui.masterprompt.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 16:54:20,193: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\developermenu\developermenu.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 16:54:20,193: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\general.ui.masterunanimosidebar.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 16:54:20,217: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\GeneXus.Programs.Common\GeneXus.Programs.Common.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 16:54:20,217: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.calculadora\general.calculadora.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 16:54:20,320: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\developermenu\developermenu.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 16:54:20,327: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\GeneXus.Programs.Common\GeneXus.Programs.Common.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 16:54:20,395: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.calculadora\general.calculadora.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 16:54:21,440: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\general.ui.masterunanimosidebar.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 16:54:21,441: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterprompt\general.ui.masterprompt.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 16:54:22,723: INFO  – Success: DeveloperMenu Compilation for Default (.NET) - Elapsed time: 00:00:03.8555367
+2025-04-03 16:54:22,728: INFO  – ========== Web config update started ==========
+2025-04-03 16:54:22,843: INFO  – Gx config file: gxcfg.web
+2025-04-03 16:54:22,845: INFO  – Web config file: appsettings.json
+2025-04-03 16:54:22,860: INFO  – Success: Web config update - Elapsed time: 00:00:00.1317135
+2025-04-03 16:54:22,872: INFO  – Success: Build With This Only - Elapsed time: 00:00:10.3417141
+2025-04-03 17:05:52,382: INFO  – ========== Build With This Only started ==========
+2025-04-03 17:05:52,538: INFO  – ========== Copy Module 'GeneXus' started ==========
+2025-04-03 17:05:52,539: INFO  – Success: Copy Module 'GeneXus' - Elapsed time: 00:00:00.0019889
+2025-04-03 17:05:52,647: INFO  – ========== Copy Module 'GeneXusUnanimo' started ==========
+2025-04-03 17:05:52,647: INFO  – Success: Copy Module 'GeneXusUnanimo' - Elapsed time: 00:00:00.0010216
+2025-04-03 17:05:52,719: INFO  – ========== Target Environment update started ==========
+2025-04-03 17:05:53,045: INFO  – Success: Target Environment update - Elapsed time: 00:00:00.3264072
+2025-04-03 17:05:53,049: INFO  – Building changed objects list
+2025-04-03 17:05:53,338: INFO  – ========== Specification started ==========
+2025-04-03 17:05:54,929: INFO  –  Specifying General.Calculadora ...
+2025-04-03 17:05:56,325: WARN  – warning spc0025: Too many parameters in udp/udf referencing General.ChecaVazio. (Web Panel 'General.Calculadora' Events, Line: 22, , Details, )
+2025-04-03 17:05:57,136: INFO  – Success: Specification - Elapsed time: 00:00:03.7971871
+2025-04-03 17:05:57,243: INFO  – ========== Default (.NET) Generation started ==========
+2025-04-03 17:05:57,881: INFO  – Generating to NETPostgreSQL002\web\general\calculadora.cs
+2025-04-03 17:05:58,127: INFO  – Generating to NETPostgreSQL002\web\general\calculadora.js
+2025-04-03 17:05:58,703: INFO  – Success: Default (.NET) Generation - Elapsed time: 00:00:01.4599312
+2025-04-03 17:05:58,733: INFO  – Compressing static files...
+2025-04-03 17:05:58,777: INFO  – Success
+2025-04-03 17:05:58,920: INFO  – ========== DeveloperMenu Compilation for Default (.NET) started ==========
+2025-04-03 17:05:58,935: INFO  – dotnet publish -nologo -c Release /v:q /m  "D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln"
+2025-04-03 17:06:00,111: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.calculadora\general.calculadora.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:06:00,111: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\general.ui.masterunanimosidebar.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:06:00,119: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterprompt\general.ui.masterprompt.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:06:00,132: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\GeneXus.Programs.Common\GeneXus.Programs.Common.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:06:00,133: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\developermenu\developermenu.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:06:00,277: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.calculadora\general.calculadora.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:06:00,298: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\developermenu\developermenu.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:06:00,319: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\GeneXus.Programs.Common\GeneXus.Programs.Common.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:06:03,316: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\general.ui.masterunanimosidebar.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:06:03,333: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterprompt\general.ui.masterprompt.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:06:04,408: INFO  – Success: DeveloperMenu Compilation for Default (.NET) - Elapsed time: 00:00:05.4883444
+2025-04-03 17:06:04,410: INFO  – ========== Web config update started ==========
+2025-04-03 17:06:04,489: INFO  – Gx config file: gxcfg.web
+2025-04-03 17:06:04,490: INFO  – Web config file: appsettings.json
+2025-04-03 17:06:04,502: INFO  – Success: Web config update - Elapsed time: 00:00:00.0917873
+2025-04-03 17:06:04,514: INFO  – Success: Build With This Only - Elapsed time: 00:00:12.1343943
+2025-04-03 17:08:11,523: INFO  – ========== Build With This Only started ==========
+2025-04-03 17:08:11,650: INFO  – ========== Copy Module 'GeneXus' started ==========
+2025-04-03 17:08:11,651: INFO  – Success: Copy Module 'GeneXus' - Elapsed time: 00:00:00.0020013
+2025-04-03 17:08:11,759: INFO  – ========== Copy Module 'GeneXusUnanimo' started ==========
+2025-04-03 17:08:11,760: INFO  – Success: Copy Module 'GeneXusUnanimo' - Elapsed time: 00:00:00.0009845
+2025-04-03 17:08:11,843: INFO  – ========== Target Environment update started ==========
+2025-04-03 17:08:12,105: INFO  – Success: Target Environment update - Elapsed time: 00:00:00.2619582
+2025-04-03 17:08:12,108: INFO  – Building changed objects list
+2025-04-03 17:08:12,393: INFO  – ========== Specification started ==========
+2025-04-03 17:08:13,945: INFO  –  Specifying General.Calculadora ...
+2025-04-03 17:08:15,291: WARN  – warning spc0025: Too many parameters in udp/udf referencing General.ChecaVazio. (Web Panel 'General.Calculadora' Events, Line: 22, , Details, )
+2025-04-03 17:08:16,113: INFO  – Success: Specification - Elapsed time: 00:00:03.7158756
+2025-04-03 17:08:16,216: INFO  – ========== Default (.NET) Generation started ==========
+2025-04-03 17:08:16,866: INFO  – Generating to NETPostgreSQL002\web\general\calculadora.cs
+2025-04-03 17:08:17,104: INFO  – Generating to NETPostgreSQL002\web\general\calculadora.js
+2025-04-03 17:08:17,702: INFO  – Success: Default (.NET) Generation - Elapsed time: 00:00:01.4845330
+2025-04-03 17:08:17,725: INFO  – Compressing static files...
+2025-04-03 17:08:17,775: INFO  – Success
+2025-04-03 17:08:17,946: INFO  – ========== DeveloperMenu Compilation for Default (.NET) started ==========
+2025-04-03 17:08:17,962: INFO  – dotnet publish -nologo -c Release /v:q /m  "D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln"
+2025-04-03 17:08:19,168: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\general.ui.masterunanimosidebar.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:08:19,169: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\developermenu\developermenu.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:08:19,169: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterprompt\general.ui.masterprompt.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:08:19,198: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\GeneXus.Programs.Common\GeneXus.Programs.Common.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:08:19,201: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.calculadora\general.calculadora.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:08:19,296: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\developermenu\developermenu.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:08:19,342: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\GeneXus.Programs.Common\GeneXus.Programs.Common.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:08:19,369: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.calculadora\general.calculadora.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:08:20,283: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterprompt\general.ui.masterprompt.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:08:20,292: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\general.ui.masterunanimosidebar.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:08:21,287: INFO  – Success: DeveloperMenu Compilation for Default (.NET) - Elapsed time: 00:00:03.3412984
+2025-04-03 17:08:21,288: INFO  – ========== Web config update started ==========
+2025-04-03 17:08:21,372: INFO  – Gx config file: gxcfg.web
+2025-04-03 17:08:21,372: INFO  – Web config file: appsettings.json
+2025-04-03 17:08:21,391: INFO  – Success: Web config update - Elapsed time: 00:00:00.1023164
+2025-04-03 17:08:21,397: INFO  – Success: Build With This Only - Elapsed time: 00:00:09.8746080
+2025-04-03 17:10:03,573: INFO  – ========== Build With This Only started ==========
+2025-04-03 17:10:03,701: INFO  – ========== Copy Module 'GeneXus' started ==========
+2025-04-03 17:10:03,702: INFO  – Success: Copy Module 'GeneXus' - Elapsed time: 00:00:00.0019824
+2025-04-03 17:10:03,802: INFO  – ========== Copy Module 'GeneXusUnanimo' started ==========
+2025-04-03 17:10:03,802: INFO  – Success: Copy Module 'GeneXusUnanimo' - Elapsed time: 00:00:00.0011972
+2025-04-03 17:10:03,868: INFO  – ========== Target Environment update started ==========
+2025-04-03 17:10:04,098: INFO  – Success: Target Environment update - Elapsed time: 00:00:00.2303313
+2025-04-03 17:10:04,101: INFO  – Building changed objects list
+2025-04-03 17:10:04,365: INFO  – ========== Specification started ==========
+2025-04-03 17:10:06,085: INFO  –  Specifying General.Calculadora ...
+2025-04-03 17:10:07,466: WARN  – warning spc0025: Too many parameters in udp/udf referencing General.ChecaVazio. (Web Panel 'General.Calculadora' Events, Line: 22, , Details, )
+2025-04-03 17:10:08,268: INFO  – Success: Specification - Elapsed time: 00:00:03.9022154
+2025-04-03 17:10:08,392: INFO  – ========== Default (.NET) Generation started ==========
+2025-04-03 17:10:09,057: INFO  – Generating to NETPostgreSQL002\web\general\calculadora.cs
+2025-04-03 17:10:09,323: INFO  – Generating to NETPostgreSQL002\web\general\calculadora.js
+2025-04-03 17:10:09,923: INFO  – Success: Default (.NET) Generation - Elapsed time: 00:00:01.5304194
+2025-04-03 17:10:09,966: INFO  – Compressing static files...
+2025-04-03 17:10:10,011: INFO  – Success
+2025-04-03 17:10:10,167: INFO  – ========== DeveloperMenu Compilation for Default (.NET) started ==========
+2025-04-03 17:10:10,196: INFO  – dotnet publish -nologo -c Release /v:q /m  "D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln"
+2025-04-03 17:10:11,381: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\GeneXus.Programs.Common\GeneXus.Programs.Common.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:10:11,381: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.calculadora\general.calculadora.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:10:11,382: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterprompt\general.ui.masterprompt.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:10:11,385: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\general.ui.masterunanimosidebar.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:10:11,390: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\developermenu\developermenu.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:10:11,490: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\developermenu\developermenu.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:10:11,558: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.calculadora\general.calculadora.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:10:11,597: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\GeneXus.Programs.Common\GeneXus.Programs.Common.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:10:12,421: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\general.ui.masterunanimosidebar.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:10:12,425: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterprompt\general.ui.masterprompt.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:10:13,392: INFO  – Success: DeveloperMenu Compilation for Default (.NET) - Elapsed time: 00:00:03.2223276
+2025-04-03 17:10:13,395: INFO  – ========== Web config update started ==========
+2025-04-03 17:10:13,496: INFO  – Gx config file: gxcfg.web
+2025-04-03 17:10:13,496: INFO  – Web config file: appsettings.json
+2025-04-03 17:10:13,511: INFO  – Success: Web config update - Elapsed time: 00:00:00.1141817
+2025-04-03 17:10:13,519: INFO  – Success: Build With This Only - Elapsed time: 00:00:09.9467969
+2025-04-03 17:11:11,268: INFO  – ========== Build With This Only started ==========
+2025-04-03 17:11:11,400: INFO  – ========== Copy Module 'GeneXus' started ==========
+2025-04-03 17:11:11,401: INFO  – Success: Copy Module 'GeneXus' - Elapsed time: 00:00:00.0010135
+2025-04-03 17:11:11,516: INFO  – ========== Copy Module 'GeneXusUnanimo' started ==========
+2025-04-03 17:11:11,517: INFO  – Success: Copy Module 'GeneXusUnanimo' - Elapsed time: 00:00:00.0010021
+2025-04-03 17:11:11,577: INFO  – ========== Target Environment update started ==========
+2025-04-03 17:11:11,919: INFO  – Success: Target Environment update - Elapsed time: 00:00:00.3414773
+2025-04-03 17:11:11,952: INFO  – Building changed objects list
+2025-04-03 17:11:12,434: INFO  – ========== Specification started ==========
+2025-04-03 17:11:14,009: INFO  –  Specifying General.Calculadora ...
+2025-04-03 17:11:15,390: WARN  – warning spc0025: Too many parameters in udp/udf referencing General.ChecaVazio. (Web Panel 'General.Calculadora' Events, Line: 22, , Details, )
+2025-04-03 17:11:16,223: INFO  – Success: Specification - Elapsed time: 00:00:03.7884842
+2025-04-03 17:11:16,332: INFO  – ========== Default (.NET) Generation started ==========
+2025-04-03 17:11:17,035: INFO  – Generating to NETPostgreSQL002\web\general\calculadora.cs
+2025-04-03 17:11:17,299: INFO  – Generating to NETPostgreSQL002\web\general\calculadora.js
+2025-04-03 17:11:17,913: INFO  – Success: Default (.NET) Generation - Elapsed time: 00:00:01.5814385
+2025-04-03 17:11:17,943: INFO  – Compressing static files...
+2025-04-03 17:11:17,998: INFO  – Success
+2025-04-03 17:11:18,141: INFO  – ========== DeveloperMenu Compilation for Default (.NET) started ==========
+2025-04-03 17:11:18,160: INFO  – dotnet publish -nologo -c Release /v:q /m  "D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln"
+2025-04-03 17:11:19,373: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.calculadora\general.calculadora.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:11:19,373: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\GeneXus.Programs.Common\GeneXus.Programs.Common.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:11:19,373: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterprompt\general.ui.masterprompt.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:11:19,373: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\general.ui.masterunanimosidebar.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:11:19,378: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\developermenu\developermenu.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:11:19,467: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\developermenu\developermenu.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:11:19,512: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\GeneXus.Programs.Common\GeneXus.Programs.Common.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:11:19,551: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.calculadora\general.calculadora.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:11:20,148: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\general.ui.masterunanimosidebar.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:11:20,157: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterprompt\general.ui.masterprompt.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:11:21,094: INFO  – Success: DeveloperMenu Compilation for Default (.NET) - Elapsed time: 00:00:02.9529536
+2025-04-03 17:11:21,099: INFO  – ========== Web config update started ==========
+2025-04-03 17:11:21,176: INFO  – Gx config file: gxcfg.web
+2025-04-03 17:11:21,176: INFO  – Web config file: appsettings.json
+2025-04-03 17:11:21,189: INFO  – Success: Web config update - Elapsed time: 00:00:00.0881122
+2025-04-03 17:11:21,192: INFO  – Success: Build With This Only - Elapsed time: 00:00:09.9254555
+2025-04-03 17:13:21,173: INFO  – ========== Build With This Only started ==========
+2025-04-03 17:13:21,291: INFO  – ========== Copy Module 'GeneXus' started ==========
+2025-04-03 17:13:21,293: INFO  – Success: Copy Module 'GeneXus' - Elapsed time: 00:00:00.0010557
+2025-04-03 17:13:21,406: INFO  – ========== Copy Module 'GeneXusUnanimo' started ==========
+2025-04-03 17:13:21,407: INFO  – Success: Copy Module 'GeneXusUnanimo' - Elapsed time: 00:00:00.0019979
+2025-04-03 17:13:21,642: INFO  – ========== Target Environment update started ==========
+2025-04-03 17:13:21,856: INFO  – Success: Target Environment update - Elapsed time: 00:00:00.2143093
+2025-04-03 17:13:21,858: INFO  – Building changed objects list
+2025-04-03 17:13:22,146: INFO  – ========== Specification started ==========
+2025-04-03 17:13:23,738: INFO  –  Specifying General.Calculadora ...
+2025-04-03 17:13:25,093: WARN  – warning spc0025: Too many parameters in udp/udf referencing General.ChecaVazio. (Web Panel 'General.Calculadora' Events, Line: 22, , Details, )
+2025-04-03 17:13:25,938: INFO  – Success: Specification - Elapsed time: 00:00:03.7913502
+2025-04-03 17:13:26,050: INFO  – ========== Default (.NET) Generation started ==========
+2025-04-03 17:13:26,701: INFO  – Generating to NETPostgreSQL002\web\general\calculadora.cs
+2025-04-03 17:13:26,947: INFO  – Generating to NETPostgreSQL002\web\general\calculadora.js
+2025-04-03 17:13:27,533: INFO  – Success: Default (.NET) Generation - Elapsed time: 00:00:01.4829599
+2025-04-03 17:13:27,563: INFO  – Compressing static files...
+2025-04-03 17:13:27,613: INFO  – Success
+2025-04-03 17:13:27,776: INFO  – ========== DeveloperMenu Compilation for Default (.NET) started ==========
+2025-04-03 17:13:27,807: INFO  – dotnet publish -nologo -c Release /v:q /m  "D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln"
+2025-04-03 17:13:29,058: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\developermenu\developermenu.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:13:29,059: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.calculadora\general.calculadora.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:13:29,059: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\general.ui.masterunanimosidebar.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:13:29,066: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\GeneXus.Programs.Common\GeneXus.Programs.Common.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:13:29,066: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterprompt\general.ui.masterprompt.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:13:29,170: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\developermenu\developermenu.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:13:29,204: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\GeneXus.Programs.Common\GeneXus.Programs.Common.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:13:29,209: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.calculadora\general.calculadora.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:13:29,905: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\general.ui.masterunanimosidebar.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:13:29,913: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterprompt\general.ui.masterprompt.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:13:30,809: INFO  – Success: DeveloperMenu Compilation for Default (.NET) - Elapsed time: 00:00:03.0334492
+2025-04-03 17:13:30,811: INFO  – ========== Web config update started ==========
+2025-04-03 17:13:30,905: INFO  – Gx config file: gxcfg.web
+2025-04-03 17:13:30,905: INFO  – Web config file: appsettings.json
+2025-04-03 17:13:30,921: INFO  – Success: Web config update - Elapsed time: 00:00:00.1101237
+2025-04-03 17:13:30,929: INFO  – Success: Build With This Only - Elapsed time: 00:00:09.7573588
+2025-04-03 17:14:23,852: INFO  – ========== Build With This Only started ==========
+2025-04-03 17:14:23,957: INFO  – ========== Copy Module 'GeneXus' started ==========
+2025-04-03 17:14:23,959: INFO  – Success: Copy Module 'GeneXus' - Elapsed time: 00:00:00.0009987
+2025-04-03 17:14:24,136: INFO  – ========== Copy Module 'GeneXusUnanimo' started ==========
+2025-04-03 17:14:24,137: INFO  – Success: Copy Module 'GeneXusUnanimo' - Elapsed time: 00:00:00.0010022
+2025-04-03 17:14:24,193: INFO  – ========== Target Environment update started ==========
+2025-04-03 17:14:24,408: INFO  – Success: Target Environment update - Elapsed time: 00:00:00.2159822
+2025-04-03 17:14:24,412: INFO  – Building changed objects list
+2025-04-03 17:14:24,682: INFO  – ========== Specification started ==========
+2025-04-03 17:14:26,242: INFO  –  Specifying General.Calculadora ...
+2025-04-03 17:14:27,605: WARN  – warning spc0025: Too many parameters in udp/udf referencing General.ChecaVazio. (Web Panel 'General.Calculadora' Events, Line: 22, , Details, )
+2025-04-03 17:14:28,424: INFO  – Success: Specification - Elapsed time: 00:00:03.7417535
+2025-04-03 17:14:28,534: INFO  – ========== Default (.NET) Generation started ==========
+2025-04-03 17:14:29,191: INFO  – Generating to NETPostgreSQL002\web\general\calculadora.cs
+2025-04-03 17:14:29,435: INFO  – Generating to NETPostgreSQL002\web\general\calculadora.js
+2025-04-03 17:14:30,028: INFO  – Success: Default (.NET) Generation - Elapsed time: 00:00:01.4934027
+2025-04-03 17:14:30,057: INFO  – Compressing static files...
+2025-04-03 17:14:30,109: INFO  – Success
+2025-04-03 17:14:30,271: INFO  – ========== DeveloperMenu Compilation for Default (.NET) started ==========
+2025-04-03 17:14:30,294: INFO  – dotnet publish -nologo -c Release /v:q /m  "D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln"
+2025-04-03 17:14:31,476: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.calculadora\general.calculadora.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:14:31,477: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\general.ui.masterunanimosidebar.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:14:31,479: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterprompt\general.ui.masterprompt.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:14:31,481: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\GeneXus.Programs.Common\GeneXus.Programs.Common.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:14:31,518: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\developermenu\developermenu.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:14:31,608: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\developermenu\developermenu.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:14:31,636: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\GeneXus.Programs.Common\GeneXus.Programs.Common.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:14:31,672: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.calculadora\general.calculadora.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:14:32,312: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\general.ui.masterunanimosidebar.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:14:32,320: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterprompt\general.ui.masterprompt.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:14:33,070: INFO  – Success: DeveloperMenu Compilation for Default (.NET) - Elapsed time: 00:00:02.7983838
+2025-04-03 17:14:33,072: INFO  – ========== Web config update started ==========
+2025-04-03 17:14:33,146: INFO  – Gx config file: gxcfg.web
+2025-04-03 17:14:33,147: INFO  – Web config file: appsettings.json
+2025-04-03 17:14:33,159: INFO  – Success: Web config update - Elapsed time: 00:00:00.0871541
+2025-04-03 17:14:33,163: INFO  – Success: Build With This Only - Elapsed time: 00:00:09.3145236
+2025-04-03 17:16:13,192: INFO  – ========== Build With This Only started ==========
+2025-04-03 17:16:13,300: INFO  – ========== Copy Module 'GeneXus' started ==========
+2025-04-03 17:16:13,301: INFO  – Success: Copy Module 'GeneXus' - Elapsed time: 00:00:00.0009987
+2025-04-03 17:16:13,393: INFO  – ========== Copy Module 'GeneXusUnanimo' started ==========
+2025-04-03 17:16:13,394: INFO  – Success: Copy Module 'GeneXusUnanimo' - Elapsed time: 00:00:00.0009919
+2025-04-03 17:16:13,467: INFO  – ========== Target Environment update started ==========
+2025-04-03 17:16:13,678: INFO  – Success: Target Environment update - Elapsed time: 00:00:00.2105500
+2025-04-03 17:16:13,680: INFO  – Building changed objects list
+2025-04-03 17:16:13,982: INFO  – ========== Specification started ==========
+2025-04-03 17:16:15,711: INFO  –  Specifying General.Calculadora ...
+2025-04-03 17:16:17,493: WARN  – warning spc0025: Too many parameters in udp/udf referencing General.ChecaVazio. (Web Panel 'General.Calculadora' Events, Line: 22, , Details, )
+2025-04-03 17:16:18,583: INFO  – Success: Specification - Elapsed time: 00:00:04.6008212
+2025-04-03 17:16:18,689: INFO  – ========== Default (.NET) Generation started ==========
+2025-04-03 17:16:19,458: INFO  – Generating to NETPostgreSQL002\web\general\calculadora.cs
+2025-04-03 17:16:19,740: INFO  – Generating to NETPostgreSQL002\web\general\calculadora.js
+2025-04-03 17:16:20,568: INFO  – Success: Default (.NET) Generation - Elapsed time: 00:00:01.8787753
+2025-04-03 17:16:20,647: INFO  – Compressing static files...
+2025-04-03 17:16:20,697: INFO  – Success
+2025-04-03 17:16:20,871: INFO  – ========== DeveloperMenu Compilation for Default (.NET) started ==========
+2025-04-03 17:16:20,891: INFO  – dotnet publish -nologo -c Release /v:q /m  "D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln"
+2025-04-03 17:16:22,298: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\developermenu\developermenu.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:16:22,298: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterprompt\general.ui.masterprompt.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:16:22,298: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.calculadora\general.calculadora.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:16:22,299: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\GeneXus.Programs.Common\GeneXus.Programs.Common.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:16:22,303: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\general.ui.masterunanimosidebar.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:16:22,454: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\developermenu\developermenu.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:16:22,457: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\GeneXus.Programs.Common\GeneXus.Programs.Common.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:16:22,483: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.calculadora\general.calculadora.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:16:23,187: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\general.ui.masterunanimosidebar.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:16:23,188: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterprompt\general.ui.masterprompt.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:16:24,193: INFO  – Success: DeveloperMenu Compilation for Default (.NET) - Elapsed time: 00:00:03.3203734
+2025-04-03 17:16:24,194: INFO  – ========== Web config update started ==========
+2025-04-03 17:16:24,266: INFO  – Gx config file: gxcfg.web
+2025-04-03 17:16:24,266: INFO  – Web config file: appsettings.json
+2025-04-03 17:16:24,275: INFO  – Success: Web config update - Elapsed time: 00:00:00.0811926
+2025-04-03 17:16:24,279: INFO  – Success: Build With This Only - Elapsed time: 00:00:11.0869305
+2025-04-03 17:19:33,179: INFO  – ========== Run Developer Menu started ==========
+2025-04-03 17:19:33,329: INFO  – ========== Copy Module 'GeneXus' started ==========
+2025-04-03 17:19:33,330: INFO  – Success: Copy Module 'GeneXus' - Elapsed time: 00:00:00.0019891
+2025-04-03 17:19:33,445: INFO  – ========== Copy Module 'GeneXusUnanimo' started ==========
+2025-04-03 17:19:33,446: INFO  – Success: Copy Module 'GeneXusUnanimo' - Elapsed time: 00:00:00.0009867
+2025-04-03 17:19:33,510: INFO  – ========== Target Environment update started ==========
+2025-04-03 17:19:33,811: INFO  – Success: Target Environment update - Elapsed time: 00:00:00.3009815
+2025-04-03 17:19:33,815: INFO  – Building changed objects list
+2025-04-03 17:19:34,299: INFO  – ========== Specification started ==========
+2025-04-03 17:19:35,851: INFO  –  Specifying General.Calculadora ...
+2025-04-03 17:19:35,928: INFO  –  Specifying General.ChecaVazio ...
+2025-04-03 17:19:36,117: INFO  – Generating Resources...
+2025-04-03 17:19:36,232: INFO  – Success
+2025-04-03 17:19:37,328: WARN  – warning spc0025: Too many parameters in udp/udf referencing General.ChecaVazio. (Web Panel 'General.Calculadora' Events, Line: 22, , Details, )
+2025-04-03 17:19:37,401: INFO  – ========== Default (.NET) Generation started ==========
+2025-04-03 17:19:38,014: INFO  – Generating to NETPostgreSQL002\web\general\calculadora.cs
+2025-04-03 17:19:38,127: INFO  – Success: Specification - Elapsed time: 00:00:03.8287485
+2025-04-03 17:19:38,286: INFO  – Generating to NETPostgreSQL002\web\general\calculadora.js
+2025-04-03 17:19:38,396: INFO  – Generating to NETPostgreSQL002\web\gxcfg.js
+2025-04-03 17:19:38,413: INFO  – Generating to NETPostgreSQL002\web\GXCFG.WEB
+2025-04-03 17:19:38,492: INFO  – Generating to NETPostgreSQL002\web\Developermenu.bld
+2025-04-03 17:19:38,541: INFO  – Generating to NETPostgreSQL002\web\genexus.programs.common.bld
+2025-04-03 17:19:38,600: INFO  – Generating to NETPostgreSQL002\web\bld41.info
+2025-04-03 17:19:38,603: INFO  – Generating to NETPostgreSQL002\web\DeveloperMenu.xml
+2025-04-03 17:19:39,073: INFO  – Success: Default (.NET) Generation - Elapsed time: 00:00:01.6719026
+2025-04-03 17:19:39,101: INFO  – Compressing static files...
+2025-04-03 17:19:39,160: INFO  – Success
+2025-04-03 17:19:39,230: INFO  – ========== DeveloperMenu Compilation for Default (.NET) started ==========
+2025-04-03 17:19:39,247: INFO  – dotnet publish -nologo -c Release /v:q /m  "D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln"
+2025-04-03 17:19:40,453: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.calculadora\general.calculadora.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:19:40,453: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\general.ui.masterunanimosidebar.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:19:40,453: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterprompt\general.ui.masterprompt.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:19:40,459: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\GeneXus.Programs.Common\GeneXus.Programs.Common.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:19:40,459: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\developermenu\developermenu.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:19:40,548: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\developermenu\developermenu.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:19:40,557: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterprompt\general.ui.masterprompt.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:19:40,592: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.calculadora\general.calculadora.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:19:40,609: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\general.ui.masterunanimosidebar.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:19:40,682: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\GeneXus.Programs.Common\GeneXus.Programs.Common.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:19:42,134: INFO  – Success: DeveloperMenu Compilation for Default (.NET) - Elapsed time: 00:00:02.9025625
+2025-04-03 17:19:42,135: INFO  – ========== Web config update started ==========
+2025-04-03 17:19:42,220: INFO  – Gx config file: gxcfg.web
+2025-04-03 17:19:42,221: INFO  – Web config file: appsettings.json
+2025-04-03 17:19:42,232: INFO  – Updating web config ...
+2025-04-03 17:19:42,326: INFO  – Success: Web config update - Elapsed time: 00:00:00.1904766
+2025-04-03 17:19:42,373: INFO  – Success: Run Developer Menu - Elapsed time: 00:00:09.1891798
+2025-04-03 17:19:45,057: INFO  – ========== Run Calculadora Without Building started ==========
+2025-04-03 17:19:45,064: INFO  – ========== Execution started ==========
+2025-04-03 17:19:45,555: INFO  – Success: Execution - Elapsed time: 00:00:00.4897966
+2025-04-03 17:19:45,559: INFO  – Success: Run Calculadora Without Building - Elapsed time: 00:00:00.5018108
+2025-04-03 17:22:21,185: INFO  – ========== Build With This Only started ==========
+2025-04-03 17:22:21,292: INFO  – ========== Copy Module 'GeneXus' started ==========
+2025-04-03 17:22:21,294: INFO  – Success: Copy Module 'GeneXus' - Elapsed time: 00:00:00
+2025-04-03 17:22:21,405: INFO  – ========== Copy Module 'GeneXusUnanimo' started ==========
+2025-04-03 17:22:21,406: INFO  – Success: Copy Module 'GeneXusUnanimo' - Elapsed time: 00:00:00.0010933
+2025-04-03 17:22:21,467: INFO  – ========== Target Environment update started ==========
+2025-04-03 17:22:21,695: INFO  – Success: Target Environment update - Elapsed time: 00:00:00.2276999
+2025-04-03 17:22:21,697: INFO  – Building changed objects list
+2025-04-03 17:22:21,991: INFO  – ========== Specification started ==========
+2025-04-03 17:22:23,527: INFO  –  Specifying General.Calculadora ...
+2025-04-03 17:22:24,877: WARN  – warning spc0025: Too many parameters in udp/udf referencing General.ChecaVazio. (Web Panel 'General.Calculadora' Events, Line: 23, , Details, )
+2025-04-03 17:22:25,707: INFO  – Success: Specification - Elapsed time: 00:00:03.7158328
+2025-04-03 17:22:25,816: INFO  – ========== Default (.NET) Generation started ==========
+2025-04-03 17:22:26,498: INFO  – Generating to NETPostgreSQL002\web\general\calculadora.cs
+2025-04-03 17:22:26,749: INFO  – Generating to NETPostgreSQL002\web\general\calculadora.js
+2025-04-03 17:22:27,355: INFO  – Success: Default (.NET) Generation - Elapsed time: 00:00:01.5383963
+2025-04-03 17:22:27,378: INFO  – Compressing static files...
+2025-04-03 17:22:27,431: INFO  – Success
+2025-04-03 17:22:27,586: INFO  – ========== DeveloperMenu Compilation for Default (.NET) started ==========
+2025-04-03 17:22:27,602: INFO  – dotnet publish -nologo -c Release /v:q /m  "D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln"
+2025-04-03 17:22:28,757: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\GeneXus.Programs.Common\GeneXus.Programs.Common.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:22:28,760: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterprompt\general.ui.masterprompt.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:22:28,760: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.calculadora\general.calculadora.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:22:28,763: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\general.ui.masterunanimosidebar.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:22:28,768: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\developermenu\developermenu.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:22:28,864: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\developermenu\developermenu.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:22:28,922: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\GeneXus.Programs.Common\GeneXus.Programs.Common.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:22:28,930: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.calculadora\general.calculadora.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:22:29,715: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\general.ui.masterunanimosidebar.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:22:29,730: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterprompt\general.ui.masterprompt.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:22:30,735: INFO  – Success: DeveloperMenu Compilation for Default (.NET) - Elapsed time: 00:00:03.1487848
+2025-04-03 17:22:30,737: INFO  – ========== Web config update started ==========
+2025-04-03 17:22:30,818: INFO  – Gx config file: gxcfg.web
+2025-04-03 17:22:30,818: INFO  – Web config file: appsettings.json
+2025-04-03 17:22:30,830: INFO  – Success: Web config update - Elapsed time: 00:00:00.0927545
+2025-04-03 17:22:30,835: INFO  – Success: Build With This Only - Elapsed time: 00:00:09.6497892
+2025-04-03 17:24:05,549: INFO  – ========== Build With This Only started ==========
+2025-04-03 17:24:05,651: INFO  – ========== Copy Module 'GeneXus' started ==========
+2025-04-03 17:24:05,652: INFO  – Success: Copy Module 'GeneXus' - Elapsed time: 00:00:00.0009984
+2025-04-03 17:24:05,754: INFO  – ========== Copy Module 'GeneXusUnanimo' started ==========
+2025-04-03 17:24:05,754: INFO  – Success: Copy Module 'GeneXusUnanimo' - Elapsed time: 00:00:00
+2025-04-03 17:24:05,818: INFO  – ========== Target Environment update started ==========
+2025-04-03 17:24:06,035: INFO  – Success: Target Environment update - Elapsed time: 00:00:00.2170118
+2025-04-03 17:24:06,038: INFO  – Building changed objects list
+2025-04-03 17:24:06,310: INFO  – ========== Specification started ==========
+2025-04-03 17:24:07,851: INFO  –  Specifying General.Calculadora ...
+2025-04-03 17:24:09,249: WARN  – warning spc0025: Too many parameters in udp/udf referencing General.ChecaVazio. (Web Panel 'General.Calculadora' Events, Line: 23, , Details, )
+2025-04-03 17:24:10,275: INFO  – Success: Specification - Elapsed time: 00:00:03.9639872
+2025-04-03 17:24:10,381: INFO  – ========== Default (.NET) Generation started ==========
+2025-04-03 17:24:11,186: INFO  – Generating to NETPostgreSQL002\web\general\calculadora.cs
+2025-04-03 17:24:11,489: INFO  – Generating to NETPostgreSQL002\web\general\calculadora.js
+2025-04-03 17:24:12,135: INFO  – Success: Default (.NET) Generation - Elapsed time: 00:00:01.7527202
+2025-04-03 17:24:12,171: INFO  – Compressing static files...
+2025-04-03 17:24:12,223: INFO  – Success
+2025-04-03 17:24:12,388: INFO  – ========== DeveloperMenu Compilation for Default (.NET) started ==========
+2025-04-03 17:24:12,427: INFO  – dotnet publish -nologo -c Release /v:q /m  "D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln"
+2025-04-03 17:24:13,678: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\general.ui.masterunanimosidebar.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:24:13,679: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterprompt\general.ui.masterprompt.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:24:13,680: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\GeneXus.Programs.Common\GeneXus.Programs.Common.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:24:13,680: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.calculadora\general.calculadora.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:24:13,685: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\developermenu\developermenu.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:24:13,801: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\developermenu\developermenu.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:24:13,821: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\GeneXus.Programs.Common\GeneXus.Programs.Common.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:24:13,861: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.calculadora\general.calculadora.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:24:14,505: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\general.ui.masterunanimosidebar.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:24:14,508: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterprompt\general.ui.masterprompt.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:24:15,395: INFO  – Success: DeveloperMenu Compilation for Default (.NET) - Elapsed time: 00:00:03.0059061
+2025-04-03 17:24:15,396: INFO  – ========== Web config update started ==========
+2025-04-03 17:24:15,486: INFO  – Gx config file: gxcfg.web
+2025-04-03 17:24:15,486: INFO  – Web config file: appsettings.json
+2025-04-03 17:24:15,499: INFO  – Success: Web config update - Elapsed time: 00:00:00.1012893
+2025-04-03 17:24:15,537: INFO  – Success: Build With This Only - Elapsed time: 00:00:09.9885163
+2025-04-03 17:24:56,354: INFO  – ========== Build With This Only started ==========
+2025-04-03 17:24:56,461: INFO  – ========== Copy Module 'GeneXus' started ==========
+2025-04-03 17:24:56,462: INFO  – Success: Copy Module 'GeneXus' - Elapsed time: 00:00:00.0012119
+2025-04-03 17:24:56,559: INFO  – ========== Copy Module 'GeneXusUnanimo' started ==========
+2025-04-03 17:24:56,560: INFO  – Success: Copy Module 'GeneXusUnanimo' - Elapsed time: 00:00:00.0009800
+2025-04-03 17:24:56,626: INFO  – ========== Target Environment update started ==========
+2025-04-03 17:24:56,841: INFO  – Success: Target Environment update - Elapsed time: 00:00:00.2158956
+2025-04-03 17:24:56,844: INFO  – Building changed objects list
+2025-04-03 17:24:57,131: INFO  – ========== Specification started ==========
+2025-04-03 17:24:58,679: INFO  –  Specifying General.Calculadora ...
+2025-04-03 17:25:00,046: WARN  – warning spc0025: Too many parameters in udp/udf referencing General.ChecaVazio. (Web Panel 'General.Calculadora' Events, Line: 23, , Details, )
+2025-04-03 17:25:00,910: INFO  – Success: Specification - Elapsed time: 00:00:03.7793378
+2025-04-03 17:25:01,019: INFO  – ========== Default (.NET) Generation started ==========
+2025-04-03 17:25:01,661: INFO  – Generating to NETPostgreSQL002\web\general\calculadora.cs
+2025-04-03 17:25:01,912: INFO  – Generating to NETPostgreSQL002\web\general\calculadora.js
+2025-04-03 17:25:02,521: INFO  – Success: Default (.NET) Generation - Elapsed time: 00:00:01.5020408
+2025-04-03 17:25:02,547: INFO  – Compressing static files...
+2025-04-03 17:25:02,591: INFO  – Success
+2025-04-03 17:25:02,741: INFO  – ========== DeveloperMenu Compilation for Default (.NET) started ==========
+2025-04-03 17:25:02,758: INFO  – dotnet publish -nologo -c Release /v:q /m  "D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln"
+2025-04-03 17:25:03,971: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.calculadora\general.calculadora.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:25:03,972: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterprompt\general.ui.masterprompt.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:25:03,976: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\developermenu\developermenu.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:25:03,978: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\GeneXus.Programs.Common\GeneXus.Programs.Common.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:25:03,978: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\general.ui.masterunanimosidebar.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:25:04,074: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\developermenu\developermenu.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:25:04,126: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.calculadora\general.calculadora.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:25:04,192: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\GeneXus.Programs.Common\GeneXus.Programs.Common.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:25:04,771: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterprompt\general.ui.masterprompt.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:25:04,773: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\general.ui.masterunanimosidebar.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:25:05,436: INFO  – Success: DeveloperMenu Compilation for Default (.NET) - Elapsed time: 00:00:02.6941700
+2025-04-03 17:25:05,437: INFO  – ========== Web config update started ==========
+2025-04-03 17:25:05,510: INFO  – Gx config file: gxcfg.web
+2025-04-03 17:25:05,510: INFO  – Web config file: appsettings.json
+2025-04-03 17:25:05,522: INFO  – Success: Web config update - Elapsed time: 00:00:00.0851811
+2025-04-03 17:25:05,526: INFO  – Success: Build With This Only - Elapsed time: 00:00:09.1727957
+2025-04-03 17:26:50,532: INFO  – ========== Build With This Only started ==========
+2025-04-03 17:26:50,666: INFO  – ========== Copy Module 'GeneXus' started ==========
+2025-04-03 17:26:50,667: INFO  – Success: Copy Module 'GeneXus' - Elapsed time: 00:00:00.0010003
+2025-04-03 17:26:50,793: INFO  – ========== Copy Module 'GeneXusUnanimo' started ==========
+2025-04-03 17:26:50,794: INFO  – Success: Copy Module 'GeneXusUnanimo' - Elapsed time: 00:00:00.0010038
+2025-04-03 17:26:50,852: INFO  – ========== Target Environment update started ==========
+2025-04-03 17:26:51,147: INFO  – Success: Target Environment update - Elapsed time: 00:00:00.2950095
+2025-04-03 17:26:51,150: INFO  – Building changed objects list
+2025-04-03 17:26:51,477: INFO  – ========== Specification started ==========
+2025-04-03 17:26:53,032: INFO  –  Specifying General.Calculadora ...
+2025-04-03 17:26:55,186: INFO  – Success: Specification - Elapsed time: 00:00:03.7087994
+2025-04-03 17:26:55,296: INFO  – ========== Default (.NET) Generation started ==========
+2025-04-03 17:26:55,976: INFO  – Generating to NETPostgreSQL002\web\general\calculadora.cs
+2025-04-03 17:26:56,244: INFO  – Generating to NETPostgreSQL002\web\general\calculadora.js
+2025-04-03 17:26:56,848: INFO  – Success: Default (.NET) Generation - Elapsed time: 00:00:01.5520614
+2025-04-03 17:26:56,871: INFO  – Compressing static files...
+2025-04-03 17:26:56,926: INFO  – Success
+2025-04-03 17:26:57,092: INFO  – ========== DeveloperMenu Compilation for Default (.NET) started ==========
+2025-04-03 17:26:57,107: INFO  – dotnet publish -nologo -c Release /v:q /m  "D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln"
+2025-04-03 17:26:58,521: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\developermenu\developermenu.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:26:58,547: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\general.ui.masterunanimosidebar.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:26:58,547: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterprompt\general.ui.masterprompt.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:26:58,552: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\GeneXus.Programs.Common\GeneXus.Programs.Common.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:26:58,566: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.calculadora\general.calculadora.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:26:58,654: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\GeneXus.Programs.Common\GeneXus.Programs.Common.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:26:58,658: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\developermenu\developermenu.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:26:58,709: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.calculadora\general.calculadora.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:26:59,341: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\general.ui.masterunanimosidebar.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:26:59,350: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterprompt\general.ui.masterprompt.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:27:00,366: INFO  – Success: DeveloperMenu Compilation for Default (.NET) - Elapsed time: 00:00:03.2744889
+2025-04-03 17:27:00,367: INFO  – ========== Web config update started ==========
+2025-04-03 17:27:00,441: INFO  – Gx config file: gxcfg.web
+2025-04-03 17:27:00,442: INFO  – Web config file: appsettings.json
+2025-04-03 17:27:00,454: INFO  – Success: Web config update - Elapsed time: 00:00:00.0850922
+2025-04-03 17:27:00,459: INFO  – Success: Build With This Only - Elapsed time: 00:00:09.9281151
+2025-04-03 17:28:17,082: INFO  – ========== Build With This Only started ==========
+2025-04-03 17:28:17,196: INFO  – ========== Copy Module 'GeneXus' started ==========
+2025-04-03 17:28:17,197: INFO  – Success: Copy Module 'GeneXus' - Elapsed time: 00:00:00.0057521
+2025-04-03 17:28:17,287: INFO  – ========== Copy Module 'GeneXusUnanimo' started ==========
+2025-04-03 17:28:17,288: INFO  – Success: Copy Module 'GeneXusUnanimo' - Elapsed time: 00:00:00.0010002
+2025-04-03 17:28:17,351: INFO  – ========== Target Environment update started ==========
+2025-04-03 17:28:17,577: INFO  – Success: Target Environment update - Elapsed time: 00:00:00.2248610
+2025-04-03 17:28:17,580: INFO  – Building changed objects list
+2025-04-03 17:28:17,878: INFO  – ========== Specification started ==========
+2025-04-03 17:28:19,438: INFO  –  Specifying General.Calculadora ...
+2025-04-03 17:28:21,626: INFO  – Success: Specification - Elapsed time: 00:00:03.7470281
+2025-04-03 17:28:21,736: INFO  – ========== Default (.NET) Generation started ==========
+2025-04-03 17:28:22,438: INFO  – Generating to NETPostgreSQL002\web\general\calculadora.cs
+2025-04-03 17:28:22,689: INFO  – Generating to NETPostgreSQL002\web\general\calculadora.js
+2025-04-03 17:28:23,309: INFO  – Success: Default (.NET) Generation - Elapsed time: 00:00:01.5729960
+2025-04-03 17:28:23,341: INFO  – Compressing static files...
+2025-04-03 17:28:23,388: INFO  – Success
+2025-04-03 17:28:23,542: INFO  – ========== DeveloperMenu Compilation for Default (.NET) started ==========
+2025-04-03 17:28:23,556: INFO  – dotnet publish -nologo -c Release /v:q /m  "D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln"
+2025-04-03 17:28:24,721: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\general.ui.masterunanimosidebar.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:28:24,722: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.calculadora\general.calculadora.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:28:24,724: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterprompt\general.ui.masterprompt.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:28:24,727: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\GeneXus.Programs.Common\GeneXus.Programs.Common.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:28:24,727: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\developermenu\developermenu.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c [D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\LastBuild.sln]
+2025-04-03 17:28:24,816: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\developermenu\developermenu.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:28:24,832: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\GeneXus.Programs.Common\GeneXus.Programs.Common.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:28:24,879: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.calculadora\general.calculadora.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:28:25,566: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\general.ui.masterunanimosidebar.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:28:25,579: INFO  – D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterprompt\general.ui.masterprompt.csproj : warning NU1903: O pacote 'Npgsql' 3.2.7 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c
+2025-04-03 17:28:26,273: INFO  – Success: DeveloperMenu Compilation for Default (.NET) - Elapsed time: 00:00:02.7318385
+2025-04-03 17:28:26,275: INFO  – ========== Web config update started ==========
+2025-04-03 17:28:26,357: INFO  – Gx config file: gxcfg.web
+2025-04-03 17:28:26,357: INFO  – Web config file: appsettings.json
+2025-04-03 17:28:26,369: INFO  – Success: Web config update - Elapsed time: 00:00:00.0947654
+2025-04-03 17:28:26,374: INFO  – Success: Build With This Only - Elapsed time: 00:00:09.2917064

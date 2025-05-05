@@ -1,0 +1,12 @@
+D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.calculadora\bin\Release\net8.0\general.calculadora.dll
+D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.calculadora\bin\Release\net8.0\general.calculadora.pdb
+D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.calculadora\bin\Release\net8.0\GeneXus.Programs.Common.dll
+D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.calculadora\bin\Release\net8.0\GeneXus.Programs.Common.pdb
+D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.calculadora\obj\Release\net8.0\general.calculadora.csproj.AssemblyReference.cache
+D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.calculadora\obj\Release\net8.0\general.calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.calculadora\obj\Release\net8.0\general.calculadora.csproj.CoreCompileInputs.cache
+D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.calculadora\obj\Release\net8.0\general..C58D1B3C.Up2Date
+D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.calculadora\obj\Release\net8.0\general.calculadora.dll
+D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.calculadora\obj\Release\net8.0\refint\general.calculadora.dll
+D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.calculadora\obj\Release\net8.0\general.calculadora.pdb
+D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.calculadora\obj\Release\net8.0\ref\general.calculadora.dll

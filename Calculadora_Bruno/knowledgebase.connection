@@ -1,0 +1,11 @@
+﻿<ConnectionInformation>
+	<DBName>GX_KB_Calculadora_Bruno</DBName>
+	<IntegratedSecurity>True</IntegratedSecurity>
+	<ServerInstance>DESKTOP-A9OOPO8</ServerInstance>
+	<CreateDbInKbFolder>True</CreateDbInKbFolder>
+	<Directory>D:\Modelos\Teinamento\Calculadora_Bruno</Directory>
+	<DataFile>GX_KB_Calculadora_Bruno.mdf</DataFile>
+	<LogFile>GX_KB_Calculadora_Bruno_log.ldf</LogFile>
+	<HostName>DESKTOP-A9OOPO8</HostName>
+	<DetachOnClose>False</DetachOnClose>
+</ConnectionInformation>

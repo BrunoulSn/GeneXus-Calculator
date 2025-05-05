@@ -1,0 +1,29 @@
+<Objects>
+  <Object>
+    <Type>c9584656-94b6-4ccd-890f-332d11fc2c25</Type>
+    <Id>3</Id>
+    <Part>c44bd5ff-f918-415b-98e6-aca44fed84fa</Part>
+  </Object>
+  <Object>
+    <Type>84a12160-f59b-4ad7-a683-ea4481ac23e9</Type>
+    <Id>13</Id>
+    <Part>c414ed00-8cc4-4f44-8820-4baf93547173</Part>
+  </Object>
+  <Object>
+    <Type>78b3fa0e-174c-4b2b-8716-718167a428b5</Type>
+    <Id>6</Id>
+    <Part>75e52d99-6edd-4bad-a1d7-dcc9b7f000ef</Part>
+  </Object>
+  <Recent>
+    <RecentKBObjectsList>
+      <MaximumItems>10</MaximumItems>
+      <RecentKBObjects>
+        <RecentKBObject>
+          <Key>78b3fa0e-174c-4b2b-8716-718167a428b5-6</Key>
+          <Name>Calculadora_Bruno</Name>
+          <LastAccess>2025-04-08T14:28:40.900521-03:00</LastAccess>
+        </RecentKBObject>
+      </RecentKBObjects>
+    </RecentKBObjectsList>
+  </Recent>
+</Objects>

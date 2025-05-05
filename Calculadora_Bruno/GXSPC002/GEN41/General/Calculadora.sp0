@@ -1,0 +1,1582 @@
+spec_i([ web,3,'Calculadora','General\Calculadora',0,eng,'18_0_7-179127' ]).
+ 
+struct_i(2,1,[ 'Calculosucesso' ],[]).
+ 
+level_i(2,[ 0,[],[],[],[],[],[],[],[],[] ]).
+ 
+tw_i(2,[]).
+ 
+lwi_i(2,[ [] ]).
+ 
+ 
+ 
+ 
+ta_i(2,[ [] ]).
+ 
+las_i(2,[ [ 'Historico','Mostraruser' ] ]).
+ 
+lac_i(2,[ [ 'Historico','Mostraruser' ] ]).
+ 
+ 
+lits_i('CALCULADORA TOPSTER',5,10).
+ 
+cls_i([ 0,0 ],[ 5,39 ]).
+ 
+pos_i('Historico',[ 0,0,0 ]).
+pos_i('Mostraruser',[ 0,0,0 ]).
+ 
+ 
+ 
+rule_i(0,datastore(1,'DS_LAST_CHANGE','')).
+rule_i(0,datastore(1,'POSTGRESQL_EXTENSIONS','')).
+rule_i(0,datastore(1,'POSTGRESQL_VERSION','8_3')).
+rule_i(0,datastore(1,'COMMENT_ON','No')).
+rule_i(0,datastore(1,'DCL_REF_INT_DB','Yes')).
+rule_i(0,datastore(1,'PRIMARY_KEY_TYPE','PK')).
+rule_i(0,datastore(1,'CS_SCHEMA','')).
+rule_i(0,datastore(1,'RecycleRWMin','30')).
+rule_i(0,datastore(1,'RecycleRWType','1')).
+rule_i(0,datastore(1,'RecycleRW','-1')).
+rule_i(0,datastore(1,'POOL_STARTUP','No')).
+rule_i(0,datastore(1,'POOLSIZE_RW','10')).
+rule_i(0,datastore(1,'UnlimitedRWPool','-1')).
+rule_i(0,datastore(1,'PoolRWEnabled','-1')).
+rule_i(0,datastore(1,'CS_RPCPGML','')).
+rule_i(0,datastore(1,'DS_READ_REPLICA','No')).
+rule_i(0,datastore(1,'JDBC_DATASOURCE','')).
+rule_i(0,datastore(1,'USE_JDBC_DATASOURCE','0')).
+rule_i(0,datastore(1,'DS_DBMS_ADDINFO','')).
+rule_i(0,datastore(1,'USER_PASSWORD','')).
+rule_i(0,datastore(1,'USER_ID','')).
+rule_i(0,datastore(1,'CS_CONNECT','First')).
+rule_i(0,datastore(1,'DBMS_PORT','5432')).
+rule_i(0,datastore(1,'CS_SERVER','')).
+rule_i(0,datastore(1,'CS_DBNAME','')).
+rule_i(0,datastore(1,'CS_FLEDSNAME','')).
+rule_i(0,datastore(1,'CS_DRVNAME','')).
+rule_i(0,datastore(1,'CS_DSNAME','')).
+rule_i(0,datastore(1,'DB_URL','')).
+rule_i(0,datastore(1,'JDBC_CUSTOM_URL','0')).
+rule_i(0,datastore(1,'JDBC_CUSTOM_DRIVER','')).
+rule_i(0,datastore(1,'JDBC_DRIVER','org.postgresql.Driver')).
+rule_i(0,datastore(1,'CONNECT_METHOD','OPSYS')).
+rule_i(0,datastore(1,'ACCESS_TECHNO','ADONET')).
+rule_i(0,datastore(1,'MAIN_DS','-1')).
+rule_i(0,datastore(1,'REORG_GEN','8')).
+rule_i(0,datastore(1,'HelpKeyword','20')).
+rule_i(0,datastore(1,'DBMS',15)).
+rule_i(0,datastore(1,'NAME','Default')).
+rule_i(0,prop(idNULLS_BEHAVIOR,idNB_Current)).
+rule_i(0,prop('PWFCallable','0')).
+rule_i(0,prop('ObjectVisibility','Public')).
+rule_i(0,prop('FullyQualifiedName','General.Calculadora')).
+rule_i(0,prop('GenerateObject','-1')).
+rule_i(0,prop('Hint_firstrows','UMPV')).
+rule_i(0,prop('JOIN_TYPE','UMPV')).
+rule_i(0,prop('DBMS_JOINS','UMPV')).
+rule_i(0,prop('REFRESH_TOUT_TRIG','ALL')).
+rule_i(0,prop('REFRESH_TOUT','')).
+rule_i(0,prop('KEY_ENTER','UMPV')).
+rule_i(0,prop('KEY_CANCEL','UMPV')).
+rule_i(0,prop('KEY_REFRESH','UMPV')).
+rule_i(0,prop('KEY_HELP','UMPV')).
+rule_i(0,prop('ASSIGNED_FNC_KEYS','UMPV')).
+rule_i(0,prop('WEB_SECURITY_LEVEL','High')).
+rule_i(0,prop('HTTP_PROTOCOL','Unsecure')).
+rule_i(0,prop('USE_ENCRYPTION','NO')).
+rule_i(0,prop('FIRST_WD_DATEPICKER','UMPV')).
+rule_i(0,prop('WNUM_DATEPICKER','UMPV')).
+rule_i(0,prop(idUSE_WEB_DATEPICKER,'UMPV')).
+rule_i(0,prop('WebUX','SMOOTH')).
+rule_i(0,prop('STD_FUNC_OBJECT','No')).
+rule_i(0,prop('SPC_WARNINGS_DISABLED','spc0096 spc0107 spc0142')).
+rule_i(0,prop('WebApplication',idDefault)).
+rule_i(0,prop('COMPRESS_HTML','UMPV')).
+rule_i(0,prop('AUTO_REFRESH','VARS_CHANGE')).
+rule_i(0,prop('CACHE_EXPIRES','')).
+rule_i(0,prop('WEB_AUTO_FOCUS','UMPV')).
+rule_i(0,prop('OnSessionTimeout','Ignore')).
+rule_i(0,prop('OBJECT_METADATA','')).
+rule_i(0,prop('IsMain','0')).
+rule_i(0,prop(sessiontype,'RW')).
+rule_i(0,prop('SHOWMASTERPAGE_POPUP','0')).
+rule_i(0,prop('MasterPage',o(13,'General.UI.MasterUnanimoSidebar'))).
+rule_i(0,prop('WEB_COMP','No')).
+rule_i(0,prop('Theme',o(102,'Calculadora_Bruno'))).
+rule_i(0,prop('Folder',o(120,'General'))).
+rule_i(0,prop('ObjDesc','Calculadora')).
+rule_i(0,prop('ObjName','Calculadora')).
+rule_i(0,maingen(41)).
+rule_i(0,rule([ a(22,[ '''Dividir''','''Dividir''','' ]) ],[],[],[])).
+rule_i(0,rule([ a(22,[ '''Multiplicar''','''Multiplicar''','' ]) ],[],[],[])).
+rule_i(0,rule([ a(22,[ '''Subtrair''','''Subtrair''','' ]) ],[],[],[])).
+rule_i(0,rule([ a(22,[ '''Adicionar''','''Adicionar''','' ]) ],[],[],[])).
+rule_i(0,rule([ a(22,[ '''AoQuadrado''','''AoQuadrado''','' ]) ],[],[],[])).
+rule_i(0,rule([ a(22,[ '''RaizQuadrada''','''RaizQuadrada''','' ]) ],[],[],[])).
+rule_i(0,rule([ a(22,[ '''TrocarSinal''','''TrocarSinal''','' ]) ],[],[],[])).
+rule_i(0,rule([ a(22,[ '''Add,''','''Add,''','' ]) ],[],[],[])).
+rule_i(0,rule([ a(22,[ '''Cancelar Tudo''','''Cancelar Tudo''','' ]) ],[],[],[])).
+rule_i(0,rule([ a(22,[ '''ApagarUlitmoNumero''','''ApagarUlitmoNumero''','' ]) ],[],[],[])).
+rule_i(0,rule([ a(22,[ '''ChamarResultado''','''ChamarResultado''','' ]) ],[],[],[])).
+rule_i(0,rule([ a(22,[ '''Add9''','''Add9''','' ]) ],[],[],[])).
+rule_i(0,rule([ a(22,[ '''Add8''','''Add8''','' ]) ],[],[],[])).
+rule_i(0,rule([ a(22,[ '''Add7''','''Add7''','' ]) ],[],[],[])).
+rule_i(0,rule([ a(22,[ '''Add6''','''Add6''','' ]) ],[],[],[])).
+rule_i(0,rule([ a(22,[ '''Add5''','''Add5''','' ]) ],[],[],[])).
+rule_i(0,rule([ a(22,[ '''Add4''','''Add4''','' ]) ],[],[],[])).
+rule_i(0,rule([ a(22,[ '''Add3''','''Add3''','' ]) ],[],[],[])).
+rule_i(0,rule([ a(22,[ '''Add2''','''Add2''','' ]) ],[],[],[])).
+rule_i(0,rule([ a(22,[ '''Add1''','''Add1''','' ]) ],[],[],[])).
+rule_i(0,rule([ a(22,[ '''Add0''','''Add0''','' ]) ],[],[],[])).
+rule_i(0,rule([ a(22,[ '''Potencia''','''Potencia''','' ]) ],[],[],[])).
+ 
+a_i(1,1,f,[ t('&Historico',23),t('Enabled',3) ],[],[ [],[ t(0,3),t(';',18) ] ]).
+a_i(2,1,f,[ t('&Mostraruser',23),t('Enabled',3) ],[],[ [],[ t(0,3),t(';',18) ] ]).
+ 
+v_i(f,i,1,[]).
+v_i(f,o,1,[ t('&Historico',23),t('Enabled',3) ]).
+v_i(f,i,2,[]).
+v_i(f,o,2,[ t('&Mostraruser',23),t('Enabled',3) ]).
+ 
+ 
+ 
+ 
+ 
+ 
+attri_i('Historico',[ historico,svchar,40,0,'',0,historico,'',27 ]).
+attri_i('Resultadocalculo',[ resultadoCalculo,int,10,2,'ZZZZZZ9.99',0,'resultado Calculo','',21 ]).
+attri_i('Resultado',[ 'Resultado',svchar,17,2,'',0,'Resultado','',5 ]).
+attri_i('Palavra',[ palavra,svchar,40,0,'',0,palavra,'',24 ]).
+attri_i('Operacao',[ 'Operacao',svchar,40,0,'',0,'Operacao','',6 ]).
+attri_i('Numero2',[ numero2,int,18,10,'ZZZZZZ9.9999999999',0,numero2,'',10 ]).
+attri_i('Numero1',[ numero1,int,18,10,'ZZZZZZ9.9999999999',0,numero1,'',11 ]).
+attri_i('Mostraruser',[ 'MostrarUser',svchar,40,0,'',0,'Mostrar User','',13 ]).
+attri_i('Listauxresultado',[ listAuxResultado,o(objectcollection(svchar)),17,2,'',0,'list Aux Resultado','',23 ]).
+attri_i('Letra',[ letra,char,1,0,'',0,letra,'',25 ]).
+attri_i('Expressiondatatypevariable',[ expressionDataTypeVariable,o(expressionevaluator),4,0,'',0,'expression Data Type Variable','',18 ]).
+attri_i('Count',[ 'Count',int,4,0,'ZZZ9',0,'Count','',15 ]).
+attri_i('Contarraiz',[ 'ContarRaiz',int,4,0,'ZZZ9',0,'Contar Raiz','',20 ]).
+attri_i('Calculosucesso',[ 'CalculoSucesso',boolean,4,0,'',0,'Calculo Sucesso','',12 ]).
+attri_i('Auxresultado',[ auxResultado,svchar,17,2,'',0,'aux Resultado','',7 ]).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+dom_info_i(94,[ 'General\resultado' ]).
+dom_info_i(95,[ 'General\Operacao' ]).
+ 
+ 
+break_i(2,nvg,1,[],[ [],[],[] ]).
+ 
+b_group_i(2,1,lit,0,1,3).
+b_group_i(2,2,lit,0,4,86).
+b_group_i(2,3,lit,0,87,105).
+b_group_i(2,4,lit,0,106,125).
+b_group_i(2,5,lit,0,126,144).
+b_group_i(2,6,lit,0,145,163).
+b_group_i(2,7,lit,0,164,176).
+b_group_i(2,8,lit,0,177,195).
+b_group_i(2,9,lit,0,196,215).
+b_group_i(2,10,lit,0,216,230).
+b_group_i(2,11,lit,0,231,234).
+b_group_i(2,12,lit,0,235,243).
+b_group_i(2,13,lit,0,244,251).
+b_group_i(2,14,lit,0,252,260).
+b_group_i(2,15,lit,0,261,272).
+b_group_i(2,16,lit,0,273,291).
+b_group_i(2,17,lit,0,292,320).
+b_group_i(2,18,lit,0,321,331).
+b_group_i(2,19,lit,0,332,342).
+b_group_i(2,20,lit,0,343,353).
+b_group_i(2,21,lit,0,354,364).
+b_group_i(2,22,lit,0,365,374).
+b_group_i(2,23,lit,0,375,384).
+b_group_i(2,24,lit,0,385,394).
+b_group_i(2,25,lit,0,395,400).
+b_group_i(2,26,lit,0,401,406).
+b_group_i(2,27,lit,0,407,411).
+b_group_i(2,28,lit,0,412,0).
+ 
+b_line_i(3,2,1,cmd,3,[ t('',143,3,0),t('''BOTAORESULTADO''',3,3,5) ]).
+b_line_i(6,2,2,cmd,3,[ t('',107,6,0),t('Numero2',23,3,0),t(=,10,3,0),t('val(',1,3,0),t('Resultado',23,3,0),t(')',4,3,0) ]).
+b_line_i(7,2,2,cmd,3,[ t('',107,7,0),t('Numero1',23,3,0),t(=,10,3,0),t('val(',1,3,0),t('Auxresultado',23,3,0),t(')',4,3,0) ]).
+b_line_i(10,2,2,cmd,3,[ t('',152,10,0) ]).
+b_line_i(12,2,2,cmd,3,[ t('',153,12,0),t('Operacao',23,3,9),t(=,10,3,19),t('''/''',3,12,21) ]).
+b_line_i(13,2,2,cmd,3,[ t('',109,13,0),t('.NOT.',8,3,8),t('Numero2',23,3,14),t(=,10,3,23),t('0',3,3,25) ]).
+b_line_i(14,2,2,cmd,3,[ t('',109,14,0),t('Numero1',23,3,9),t(=,10,3,18),t('0',3,3,20) ]).
+b_line_i(15,2,2,cmd,3,[ t('',107,15,0),t('Resultado',23,3,0),t(=,10,3,0),t('''0''',3,3,0) ]).
+b_line_i(16,2,2,cmd,3,[ t('',110,16,0) ]).
+b_line_i(18,2,2,cmd,3,[ t('',107,18,0),t('Numero1',23,3,0),t(=,10,3,0),t('(',0,3,0),t('Numero1',23,3,0),t(/,6,3,0),t('Numero2',23,3,0),t(')',4,3,0) ]).
+b_line_i(19,2,2,cmd,3,[ t('',107,19,0),t('Resultado',23,3,0),t(=,10,3,0),t('toformattedstring(',1,3,0),t('Numero1',23,3,0),t(')',4,3,0) ]).
+b_line_i(20,2,2,cmd,3,[ t('',111,20,0) ]).
+b_line_i(22,2,2,cmd,3,[ t('',110,22,0) ]).
+b_line_i(23,2,2,cmd,3,[ t('',141,23,0),t('''Não é possivel realizar o cálculo''',3,23,10),t(')',4,3,45) ]).
+b_line_i(24,2,2,cmd,3,[ t('',145,24,0),t('''CANCELARTUDO''',3,24,9) ]).
+b_line_i(25,2,2,cmd,3,[ t('',111,25,0) ]).
+b_line_i(27,2,2,cmd,3,[ t('',153,27,0),t('Operacao',23,3,9),t(=,10,3,19),t('''*''',3,27,21) ]).
+b_line_i(28,2,2,cmd,3,[ t('',107,28,0),t('Numero1',23,3,0),t(=,10,3,0),t('(',0,3,0),t('Numero1',23,3,0),t(*,6,3,0),t('Numero2',23,3,0),t(')',4,3,0) ]).
+b_line_i(29,2,2,cmd,3,[ t('',107,29,0),t('Resultado',23,3,0),t(=,10,3,0),t('toformattedstring(',1,3,0),t('Numero1',23,3,0),t(')',4,3,0) ]).
+b_line_i(31,2,2,cmd,3,[ t('',153,31,0),t('Operacao',23,3,9),t(=,10,3,19),t('''-''',3,31,21) ]).
+b_line_i(32,2,2,cmd,3,[ t('',107,32,0),t('Numero1',23,3,0),t(=,10,3,0),t('(',0,3,0),t('Numero1',23,3,0),t(-,5,3,0),t('Numero2',23,3,0),t(')',4,3,0) ]).
+b_line_i(33,2,2,cmd,3,[ t('',107,33,0),t('Resultado',23,3,0),t(=,10,3,0),t('toformattedstring(',1,3,0),t('Numero1',23,3,0),t(')',4,3,0) ]).
+b_line_i(35,2,2,cmd,3,[ t('',153,35,0),t('Operacao',23,3,9),t(=,10,3,19),t('''+''',3,35,21) ]).
+b_line_i(36,2,2,cmd,3,[ t('',107,36,0),t('Numero1',23,3,0),t(=,10,3,0),t('(',0,3,0),t('Numero1',23,3,0),t(+,5,3,0),t('Numero2',23,3,0),t(')',4,3,0) ]).
+b_line_i(37,2,2,cmd,3,[ t('',107,37,0),t('Resultado',23,3,0),t(=,10,3,0),t('toformattedstring(',1,3,0),t('Numero1',23,3,0),t(')',4,3,0) ]).
+b_line_i(39,2,2,cmd,3,[ t('',153,39,0),t('Operacao',23,3,9),t(=,10,3,19),t('''²''',3,39,21) ]).
+b_line_i(40,2,2,cmd,3,[ t('',107,40,0),t('Auxresultado',23,3,0),t(=,10,3,0),t('Resultado',23,3,0) ]).
+b_line_i(41,2,2,cmd,3,[ t('',107,41,0),t('Numero1',23,3,0),t(=,10,3,0),t('(',0,3,0),t('Numero2',23,3,0),t(*,6,3,0),t('Numero2',23,3,0),t(')',4,3,0) ]).
+b_line_i(42,2,2,cmd,3,[ t('',107,42,0),t('Resultado',23,3,0),t(=,10,3,0),t('toformattedstring(',1,3,0),t('Numero1',23,3,0),t(')',4,3,0) ]).
+b_line_i(44,2,2,cmd,3,[ t('',153,44,0),t('Operacao',23,3,9),t(=,10,3,19),t('''?''',3,44,21) ]).
+b_line_i(45,2,2,cmd,3,[ t('',107,45,0),t('Auxresultado',23,3,0),t(=,10,3,0),t('Resultado',23,3,0) ]).
+b_line_i(46,2,2,cmd,3,[ t('',109,46,0),t('val(',1,3,8),t('Resultado',23,3,13),t(')',4,3,23),t(<,10,3,25),t('0',3,3,27) ]).
+b_line_i(47,2,2,cmd,3,[ t('',107,47,0),t('Resultado',23,3,0),t(=,10,3,0),t('''Entrada Inválida''',3,3,0) ]).
+b_line_i(48,2,2,cmd,3,[ t('',110,48,0) ]).
+b_line_i(49,2,2,cmd,3,[ t('',107,49,0),t([ t('Expressiondatatypevariable',23,3,0),t('Expression',3,3,0) ],29,3,0),t(=,10,3,0),t('"sqrt( a )"',3,3,0) ]).
+b_line_i(50,2,2,cmd,3,[ t('',107,50,0),t([ t('Expressiondatatypevariable',23,50,33),t('Variables',3,50,61),t('set(',1,50,71) ],31,50,33),t('"a"',3,50,76),t(',',7,3,79),t('Resultado',23,3,80),t(')',4,3,90) ]).
+b_line_i(51,2,2,cmd,3,[ t('',107,51,0),t('Numero1',23,3,0),t(=,10,3,0),t([ t('Expressiondatatypevariable',23,3,0),t('evaluate(',1,3,0) ],31,3,0),t(')',4,3,0) ]).
+b_line_i(52,2,2,cmd,3,[ t('',107,52,0),t('Resultado',23,3,0),t(=,10,3,0),t('str(',1,3,0),t('Numero1',23,3,0),t(',',7,3,0),t(18,3,3,0),t(',',7,3,0),t(10,3,3,0),t(')',4,3,0) ]).
+b_line_i(53,2,2,cmd,3,[ t('',111,53,0) ]).
+b_line_i(55,2,2,cmd,3,[ t('',153,55,0),t('Operacao',23,3,9),t(=,10,3,18),t('''^''',3,55,19) ]).
+b_line_i(57,2,2,cmd,3,[ t('',109,57,0),t('val(',1,3,7),t('Resultado',23,3,12),t(')',4,3,22),t(>,10,3,23),t('0',3,3,24) ]).
+b_line_i([ 58,0 ],2,2,cmd,3,[ t('',107,58,0),t('Count',23,3,0),t(=,10,3,0),t('1',3,3,0) ]).
+b_line_i(58,2,2,cmd,3,[ t('',114,58,0),t('Count',23,3,9),t(<=,10,3,5),t('val(',1,3,23),t('Resultado',23,3,28),t(')',4,3,38),t(-,5,3,39),t('1',3,3,40) ]).
+b_line_i(59,2,2,cmd,3,[ t('',107,59,0),t('Numero1',23,3,0),t(=,10,3,0),t('Numero1',23,3,0),t(*,6,3,0),t('(',0,3,0),t('val(',1,3,0),t('Auxresultado',23,3,0),t(')',4,3,0),t(')',4,3,0) ]).
+b_line_i([ 60,0 ],2,2,cmd,3,[ t('',107,60,0),t('Count',23,3,0),t(=,10,3,0),t('Count',23,3,0),t(+,5,3,0),t('1',3,3,0) ]).
+b_line_i(60,2,2,cmd,3,[ t('',115,60,0) ]).
+b_line_i(61,2,2,cmd,3,[ t('',109,61,0),t('val(',1,3,8),t('Resultado',23,3,13),t(')',4,3,23),t(=,10,3,24),t('1',3,3,25) ]).
+b_line_i(62,2,2,cmd,3,[ t('',107,62,0),t('Numero1',23,3,0),t(=,10,3,0),t('val(',1,3,0),t('Auxresultado',23,3,0),t(')',4,3,0) ]).
+b_line_i(63,2,2,cmd,3,[ t('',111,63,0) ]).
+b_line_i(64,2,2,cmd,3,[ t('',110,64,0) ]).
+b_line_i(65,2,2,cmd,3,[ t('',109,65,0),t('val(',1,3,8),t('Resultado',23,3,13),t(')',4,3,23),t(=,10,3,24),t('0',3,3,25) ]).
+b_line_i(66,2,2,cmd,3,[ t('',107,66,0),t('Numero1',23,3,0),t(=,10,3,0),t('1',3,3,0) ]).
+b_line_i(67,2,2,cmd,3,[ t('',111,67,0) ]).
+b_line_i(68,2,2,cmd,3,[ t('',111,68,0) ]).
+b_line_i(70,2,2,cmd,3,[ t('',107,70,0),t('Resultado',23,3,0),t(=,10,3,0),t('toformattedstring(',1,3,0),t('Numero1',23,3,0),t(')',4,3,0) ]).
+b_line_i(71,2,2,cmd,3,[ t('',154,71,0) ]).
+b_line_i(73,2,2,cmd,3,[ t('',145,73,0),t('''HISTORICOCALCULO''',3,73,6) ]).
+b_line_i(74,2,2,cmd,3,[ t('',107,74,0),t([ t('Auxresultado',23,74,3),t('setempty(',1,74,17) ],31,74,3),t(')',4,3,27) ]).
+b_line_i(75,2,2,cmd,3,[ t('',107,75,0),t('Calculosucesso',23,3,0),t(=,10,3,0),t('TRUE',40,3,0) ]).
+b_line_i(77,2,2,cmd,3,[ t('',145,77,0),t('''FORMATARNUMERO''',3,77,5) ]).
+b_line_i(78,2,2,cmd,3,[ t('',107,78,0),t('Mostraruser',23,3,0),t(=,10,3,0),t('Resultado',23,3,0) ]).
+b_line_i(79,2,2,cmd,3,[ t('',107,79,0),t([ t('Operacao',23,79,3),t('setempty(',1,79,13) ],31,79,3),t(')',4,3,23) ]).
+b_line_i(81,2,2,cmd,3,[ t('',144,81,0) ]).
+b_line_i(86,2,2,cmd,3,[ t('',146,86,0),t('''Dividir''',3,86,7) ]).
+b_line_i(87,2,3,cmd,3,[ t('',107,87,0),t('Calculosucesso',23,3,0),t(=,10,3,0),t('FALSE',41,3,0) ]).
+b_line_i(88,2,3,cmd,3,[ t('',109,88,0),t('.NOT.',8,3,5),t('null(',1,88,22),t('Resultado',23,3,11),t(')',4,3,31),t('.OR.',9,3,34),t('.NOT.',8,3,39),t('null(',1,88,59),t('Auxresultado',23,3,45),t(')',4,3,68) ]).
+b_line_i(89,2,3,cmd,3,[ t('',109,89,0),t('null(',1,89,16),t('Operacao',23,3,6),t(')',4,3,25) ]).
+b_line_i(90,2,3,cmd,3,[ t('',107,90,0),t('Auxresultado',23,3,0),t(=,10,3,0),t('Resultado',23,3,0) ]).
+b_line_i(91,2,3,cmd,3,[ t('',107,91,0),t('Resultado',23,3,0),t(=,10,3,0),t('''''',3,3,0) ]).
+b_line_i(92,2,3,cmd,3,[ t('',111,92,0) ]).
+b_line_i(93,2,3,cmd,3,[ t('',109,93,0),t('Operacao',23,3,6),t(=,10,3,16),t('''/''',3,93,18) ]).
+b_line_i(94,2,3,cmd,3,[ t('',145,94,0),t('''BOTAORESULTADO''',3,94,7) ]).
+b_line_i(95,2,3,cmd,3,[ t('',110,95,0) ]).
+b_line_i(96,2,3,cmd,3,[ t('',107,96,0),t('Operacao',23,3,0),t(=,10,3,0),t('''/''',3,3,0) ]).
+b_line_i(97,2,3,cmd,3,[ t('',111,97,0) ]).
+b_line_i(98,2,3,cmd,3,[ t('',145,98,0),t('''MOSTRARUSUARIO''',3,98,6) ]).
+b_line_i(99,2,3,cmd,3,[ t('',110,99,0) ]).
+b_line_i(100,2,3,cmd,3,[ t('',141,100,0),t('''Por favor, insira o primeiro número''',3,100,7),t(')',4,3,44) ]).
+b_line_i(101,2,3,cmd,3,[ t('',111,101,0) ]).
+b_line_i(102,2,3,cmd,3,[ t('',147,102,0) ]).
+b_line_i(105,2,3,cmd,3,[ t('',146,105,0),t('''Multiplicar''',3,105,7) ]).
+b_line_i(106,2,4,cmd,3,[ t('',107,106,0),t('Calculosucesso',23,3,0),t(=,10,3,0),t('FALSE',41,3,0) ]).
+b_line_i(107,2,4,cmd,3,[ t('',109,107,0),t('.NOT.',8,3,5),t('null(',1,107,22),t('Resultado',23,3,11),t(')',4,3,31),t('.OR.',9,3,34),t('.NOT.',8,3,39),t('null(',1,107,59),t('Auxresultado',23,3,45),t(')',4,3,68) ]).
+b_line_i(108,2,4,cmd,3,[ t('',109,108,0),t('null(',1,108,16),t('Operacao',23,3,6),t(')',4,3,25) ]).
+b_line_i(109,2,4,cmd,3,[ t('',107,109,0),t('Auxresultado',23,3,0),t(=,10,3,0),t('Resultado',23,3,0) ]).
+b_line_i(110,2,4,cmd,3,[ t('',107,110,0),t('Resultado',23,3,0),t(=,10,3,0),t('''''',3,3,0) ]).
+b_line_i(111,2,4,cmd,3,[ t('',111,111,0) ]).
+b_line_i(112,2,4,cmd,3,[ t('',109,112,0),t('Operacao',23,3,6),t(=,10,3,16),t('''*''',3,112,18) ]).
+b_line_i(113,2,4,cmd,3,[ t('',145,113,0),t('''BOTAORESULTADO''',3,113,7) ]).
+b_line_i(114,2,4,cmd,3,[ t('',110,114,0) ]).
+b_line_i(115,2,4,cmd,3,[ t('',107,115,0),t('Operacao',23,3,0),t(=,10,3,0),t('''*''',3,3,0) ]).
+b_line_i(116,2,4,cmd,3,[ t('',111,116,0) ]).
+b_line_i(117,2,4,cmd,3,[ t('',145,117,0),t('''MOSTRARUSUARIO''',3,117,6) ]).
+b_line_i(118,2,4,cmd,3,[ t('',110,118,0) ]).
+b_line_i(119,2,4,cmd,3,[ t('',141,119,0),t('''Por favor, insira o primeiro número''',3,119,7),t(')',4,3,44) ]).
+b_line_i(120,2,4,cmd,3,[ t('',111,120,0) ]).
+b_line_i(122,2,4,cmd,3,[ t('',147,122,0) ]).
+b_line_i(125,2,4,cmd,3,[ t('',146,125,0),t('''Subtrair''',3,125,7) ]).
+b_line_i(126,2,5,cmd,3,[ t('',107,126,0),t('Calculosucesso',23,3,0),t(=,10,3,0),t('FALSE',41,3,0) ]).
+b_line_i(127,2,5,cmd,3,[ t('',109,127,0),t('.NOT.',8,3,5),t('null(',1,127,22),t('Resultado',23,3,11),t(')',4,3,31),t('.OR.',9,3,33),t('.NOT.',8,3,38),t('null(',1,127,58),t('Auxresultado',23,3,44),t(')',4,3,67) ]).
+b_line_i(128,2,5,cmd,3,[ t('',109,128,0),t('null(',1,128,16),t('Operacao',23,3,6),t(')',4,3,25) ]).
+b_line_i(129,2,5,cmd,3,[ t('',107,129,0),t('Auxresultado',23,3,0),t(=,10,3,0),t('Resultado',23,3,0) ]).
+b_line_i(130,2,5,cmd,3,[ t('',107,130,0),t('Resultado',23,3,0),t(=,10,3,0),t('''''',3,3,0) ]).
+b_line_i(131,2,5,cmd,3,[ t('',111,131,0) ]).
+b_line_i(132,2,5,cmd,3,[ t('',109,132,0),t('Operacao',23,3,6),t(=,10,3,16),t('''-''',3,132,18) ]).
+b_line_i(133,2,5,cmd,3,[ t('',145,133,0),t('''BOTAORESULTADO''',3,133,7) ]).
+b_line_i(134,2,5,cmd,3,[ t('',110,134,0) ]).
+b_line_i(135,2,5,cmd,3,[ t('',107,135,0),t('Operacao',23,3,0),t(=,10,3,0),t('''-''',3,3,0) ]).
+b_line_i(136,2,5,cmd,3,[ t('',111,136,0) ]).
+b_line_i(137,2,5,cmd,3,[ t('',145,137,0),t('''MOSTRARUSUARIO''',3,137,6) ]).
+b_line_i(138,2,5,cmd,3,[ t('',110,138,0) ]).
+b_line_i(139,2,5,cmd,3,[ t('',141,139,0),t('''Por favor, insira o primeiro número''',3,139,7),t(')',4,3,44) ]).
+b_line_i(140,2,5,cmd,3,[ t('',111,140,0) ]).
+b_line_i(141,2,5,cmd,3,[ t('',147,141,0) ]).
+b_line_i(144,2,5,cmd,3,[ t('',146,144,0),t('''Adicionar''',3,144,7) ]).
+b_line_i(146,2,6,cmd,3,[ t('',107,146,0),t('Calculosucesso',23,3,0),t(=,10,3,0),t('FALSE',41,3,0) ]).
+b_line_i(147,2,6,cmd,3,[ t('',109,147,0),t('.NOT.',8,3,5),t('null(',1,147,22),t('Resultado',23,3,11),t(')',4,3,31),t('.OR.',9,3,34),t('.NOT.',8,3,39),t('null(',1,147,59),t('Auxresultado',23,3,45),t(')',4,3,68) ]).
+b_line_i(148,2,6,cmd,3,[ t('',109,148,0),t('null(',1,148,16),t('Operacao',23,3,6),t(')',4,3,25) ]).
+b_line_i(149,2,6,cmd,3,[ t('',107,149,0),t('Auxresultado',23,3,0),t(=,10,3,0),t('Resultado',23,3,0) ]).
+b_line_i(150,2,6,cmd,3,[ t('',107,150,0),t('Resultado',23,3,0),t(=,10,3,0),t('''''',3,3,0) ]).
+b_line_i(151,2,6,cmd,3,[ t('',111,151,0) ]).
+b_line_i(152,2,6,cmd,3,[ t('',109,152,0),t('Operacao',23,3,6),t(=,10,3,16),t('''+''',3,152,18) ]).
+b_line_i(153,2,6,cmd,3,[ t('',145,153,0),t('''BOTAORESULTADO''',3,153,7) ]).
+b_line_i(154,2,6,cmd,3,[ t('',110,154,0) ]).
+b_line_i(155,2,6,cmd,3,[ t('',107,155,0),t('Operacao',23,3,0),t(=,10,3,0),t('''+''',3,3,0) ]).
+b_line_i(156,2,6,cmd,3,[ t('',111,156,0) ]).
+b_line_i(157,2,6,cmd,3,[ t('',145,157,0),t('''MOSTRARUSUARIO''',3,157,6) ]).
+b_line_i(158,2,6,cmd,3,[ t('',110,158,0) ]).
+b_line_i(159,2,6,cmd,3,[ t('',141,159,0),t('''Por favor, insira o primeiro número''',3,159,7),t(')',4,3,44) ]).
+b_line_i(160,2,6,cmd,3,[ t('',111,160,0) ]).
+b_line_i(161,2,6,cmd,3,[ t('',147,161,0) ]).
+b_line_i(163,2,6,cmd,3,[ t('',146,163,0),t('''AoQuadrado''',3,163,7) ]).
+b_line_i(164,2,7,cmd,3,[ t('',107,164,0),t('Calculosucesso',23,3,0),t(=,10,3,0),t('FALSE',41,3,0) ]).
+b_line_i(165,2,7,cmd,3,[ t('',109,165,0),t('.NOT.',8,3,5),t('null(',1,165,22),t('Resultado',23,3,11),t(')',4,3,31) ]).
+b_line_i(166,2,7,cmd,3,[ t('',107,166,0),t('Operacao',23,3,0),t(=,10,3,0),t('''²''',3,3,0) ]).
+b_line_i(167,2,7,cmd,3,[ t('',145,167,0),t('''BOTAORESULTADO''',3,167,7) ]).
+b_line_i(169,2,7,cmd,3,[ t('',110,169,0) ]).
+b_line_i(170,2,7,cmd,3,[ t('',141,170,0),t('''Por favor, insira o primeiro número''',3,170,7),t(')',4,3,44) ]).
+b_line_i(171,2,7,cmd,3,[ t('',111,171,0) ]).
+b_line_i(173,2,7,cmd,3,[ t('',147,173,0) ]).
+b_line_i(176,2,7,cmd,3,[ t('',146,176,0),t('''RaizQuadrada''',3,176,7) ]).
+b_line_i(177,2,8,cmd,3,[ t('',109,177,0),t('.NOT.',8,3,5),t('null(',1,177,21),t('Operacao',23,3,11),t(')',4,3,30) ]).
+b_line_i(178,2,8,cmd,3,[ t('',107,178,0),t('Resultado',23,3,0),t(=,10,3,0),t('Auxresultado',23,3,0) ]).
+b_line_i(179,2,8,cmd,3,[ t('',111,179,0) ]).
+b_line_i(180,2,8,cmd,3,[ t('',107,180,0),t('Calculosucesso',23,3,0),t(=,10,3,0),t('FALSE',41,3,0) ]).
+b_line_i(181,2,8,cmd,3,[ t('',109,181,0),t('.NOT.',8,3,5),t('null(',1,181,22),t('Resultado',23,3,11),t(')',4,3,31) ]).
+b_line_i(182,2,8,cmd,3,[ t('',107,182,0),t('Operacao',23,3,0),t(=,10,3,0),t('''?''',3,3,0) ]).
+b_line_i(183,2,8,cmd,3,[ t('',145,183,0),t('''BOTAORESULTADO''',3,183,7) ]).
+b_line_i(185,2,8,cmd,3,[ t('',110,185,0) ]).
+b_line_i(186,2,8,cmd,3,[ t('',141,186,0),t('''Por favor, insira o primeiro número''',3,186,7),t(')',4,3,44) ]).
+b_line_i(187,2,8,cmd,3,[ t('',111,187,0) ]).
+b_line_i(189,2,8,cmd,3,[ t('',147,189,0) ]).
+b_line_i(195,2,8,cmd,3,[ t('',146,195,0),t('''TrocarSinal''',3,195,7) ]).
+b_line_i(196,2,9,cmd,3,[ t('',109,196,0),t('Calculosucesso',23,3,5),t(=,10,3,21),t('TRUE',40,3,23),t('.AND.',9,3,28),t('.NOT.',8,3,34),t('null(',1,196,54),t('Auxresultado',23,3,40),t(')',4,3,63) ]).
+b_line_i(197,2,9,cmd,3,[ t('',107,197,0),t('Numero1',23,3,0),t(=,10,3,0),t('val(',1,3,0),t('Auxresultado',23,3,0),t(')',4,3,0),t(*,6,3,0),t('-1',3,3,0) ]).
+b_line_i(198,2,9,cmd,3,[ t('',107,198,0),t('Auxresultado',23,3,0),t(=,10,3,0),t('toformattedstring(',1,3,0),t('Numero1',23,3,0),t(')',4,3,0) ]).
+b_line_i(199,2,9,cmd,3,[ t('',110,199,0) ]).
+b_line_i(200,2,9,cmd,3,[ t('',109,200,0),t('.NOT.',8,3,6),t('null(',1,200,23),t('Resultado',23,3,12),t(')',4,3,32) ]).
+b_line_i(201,2,9,cmd,3,[ t('',107,201,0),t('Numero2',23,3,0),t(=,10,3,0),t('val(',1,3,0),t('Resultado',23,3,0),t(')',4,3,0),t(*,6,3,0),t('-1',3,3,0) ]).
+b_line_i(202,2,9,cmd,3,[ t('',107,202,0),t('Resultado',23,3,0),t(=,10,3,0),t('toformattedstring(',1,3,0),t('Numero2',23,3,0),t(')',4,3,0) ]).
+b_line_i(203,2,9,cmd,3,[ t('',110,203,0) ]).
+b_line_i(204,2,9,cmd,3,[ t('',141,204,0),t('''Por Favor Informe um número''',3,204,8),t(')',4,3,37) ]).
+b_line_i(205,2,9,cmd,3,[ t('',111,205,0) ]).
+b_line_i(207,2,9,cmd,3,[ t('',111,207,0) ]).
+b_line_i(209,2,9,cmd,3,[ t('',145,209,0),t('''FORMATARNUMERO''',3,209,5) ]).
+b_line_i(210,2,9,cmd,3,[ t('',145,210,0),t('''MOSTRARUSUARIO''',3,210,5) ]).
+b_line_i(211,2,9,cmd,3,[ t('',147,211,0) ]).
+b_line_i(215,2,9,cmd,3,[ t('',146,215,0),t('''Add,''',3,215,7) ]).
+b_line_i(217,2,10,cmd,3,[ t('',109,217,0),t('null(',1,217,16),t('Resultado',23,3,5),t(')',4,3,25) ]).
+b_line_i(218,2,10,cmd,3,[ t('',107,218,0),t('Resultado',23,3,0),t(=,10,3,0),t('''0.''',3,3,0) ]).
+b_line_i(219,2,10,cmd,3,[ t('',145,219,0),t('''MOSTRARUSUARIO''',3,219,6) ]).
+b_line_i(220,2,10,cmd,3,[ t('',111,220,0) ]).
+b_line_i(223,2,10,cmd,3,[ t('',109,223,0),t('.NOT.',8,3,5),t([ t('Resultado',23,3,11),t('contains(',1,3,22) ],31,223,22),t('''.''',3,223,32),t(')',4,3,35) ]).
+b_line_i(224,2,10,cmd,3,[ t('',107,224,0),t('Resultado',23,3,0),t(=,10,3,0),t('Resultado',23,3,0),t(+,5,3,0),t('''.''',3,3,0) ]).
+b_line_i(225,2,10,cmd,3,[ t('',145,225,0),t('''MOSTRARUSUARIO''',3,225,6) ]).
+b_line_i(226,2,10,cmd,3,[ t('',111,226,0) ]).
+b_line_i(228,2,10,cmd,3,[ t('',147,228,0) ]).
+b_line_i(230,2,10,cmd,3,[ t('',146,230,0),t('''Cancelar Tudo''',3,230,7) ]).
+b_line_i(231,2,11,cmd,3,[ t('',145,231,0),t('''CANCELARTUDO''',3,231,5) ]).
+b_line_i(232,2,11,cmd,3,[ t('',147,232,0) ]).
+b_line_i(234,2,11,cmd,3,[ t('',146,234,0),t('''ApagarUlitmoNumero''',3,234,7) ]).
+b_line_i(236,2,12,cmd,3,[ t('',109,236,0),t('.NOT.',8,3,6),t('null(',1,236,23),t('Resultado',23,3,12),t(')',4,3,32) ]).
+b_line_i(237,2,12,cmd,3,[ t('',107,237,0),t('Resultado',23,3,0),t(=,10,3,0),t('padl(',1,3,0),t('Resultado',23,3,0),t(',',7,3,0),t('len(',1,3,0),t('Resultado',23,3,0),t(')',4,3,0),t(-,5,3,0),t('1',3,3,0),t(')',4,3,0) ]).
+b_line_i(238,2,12,cmd,3,[ t('',111,238,0) ]).
+b_line_i(239,2,12,cmd,3,[ t('',145,239,0),t('''MOSTRARUSUARIO''',3,239,6) ]).
+b_line_i(241,2,12,cmd,3,[ t('',147,241,0) ]).
+b_line_i(243,2,12,cmd,3,[ t('',146,243,0),t('''ChamarResultado''',3,243,7) ]).
+b_line_i(244,2,13,cmd,3,[ t('',109,244,0),t('.NOT.',8,3,5),t('null(',1,244,25),t('Auxresultado',23,3,11),t(')',4,3,34),t('.OR.',9,3,36),t('.NOT.',8,3,41),t('null(',1,244,61),t('Auxresultado',23,3,47),t(')',4,3,70) ]).
+b_line_i(245,2,13,cmd,3,[ t('',145,245,0),t('''BOTAORESULTADO''',3,245,6) ]).
+b_line_i(246,2,13,cmd,3,[ t('',110,246,0) ]).
+b_line_i(247,2,13,cmd,3,[ t('',141,247,0),t('''Informe o número e o cálculo desejado''',3,247,7),t(')',4,3,46) ]).
+b_line_i(248,2,13,cmd,3,[ t('',111,248,0) ]).
+b_line_i(249,2,13,cmd,3,[ t('',147,249,0) ]).
+b_line_i(251,2,13,cmd,3,[ t('',143,251,0),t('''HISTORICOCALCULO''',3,251,5) ]).
+b_line_i(252,2,14,cmd,3,[ t('',109,252,0),t('Operacao',23,3,5),t(=,10,3,15),t('''?''',3,252,17),t('.OR.',9,3,21),t('Operacao',23,3,26),t(=,10,3,35),t('''²''',3,252,37) ]).
+b_line_i(253,2,14,cmd,3,[ t('',145,253,0),t('''FORMATARNUMERO''',3,253,5) ]).
+b_line_i(254,2,14,cmd,3,[ t('',145,254,0),t('''MOSTRARUSUARIO''',3,254,5) ]).
+b_line_i(255,2,14,cmd,3,[ t('',111,255,0) ]).
+b_line_i(256,2,14,cmd,3,[ t('',107,256,0),t('Historico',23,3,0),t(=,10,3,0),t('Mostraruser',23,3,0) ]).
+b_line_i(258,2,14,cmd,3,[ t('',144,258,0) ]).
+b_line_i(260,2,14,cmd,3,[ t('',143,260,0),t('''CANCELARTUDO''',3,260,5) ]).
+b_line_i(261,2,15,cmd,3,[ t('',107,261,0),t([ t('Resultado',23,261,3),t('setempty(',1,261,14) ],31,261,3),t(')',4,3,24) ]).
+b_line_i(262,2,15,cmd,3,[ t('',107,262,0),t([ t('Auxresultado',23,262,2),t('setempty(',1,262,16) ],31,262,2),t(')',4,3,26) ]).
+b_line_i(263,2,15,cmd,3,[ t('',107,263,0),t([ t('Numero1',23,263,2),t('setempty(',1,263,11) ],31,263,2),t(')',4,3,21) ]).
+b_line_i(264,2,15,cmd,3,[ t('',107,264,0),t([ t('Numero2',23,264,2),t('setempty(',1,264,11) ],31,264,2),t(')',4,3,21) ]).
+b_line_i(265,2,15,cmd,3,[ t('',107,265,0),t([ t('Operacao',23,265,2),t('setempty(',1,265,12) ],31,265,2),t(')',4,3,22) ]).
+b_line_i(266,2,15,cmd,3,[ t('',107,266,0),t([ t('Historico',23,266,2),t('setempty(',1,266,13) ],31,266,2),t(')',4,3,23) ]).
+b_line_i(267,2,15,cmd,3,[ t('',145,267,0),t('''MOSTRARUSUARIO''',3,267,5) ]).
+b_line_i(268,2,15,cmd,3,[ t('',144,268,0) ]).
+b_line_i(272,2,15,cmd,3,[ t('',143,272,0),t('''MOSTRARUSUARIO''',3,272,5) ]).
+b_line_i(273,2,16,cmd,3,[ t('',109,273,0),t('Calculosucesso',23,3,5),t(=,10,3,21),t('TRUE',40,3,23) ]).
+b_line_i(274,2,16,cmd,3,[ t('',107,274,0),t('Mostraruser',23,3,0),t(=,10,3,0),t('Resultado',23,3,0),t(+,5,3,0),t(''' ''',3,3,0),t(+,5,3,0),t('Operacao',23,3,0),t(+,5,3,0),t(''' ''',3,3,0),t(+,5,3,0),t('Auxresultado',23,3,0) ]).
+b_line_i(275,2,16,cmd,3,[ t('',110,275,0) ]).
+b_line_i(276,2,16,cmd,3,[ t('',107,276,0),t('Mostraruser',23,3,0),t(=,10,3,0),t('Auxresultado',23,3,0),t(+,5,3,0),t(''' ''',3,3,0),t(+,5,3,0),t('Operacao',23,3,0),t(+,5,3,0),t(''' ''',3,3,0),t(+,5,3,0),t('Resultado',23,3,0) ]).
+b_line_i(278,2,16,cmd,3,[ t('',109,278,0),t('Operacao',23,3,6),t(=,10,3,15),t('''²''',3,278,16) ]).
+b_line_i(279,2,16,cmd,3,[ t('',107,279,0),t('Mostraruser',23,3,0),t(=,10,3,0),t('''sqr(''',3,3,0),t(+,5,3,0),t('Auxresultado',23,3,0),t(+,5,3,0),t(''')''',3,3,0) ]).
+b_line_i(281,2,16,cmd,3,[ t('',110,281,0) ]).
+b_line_i(282,2,16,cmd,3,[ t('',109,282,0),t('Operacao',23,3,6),t(=,10,3,16),t('''?''',3,282,18) ]).
+b_line_i(283,2,16,cmd,3,[ t('',107,283,0),t('Mostraruser',23,3,0),t(=,10,3,0),t('''?(''',3,3,0),t(+,5,3,0),t('Auxresultado',23,3,0),t(+,5,3,0),t(''')''',3,3,0) ]).
+b_line_i(284,2,16,cmd,3,[ t('',111,284,0) ]).
+b_line_i(286,2,16,cmd,3,[ t('',111,286,0) ]).
+b_line_i(287,2,16,cmd,3,[ t('',111,287,0) ]).
+b_line_i(289,2,16,cmd,3,[ t('',144,289,0) ]).
+b_line_i(291,2,16,cmd,3,[ t('',143,291,0),t('''FORMATARNUMERO''',3,291,5) ]).
+b_line_i(293,2,17,cmd,3,[ t('',114,293,0),t([ t('Auxresultado',23,3,11),t('endswith(',1,3,25) ],31,293,25),t('''0''',3,293,35),t(')',4,3,38) ]).
+b_line_i(294,2,17,cmd,3,[ t('',109,294,0),t('(',0,3,6),t([ t('Auxresultado',23,3,7),t('contains(',1,3,21) ],31,294,21),t('''.''',3,294,31),t(')',4,3,34),t(')',4,3,35) ]).
+b_line_i(295,2,17,cmd,3,[ t('',107,295,0),t('Auxresultado',23,3,0),t(=,10,3,0),t('padl(',1,3,0),t('Auxresultado',23,3,0),t(',',7,3,0),t('len(',1,3,0),t('Auxresultado',23,3,0),t(')',4,3,0),t(-,5,3,0),t('1',3,3,0),t(')',4,3,0) ]).
+b_line_i(297,2,17,cmd,3,[ t('',111,297,0) ]).
+b_line_i(298,2,17,cmd,3,[ t('',115,298,0) ]).
+b_line_i(300,2,17,cmd,3,[ t('',114,300,0),t([ t('Resultado',23,3,12),t('endswith(',1,3,23) ],31,300,23),t('''0''',3,300,33),t(')',4,3,36) ]).
+b_line_i(301,2,17,cmd,3,[ t('',109,301,0),t('(',0,3,7),t([ t('Resultado',23,3,8),t('contains(',1,3,19) ],31,301,19),t('''.''',3,301,29),t(')',4,3,32),t(')',4,3,33) ]).
+b_line_i(302,2,17,cmd,3,[ t('',107,302,0),t('Resultado',23,3,0),t(=,10,3,0),t('padl(',1,3,0),t('Resultado',23,3,0),t(',',7,3,0),t('len(',1,3,0),t('Resultado',23,3,0),t(')',4,3,0),t(-,5,3,0),t('1',3,3,0),t(')',4,3,0) ]).
+b_line_i(304,2,17,cmd,3,[ t('',111,304,0) ]).
+b_line_i(305,2,17,cmd,3,[ t('',115,305,0) ]).
+b_line_i(307,2,17,cmd,3,[ t('',109,307,0),t('(',0,3,4),t([ t('Auxresultado',23,3,5),t('endswith(',1,3,19) ],31,307,19),t('''.''',3,307,29),t(')',4,3,32),t(')',4,3,33) ]).
+b_line_i(308,2,17,cmd,3,[ t('',107,308,0),t('Auxresultado',23,3,0),t(=,10,3,0),t('strreplace(',1,3,0),t('Auxresultado',23,3,0),t(',',7,3,0),t('''.''',3,3,0),t(',',7,3,0),t('''''',3,3,0),t(')',4,3,0) ]).
+b_line_i(309,2,17,cmd,3,[ t('',111,309,0) ]).
+b_line_i(311,2,17,cmd,3,[ t('',109,311,0),t('(',0,3,4),t([ t('Resultado',23,3,5),t('endswith(',1,3,16) ],31,311,16),t('''.''',3,311,26),t(')',4,3,29),t(')',4,3,30) ]).
+b_line_i(312,2,17,cmd,3,[ t('',107,312,0),t('Resultado',23,3,0),t(=,10,3,0),t('strreplace(',1,3,0),t('Resultado',23,3,0),t(',',7,3,0),t('''.''',3,3,0),t(',',7,3,0),t('''''',3,3,0),t(')',4,3,0) ]).
+b_line_i(313,2,17,cmd,3,[ t('',111,313,0) ]).
+b_line_i(315,2,17,cmd,3,[ t('',144,315,0) ]).
+b_line_i(320,2,17,cmd,3,[ t('',146,320,0),t('''Add9''',3,320,7) ]).
+b_line_i(321,2,18,cmd,3,[ t('',109,321,0),t('Calculosucesso',23,3,5),t(=,10,3,21),t('FALSE',41,3,23) ]).
+b_line_i(322,2,18,cmd,3,[ t('',107,322,0),t('Resultado',23,3,0),t(=,10,3,0),t('Resultado',23,3,0),t(+,5,3,0),t('''9''',3,3,0) ]).
+b_line_i(323,2,18,cmd,3,[ t('',110,323,0) ]).
+b_line_i(324,2,18,cmd,3,[ t('',107,324,0),t('Resultado',23,3,0),t(=,10,3,0),t('''9''',3,3,0) ]).
+b_line_i(325,2,18,cmd,3,[ t('',107,325,0),t('Calculosucesso',23,3,0),t(=,10,3,0),t('FALSE',41,3,0) ]).
+b_line_i(326,2,18,cmd,3,[ t('',111,326,0) ]).
+b_line_i(327,2,18,cmd,3,[ t('',145,327,0),t('''MOSTRARUSUARIO''',3,327,4) ]).
+b_line_i(329,2,18,cmd,3,[ t('',147,329,0) ]).
+b_line_i(331,2,18,cmd,3,[ t('',146,331,0),t('''Add8''',3,331,7) ]).
+b_line_i(332,2,19,cmd,3,[ t('',109,332,0),t('Calculosucesso',23,3,5),t(=,10,3,21),t('FALSE',41,3,23) ]).
+b_line_i(333,2,19,cmd,3,[ t('',107,333,0),t('Resultado',23,3,0),t(=,10,3,0),t('Resultado',23,3,0),t(+,5,3,0),t('''8''',3,3,0) ]).
+b_line_i(334,2,19,cmd,3,[ t('',110,334,0) ]).
+b_line_i(335,2,19,cmd,3,[ t('',107,335,0),t('Resultado',23,3,0),t(=,10,3,0),t('''8''',3,3,0) ]).
+b_line_i(336,2,19,cmd,3,[ t('',107,336,0),t('Calculosucesso',23,3,0),t(=,10,3,0),t('FALSE',41,3,0) ]).
+b_line_i(337,2,19,cmd,3,[ t('',111,337,0) ]).
+b_line_i(338,2,19,cmd,3,[ t('',145,338,0),t('''MOSTRARUSUARIO''',3,338,5) ]).
+b_line_i(339,2,19,cmd,3,[ t('',147,339,0) ]).
+b_line_i(342,2,19,cmd,3,[ t('',146,342,0),t('''Add7''',3,342,7) ]).
+b_line_i(343,2,20,cmd,3,[ t('',109,343,0),t('Calculosucesso',23,3,5),t(=,10,3,21),t('FALSE',41,3,23) ]).
+b_line_i(344,2,20,cmd,3,[ t('',107,344,0),t('Resultado',23,3,0),t(=,10,3,0),t('Resultado',23,3,0),t(+,5,3,0),t('''7''',3,3,0) ]).
+b_line_i(345,2,20,cmd,3,[ t('',110,345,0) ]).
+b_line_i(346,2,20,cmd,3,[ t('',107,346,0),t('Resultado',23,3,0),t(=,10,3,0),t('''7''',3,3,0) ]).
+b_line_i(347,2,20,cmd,3,[ t('',107,347,0),t('Calculosucesso',23,3,0),t(=,10,3,0),t('FALSE',41,3,0) ]).
+b_line_i(348,2,20,cmd,3,[ t('',111,348,0) ]).
+b_line_i(349,2,20,cmd,3,[ t('',145,349,0),t('''MOSTRARUSUARIO''',3,349,5) ]).
+b_line_i(350,2,20,cmd,3,[ t('',147,350,0) ]).
+b_line_i(353,2,20,cmd,3,[ t('',146,353,0),t('''Add6''',3,353,7) ]).
+b_line_i(354,2,21,cmd,3,[ t('',109,354,0),t('Calculosucesso',23,3,4),t(=,10,3,20),t('FALSE',41,3,22) ]).
+b_line_i(355,2,21,cmd,3,[ t('',107,355,0),t('Resultado',23,3,0),t(=,10,3,0),t('Resultado',23,3,0),t(+,5,3,0),t('''6''',3,3,0) ]).
+b_line_i(356,2,21,cmd,3,[ t('',110,356,0) ]).
+b_line_i(357,2,21,cmd,3,[ t('',107,357,0),t('Resultado',23,3,0),t(=,10,3,0),t('''6''',3,3,0) ]).
+b_line_i(358,2,21,cmd,3,[ t('',107,358,0),t('Calculosucesso',23,3,0),t(=,10,3,0),t('FALSE',41,3,0) ]).
+b_line_i(359,2,21,cmd,3,[ t('',111,359,0) ]).
+b_line_i(360,2,21,cmd,3,[ t('',145,360,0),t('''MOSTRARUSUARIO''',3,360,5) ]).
+b_line_i(361,2,21,cmd,3,[ t('',147,361,0) ]).
+b_line_i(364,2,21,cmd,3,[ t('',146,364,0),t('''Add5''',3,364,7) ]).
+b_line_i(365,2,22,cmd,3,[ t('',109,365,0),t('Calculosucesso',23,3,4),t(=,10,3,20),t('FALSE',41,3,22) ]).
+b_line_i(366,2,22,cmd,3,[ t('',107,366,0),t('Resultado',23,3,0),t(=,10,3,0),t('Resultado',23,3,0),t(+,5,3,0),t('''5''',3,3,0) ]).
+b_line_i(367,2,22,cmd,3,[ t('',110,367,0) ]).
+b_line_i(368,2,22,cmd,3,[ t('',107,368,0),t('Resultado',23,3,0),t(=,10,3,0),t('''5''',3,3,0) ]).
+b_line_i(369,2,22,cmd,3,[ t('',107,369,0),t('Calculosucesso',23,3,0),t(=,10,3,0),t('FALSE',41,3,0) ]).
+b_line_i(370,2,22,cmd,3,[ t('',111,370,0) ]).
+b_line_i(371,2,22,cmd,3,[ t('',145,371,0),t('''MOSTRARUSUARIO''',3,371,4) ]).
+b_line_i(372,2,22,cmd,3,[ t('',147,372,0) ]).
+b_line_i(374,2,22,cmd,3,[ t('',146,374,0),t('''Add4''',3,374,7) ]).
+b_line_i(375,2,23,cmd,3,[ t('',109,375,0),t('Calculosucesso',23,3,4),t(=,10,3,20),t('FALSE',41,3,22) ]).
+b_line_i(376,2,23,cmd,3,[ t('',107,376,0),t('Resultado',23,3,0),t(=,10,3,0),t('Resultado',23,3,0),t(+,5,3,0),t('''4''',3,3,0) ]).
+b_line_i(377,2,23,cmd,3,[ t('',110,377,0) ]).
+b_line_i(378,2,23,cmd,3,[ t('',107,378,0),t('Resultado',23,3,0),t(=,10,3,0),t('''4''',3,3,0) ]).
+b_line_i(379,2,23,cmd,3,[ t('',107,379,0),t('Calculosucesso',23,3,0),t(=,10,3,0),t('FALSE',41,3,0) ]).
+b_line_i(380,2,23,cmd,3,[ t('',111,380,0) ]).
+b_line_i(381,2,23,cmd,3,[ t('',145,381,0),t('''MOSTRARUSUARIO''',3,381,4) ]).
+b_line_i(382,2,23,cmd,3,[ t('',147,382,0) ]).
+b_line_i(384,2,23,cmd,3,[ t('',146,384,0),t('''Add3''',3,384,7) ]).
+b_line_i(385,2,24,cmd,3,[ t('',109,385,0),t('Calculosucesso',23,3,4),t(=,10,3,20),t('FALSE',41,3,22) ]).
+b_line_i(386,2,24,cmd,3,[ t('',107,386,0),t('Resultado',23,3,0),t(=,10,3,0),t('Resultado',23,3,0),t(+,5,3,0),t('''3''',3,3,0) ]).
+b_line_i(387,2,24,cmd,3,[ t('',110,387,0) ]).
+b_line_i(388,2,24,cmd,3,[ t('',107,388,0),t('Resultado',23,3,0),t(=,10,3,0),t('''3''',3,3,0) ]).
+b_line_i(389,2,24,cmd,3,[ t('',107,389,0),t('Calculosucesso',23,3,0),t(=,10,3,0),t('FALSE',41,3,0) ]).
+b_line_i(390,2,24,cmd,3,[ t('',111,390,0) ]).
+b_line_i(391,2,24,cmd,3,[ t('',145,391,0),t('''MOSTRARUSUARIO''',3,391,4) ]).
+b_line_i(392,2,24,cmd,3,[ t('',147,392,0) ]).
+b_line_i(394,2,24,cmd,3,[ t('',146,394,0),t('''Add2''',3,394,7) ]).
+b_line_i(395,2,25,cmd,3,[ t('',107,395,0),t('Resultado',23,3,0),t(=,10,3,0),t('Resultado',23,3,0),t(+,5,3,0),t('''2''',3,3,0) ]).
+b_line_i(396,2,25,cmd,3,[ t('',145,396,0),t('''MOSTRARUSUARIO''',3,396,5) ]).
+b_line_i(397,2,25,cmd,3,[ t('',147,397,0) ]).
+b_line_i(400,2,25,cmd,3,[ t('',146,400,0),t('''Add1''',3,400,7) ]).
+b_line_i(401,2,26,cmd,3,[ t('',107,401,0),t('Resultado',23,3,0),t(=,10,3,0),t('Resultado',23,3,0),t(+,5,3,0),t('''1''',3,3,0) ]).
+b_line_i(402,2,26,cmd,3,[ t('',145,402,0),t('''MOSTRARUSUARIO''',3,402,5) ]).
+b_line_i(403,2,26,cmd,3,[ t('',147,403,0) ]).
+b_line_i(406,2,26,cmd,3,[ t('',146,406,0),t('''Add0''',3,406,7) ]).
+b_line_i(407,2,27,cmd,3,[ t('',107,407,0),t('Resultado',23,3,0),t(=,10,3,0),t('Resultado',23,3,0),t(+,5,3,0),t('''0''',3,3,0) ]).
+b_line_i(408,2,27,cmd,3,[ t('',145,408,0),t('''MOSTRARUSUARIO''',3,408,5) ]).
+b_line_i(409,2,27,cmd,3,[ t('',147,409,0) ]).
+b_line_i(411,2,27,cmd,3,[ t('',146,411,0),t('''Potencia''',3,411,7) ]).
+b_line_i(412,2,28,cmd,3,[ t('',107,412,0),t('Calculosucesso',23,3,0),t(=,10,3,0),t('FALSE',41,3,0) ]).
+b_line_i(413,2,28,cmd,3,[ t('',109,413,0),t('.NOT.',8,3,5),t('null(',1,413,22),t('Resultado',23,3,11),t(')',4,3,31),t('.OR.',9,3,33),t('.NOT.',8,3,38),t('null(',1,413,58),t('Auxresultado',23,3,44),t(')',4,3,67) ]).
+b_line_i(414,2,28,cmd,3,[ t('',109,414,0),t('null(',1,414,16),t('Operacao',23,3,6),t(')',4,3,25) ]).
+b_line_i(415,2,28,cmd,3,[ t('',107,415,0),t('Auxresultado',23,3,0),t(=,10,3,0),t('Resultado',23,3,0) ]).
+b_line_i(416,2,28,cmd,3,[ t('',107,416,0),t('Resultado',23,3,0),t(=,10,3,0),t('''''',3,3,0) ]).
+b_line_i(417,2,28,cmd,3,[ t('',111,417,0) ]).
+b_line_i(418,2,28,cmd,3,[ t('',109,418,0),t('Operacao',23,3,6),t(=,10,3,16),t('''^''',3,418,18) ]).
+b_line_i(419,2,28,cmd,3,[ t('',145,419,0),t('''BOTAORESULTADO''',3,419,7) ]).
+b_line_i(420,2,28,cmd,3,[ t('',110,420,0) ]).
+b_line_i(421,2,28,cmd,3,[ t('',107,421,0),t('Operacao',23,3,0),t(=,10,3,0),t('''^''',3,3,0) ]).
+b_line_i(422,2,28,cmd,3,[ t('',111,422,0) ]).
+b_line_i(423,2,28,cmd,3,[ t('',145,423,0),t('''MOSTRARUSUARIO''',3,423,6) ]).
+b_line_i(424,2,28,cmd,3,[ t('',110,424,0) ]).
+b_line_i(425,2,28,cmd,3,[ t('',141,425,0),t('''Por favor, insira o primeiro número''',3,425,7),t(')',4,3,44) ]).
+b_line_i(426,2,28,cmd,3,[ t('',111,426,0) ]).
+b_line_i(427,2,28,cmd,3,[ t('',147,427,0) ]).
+b_line_i(1000,2,28,cmd,0,[ t('',146,0,0),t('Load',3,0,0) ]).
+b_line_i(1001,2,28,cmd,0,[ t('',155,0,0) ]).
+b_line_i(1002,2,28,cmd,0,[ t('',147,0,0) ]).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+html_i(2,div(2)).
+ 
+html_sub_i(2,3,html_i(0,div(3))).
+html_sub_i(3,4,html_i(0,div(4))).
+html_sub_i(4,5,html_i(0,div(5))).
+html_sub_i(5,6,html_i(0,t('CALCULADORA TOPSTER',3))).
+html_sub_i(3,7,html_i(1,div(7))).
+html_sub_i(7,8,html_i(0,div(8))).
+html_sub_i(8,9,html_i(0,div(9))).
+html_sub_i(9,10,html_i(0,div(10))).
+html_sub_i(10,11,html_i(0,t('Historico',23))).
+html_sub_i(3,12,html_i(2,div(12))).
+html_sub_i(12,13,html_i(0,div(13))).
+html_sub_i(13,14,html_i(0,div(14))).
+html_sub_i(14,15,html_i(0,div(15))).
+html_sub_i(15,16,html_i(0,t('Mostraruser',23))).
+html_sub_i(3,17,html_i(3,div(17))).
+html_sub_i(17,18,html_i(0,div(18))).
+html_sub_i(18,19,html_i(0,button('''Cancelar Tudo'''))).
+html_sub_i(17,20,html_i(1,div(20))).
+html_sub_i(20,21,html_i(0,table(21))).
+html_sub_i(21,22,html_i(0,row(22))).
+html_sub_i(22,23,html_i(0,cell(23))).
+html_sub_i(23,24,html_i(0,button('''ApagarUlitmoNumero'''))).
+html_sub_i(3,25,html_i(4,div(25))).
+html_sub_i(25,26,html_i(0,div(26))).
+html_sub_i(26,27,html_i(0,table(27))).
+html_sub_i(27,28,html_i(0,row(28))).
+html_sub_i(28,29,html_i(0,cell(29))).
+html_sub_i(29,30,html_i(0,button('''AoQuadrado'''))).
+html_sub_i(25,31,html_i(1,div(31))).
+html_sub_i(31,32,html_i(0,table(32))).
+html_sub_i(32,33,html_i(0,row(33))).
+html_sub_i(33,34,html_i(0,cell(34))).
+html_sub_i(34,35,html_i(0,button('''Potencia'''))).
+html_sub_i(25,36,html_i(2,div(36))).
+html_sub_i(36,37,html_i(0,table(37))).
+html_sub_i(37,38,html_i(0,row(38))).
+html_sub_i(38,39,html_i(0,cell(39))).
+html_sub_i(39,40,html_i(0,button('''RaizQuadrada'''))).
+html_sub_i(3,41,html_i(5,div(41))).
+html_sub_i(41,42,html_i(0,div(42))).
+html_sub_i(42,43,html_i(0,button('''Add7'''))).
+html_sub_i(41,44,html_i(1,div(44))).
+html_sub_i(44,45,html_i(0,button('''Add8'''))).
+html_sub_i(41,46,html_i(2,div(46))).
+html_sub_i(46,47,html_i(0,button('''Add9'''))).
+html_sub_i(41,48,html_i(3,div(48))).
+html_sub_i(48,49,html_i(0,button('''Dividir'''))).
+html_sub_i(3,50,html_i(6,div(50))).
+html_sub_i(50,51,html_i(0,div(51))).
+html_sub_i(51,52,html_i(0,button('''Add4'''))).
+html_sub_i(50,53,html_i(1,div(53))).
+html_sub_i(53,54,html_i(0,button('''Add5'''))).
+html_sub_i(50,55,html_i(2,div(55))).
+html_sub_i(55,56,html_i(0,button('''Add6'''))).
+html_sub_i(50,57,html_i(3,div(57))).
+html_sub_i(57,58,html_i(0,button('''Multiplicar'''))).
+html_sub_i(3,59,html_i(7,div(59))).
+html_sub_i(59,60,html_i(0,div(60))).
+html_sub_i(60,61,html_i(0,button('''Add1'''))).
+html_sub_i(59,62,html_i(1,div(62))).
+html_sub_i(62,63,html_i(0,button('''Add2'''))).
+html_sub_i(59,64,html_i(2,div(64))).
+html_sub_i(64,65,html_i(0,button('''Add3'''))).
+html_sub_i(59,66,html_i(3,div(66))).
+html_sub_i(66,67,html_i(0,button('''Subtrair'''))).
+html_sub_i(3,68,html_i(8,div(68))).
+html_sub_i(68,69,html_i(0,div(69))).
+html_sub_i(69,70,html_i(0,button('''TrocarSinal'''))).
+html_sub_i(68,71,html_i(1,div(71))).
+html_sub_i(71,72,html_i(0,button('''Add0'''))).
+html_sub_i(68,73,html_i(2,div(73))).
+html_sub_i(73,74,html_i(0,button('''Add,'''))).
+html_sub_i(68,75,html_i(3,div(75))).
+html_sub_i(75,76,html_i(0,button('''Adicionar'''))).
+html_sub_i(3,77,html_i(9,div(77))).
+html_sub_i(77,78,html_i(0,div(78))).
+html_sub_i(78,79,html_i(0,table(79))).
+html_sub_i(79,80,html_i(0,row(80))).
+html_sub_i(80,81,html_i(0,cell(81))).
+html_sub_i(81,82,html_i(0,button('''ChamarResultado'''))).
+ 
+html_tags_i(1,'Class','form-horizontal Form').
+html_tags_i(2,'data-gx-base-lib',none).
+html_tags_i(2,'data-abstract-form','').
+html_tags_i(6,'ControlType','').
+html_tags_i(9,'data-gx-att','var:27').
+html_tags_i(11,'data-gx-att','var:27').
+html_tags_i(14,'data-gx-att','var:13').
+html_tags_i(16,'data-gx-att','var:13').
+html_tags_i(19,'ControlType','').
+html_tags_i(24,'ControlType','').
+html_tags_i(30,'ControlType','').
+html_tags_i(35,'ControlType','').
+html_tags_i(40,'ControlType','').
+html_tags_i(43,'ControlType','').
+html_tags_i(45,'ControlType','').
+html_tags_i(47,'ControlType','').
+html_tags_i(49,'ControlType','').
+html_tags_i(52,'ControlType','').
+html_tags_i(54,'ControlType','').
+html_tags_i(56,'ControlType','').
+html_tags_i(58,'ControlType','').
+html_tags_i(61,'ControlType','').
+html_tags_i(63,'ControlType','').
+html_tags_i(65,'ControlType','').
+html_tags_i(67,'ControlType','').
+html_tags_i(70,'ControlType','').
+html_tags_i(72,'ControlType','').
+html_tags_i(74,'ControlType','').
+html_tags_i(76,'ControlType','').
+html_tags_i(82,'ControlType','').
+ 
+html_comp_i(2,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(2,'Class','Section',d,[ str ]).
+html_comp_i(2,'Id','',d,[ str ]).
+html_comp_i(2,'Height',measure(0,px),d,[ measure ]).
+html_comp_i(2,'Width',measure(0,px),d,[ measure ]).
+html_comp_i(2,'Semanticcontent',div,d,[ str ]).
+html_comp_i(2,'Align',left,d,[ str ]).
+html_comp_i(2,'Valign',top,d,[ str ]).
+html_comp_i(3,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(3,'Class',painel,v,[ str ]).
+html_comp_i(3,'Id','Maintable',v,[ str ]).
+html_comp_i(3,'Height',measure(0,px),d,[ measure ]).
+html_comp_i(3,'Width',measure(0,px),d,[ measure ]).
+html_comp_i(3,'Semanticcontent',div,d,[ str ]).
+html_comp_i(3,'Align',left,d,[ str ]).
+html_comp_i(3,'Valign',top,d,[ str ]).
+html_comp_i(4,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(4,'Class',row,v,[ str ]).
+html_comp_i(4,'Id','',d,[ str ]).
+html_comp_i(4,'Height',measure(0,px),d,[ measure ]).
+html_comp_i(4,'Width',measure(0,px),d,[ measure ]).
+html_comp_i(4,'Semanticcontent',div,d,[ str ]).
+html_comp_i(4,'Align',left,d,[ str ]).
+html_comp_i(4,'Valign',top,d,[ str ]).
+html_comp_i(5,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(5,'Class','col-xs-12',v,[ str ]).
+html_comp_i(5,'Id','',d,[ str ]).
+html_comp_i(5,'Height',measure(0,px),d,[ measure ]).
+html_comp_i(5,'Width',measure(0,px),d,[ measure ]).
+html_comp_i(5,'Semanticcontent',div,d,[ str ]).
+html_comp_i(5,'Align',left,d,[ str ]).
+html_comp_i(5,'Valign',top,d,[ str ]).
+html_comp_i(6,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(6,'Caption','CALCULADORA TOPSTER',d,[ str ]).
+html_comp_i(6,'Id','Textblock1',v,[ str ]).
+html_comp_i(6,'Class','Title',v,[ str ]).
+html_comp_i(6,'Event','',d,[ str ]).
+html_comp_i(6,'Returnonclick',0,d,[ bool ]).
+html_comp_i(6,'Gxformat',0,d,[ num ]).
+html_comp_i(6,'Title','',d,[ str ]).
+html_comp_i(6,'Fill',-1,d,[ bool ]).
+html_comp_i(6,'Backcolor',rgb(255,255,255),d,[ color ]).
+html_comp_i(6,'Forecolor',rgb(0,0,0),d,[ color ]).
+html_comp_i(6,'Font','',d,[ str ]).
+html_comp_i(7,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(7,'Class',row,v,[ str ]).
+html_comp_i(7,'Id','',d,[ str ]).
+html_comp_i(7,'Height',measure(0,px),d,[ measure ]).
+html_comp_i(7,'Width',measure(0,px),d,[ measure ]).
+html_comp_i(7,'Semanticcontent',div,d,[ str ]).
+html_comp_i(7,'Align',left,d,[ str ]).
+html_comp_i(7,'Valign',top,d,[ str ]).
+html_comp_i(8,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(8,'Class','col-xs-12',v,[ str ]).
+html_comp_i(8,'Id','',d,[ str ]).
+html_comp_i(8,'Height',measure(0,px),d,[ measure ]).
+html_comp_i(8,'Width',measure(0,px),d,[ measure ]).
+html_comp_i(8,'Semanticcontent',div,d,[ str ]).
+html_comp_i(8,'Align',left,d,[ str ]).
+html_comp_i(8,'Valign',top,d,[ str ]).
+html_comp_i(9,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(9,'Class','form-group gx-form-group ',v,[ str ]).
+html_comp_i(9,'Id','',d,[ str ]).
+html_comp_i(9,'Height',measure(0,px),d,[ measure ]).
+html_comp_i(9,'Width',measure(0,px),d,[ measure ]).
+html_comp_i(9,'Semanticcontent',div,d,[ str ]).
+html_comp_i(9,'Align',left,d,[ str ]).
+html_comp_i(9,'Valign',top,d,[ str ]).
+html_comp_i(10,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(10,'Class','col-sm-9 gx-attribute',v,[ str ]).
+html_comp_i(10,'Id','',d,[ str ]).
+html_comp_i(10,'Height',measure(0,px),d,[ measure ]).
+html_comp_i(10,'Width',measure(0,px),d,[ measure ]).
+html_comp_i(10,'Semanticcontent',div,d,[ str ]).
+html_comp_i(10,'Align',left,d,[ str ]).
+html_comp_i(10,'Valign',top,d,[ str ]).
+html_comp_i(11,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(11,'Colcount',40,d,[ num ]).
+html_comp_i(11,'Attid',-27,v,[ num ]).
+html_comp_i(11,'Class','Attribute historico',v,[ str ]).
+html_comp_i(11,'Controlname','&Historico',d,[ str ]).
+html_comp_i(11,'Returnonclick',0,v,[ bool ]).
+html_comp_i(11,'Eventgx','',d,[ str ]).
+html_comp_i(11,'Captionclass','col-sm-3 AttributeLabel historicoLabel',v,[ str ]).
+html_comp_i(11,'Captionstyle','',v,[ str ]).
+html_comp_i(11,'Captionposition','Left',v,[ str ]).
+html_comp_i(11,'Captionvalue','',d,[ str ]).
+html_comp_i(11,'Layoutclass','col-sm-9',v,[ str ]).
+html_comp_i(11,'Controltype',2,d,[ num ]).
+html_comp_i(11,'Inputtype',0,d,[ num ]).
+html_comp_i(11,'Editautocomplete',0,d,[ num ]).
+html_comp_i(11,'Autocorrection',-1,d,[ bool ]).
+html_comp_i(11,'Autocapitalization','FirstWord',d,[ str ]).
+html_comp_i(11,'Notifycontextchange',0,d,[ bool ]).
+html_comp_i(11,'Emptyasnull','Yes',d,[ str ]).
+html_comp_i(11,'Readonly',-1,v,[ bool ]).
+html_comp_i(11,'Autocomplete',-1,d,[ bool ]).
+html_comp_i(11,'Ispassword',0,d,[ bool ]).
+html_comp_i(11,'Autoresize',-1,d,[ bool ]).
+html_comp_i(11,'Gxwidth',measure(40,chr),d,[ measure ]).
+html_comp_i(11,'Gxheight',measure(1,row),d,[ measure ]).
+html_comp_i(11,'Ismultiline',0,d,[ bool ]).
+html_comp_i(11,'Maxtextnumberlines',0,d,[ num ]).
+html_comp_i(11,'Fill',-1,d,[ bool ]).
+html_comp_i(11,'Backcolor',rgb(255,255,255),d,[ color ]).
+html_comp_i(11,'Forecolor',rgb(0,0,0),d,[ color ]).
+html_comp_i(11,'Font',font('Verdana',12,[]),d,[ font ]).
+html_comp_i(11,'Horizontalalignment',left,d,[ str ]).
+html_comp_i(11,'Gxformat',0,d,[ num ]).
+html_comp_i(11,'Title','',d,[ str ]).
+html_comp_i(11,'Invitemsg','',v,[ str ]).
+html_comp_i(12,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(12,'Class',row,v,[ str ]).
+html_comp_i(12,'Id','',d,[ str ]).
+html_comp_i(12,'Height',measure(0,px),d,[ measure ]).
+html_comp_i(12,'Width',measure(0,px),d,[ measure ]).
+html_comp_i(12,'Semanticcontent',div,d,[ str ]).
+html_comp_i(12,'Align',left,d,[ str ]).
+html_comp_i(12,'Valign',top,d,[ str ]).
+html_comp_i(13,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(13,'Class','col-xs-12',v,[ str ]).
+html_comp_i(13,'Id','',d,[ str ]).
+html_comp_i(13,'Height',measure(0,px),d,[ measure ]).
+html_comp_i(13,'Width',measure(0,px),d,[ measure ]).
+html_comp_i(13,'Semanticcontent',div,d,[ str ]).
+html_comp_i(13,'Align',left,d,[ str ]).
+html_comp_i(13,'Valign',top,d,[ str ]).
+html_comp_i(14,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(14,'Class','form-group gx-form-group ',v,[ str ]).
+html_comp_i(14,'Id','',d,[ str ]).
+html_comp_i(14,'Height',measure(0,px),d,[ measure ]).
+html_comp_i(14,'Width',measure(0,px),d,[ measure ]).
+html_comp_i(14,'Semanticcontent',div,d,[ str ]).
+html_comp_i(14,'Align',left,d,[ str ]).
+html_comp_i(14,'Valign',top,d,[ str ]).
+html_comp_i(15,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(15,'Class','col-sm-9 gx-attribute',v,[ str ]).
+html_comp_i(15,'Id','',d,[ str ]).
+html_comp_i(15,'Height',measure(0,px),d,[ measure ]).
+html_comp_i(15,'Width',measure(0,px),d,[ measure ]).
+html_comp_i(15,'Semanticcontent',div,d,[ str ]).
+html_comp_i(15,'Align',left,d,[ str ]).
+html_comp_i(15,'Valign',top,d,[ str ]).
+html_comp_i(16,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(16,'Colcount',40,d,[ num ]).
+html_comp_i(16,'Attid',-13,v,[ num ]).
+html_comp_i(16,'Class','Attribute',v,[ str ]).
+html_comp_i(16,'Controlname','&Mostraruser',d,[ str ]).
+html_comp_i(16,'Returnonclick',0,v,[ bool ]).
+html_comp_i(16,'Eventgx','',d,[ str ]).
+html_comp_i(16,'Captionclass','col-sm-3 AttributeLabel',v,[ str ]).
+html_comp_i(16,'Captionstyle','',v,[ str ]).
+html_comp_i(16,'Captionposition','Left',v,[ str ]).
+html_comp_i(16,'Captionvalue','',d,[ str ]).
+html_comp_i(16,'Layoutclass','col-sm-9',v,[ str ]).
+html_comp_i(16,'Controltype',2,d,[ num ]).
+html_comp_i(16,'Inputtype',0,d,[ num ]).
+html_comp_i(16,'Editautocomplete',0,d,[ num ]).
+html_comp_i(16,'Autocorrection',-1,d,[ bool ]).
+html_comp_i(16,'Autocapitalization','FirstWord',d,[ str ]).
+html_comp_i(16,'Notifycontextchange',0,d,[ bool ]).
+html_comp_i(16,'Emptyasnull','Yes',d,[ str ]).
+html_comp_i(16,'Readonly',-1,v,[ bool ]).
+html_comp_i(16,'Autocomplete',-1,d,[ bool ]).
+html_comp_i(16,'Ispassword',0,d,[ bool ]).
+html_comp_i(16,'Autoresize',-1,d,[ bool ]).
+html_comp_i(16,'Gxwidth',measure(40,chr),d,[ measure ]).
+html_comp_i(16,'Gxheight',measure(1,row),d,[ measure ]).
+html_comp_i(16,'Ismultiline',0,d,[ bool ]).
+html_comp_i(16,'Maxtextnumberlines',0,d,[ num ]).
+html_comp_i(16,'Fill',-1,d,[ bool ]).
+html_comp_i(16,'Backcolor',rgb(255,255,255),d,[ color ]).
+html_comp_i(16,'Forecolor',rgb(0,0,0),d,[ color ]).
+html_comp_i(16,'Font',font('Verdana',12,[]),d,[ font ]).
+html_comp_i(16,'Horizontalalignment',left,d,[ str ]).
+html_comp_i(16,'Gxformat',0,d,[ num ]).
+html_comp_i(16,'Title','',d,[ str ]).
+html_comp_i(16,'Invitemsg','',v,[ str ]).
+html_comp_i(17,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(17,'Class',row,v,[ str ]).
+html_comp_i(17,'Id','',d,[ str ]).
+html_comp_i(17,'Height',measure(0,px),d,[ measure ]).
+html_comp_i(17,'Width',measure(0,px),d,[ measure ]).
+html_comp_i(17,'Semanticcontent',div,d,[ str ]).
+html_comp_i(17,'Align',left,d,[ str ]).
+html_comp_i(17,'Valign',top,d,[ str ]).
+html_comp_i(18,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(18,'Class','col-xs-12 col-sm-6',v,[ str ]).
+html_comp_i(18,'Id','',d,[ str ]).
+html_comp_i(18,'Height',measure(0,px),d,[ measure ]).
+html_comp_i(18,'Width',measure(0,px),d,[ measure ]).
+html_comp_i(18,'Semanticcontent',div,d,[ str ]).
+html_comp_i(18,'Align',left,d,[ str ]).
+html_comp_i(18,'Valign',top,d,[ str ]).
+html_comp_i(19,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(19,'Controlname','Cancelartudo',v,[ str ]).
+html_comp_i(19,'Class','Button corFundo',v,[ str ]).
+html_comp_i(19,'Event','''Cancelar Tudo''',v,[ str ]).
+html_comp_i(19,'Caption','Cancelar Tudo',d,[ str ]).
+html_comp_i(19,'Title','Cancelar Tudo',d,[ str ]).
+html_comp_i(19,'Font',font('Microsoft Sans Serif',10,[]),d,[ font ]).
+html_comp_i(19,'Forecolor',rgb(0,0,0),d,[ color ]).
+html_comp_i(19,'Backcolor',rgb(240,240,240),d,[ color ]).
+html_comp_i(19,'Border','2',d,[ str ]).
+html_comp_i(19,'Bordercolor',rgb(255,255,255),d,[ color ]).
+html_comp_i(19,'Buttonborderstyle',standard,d,[ str ]).
+html_comp_i(20,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(20,'Class','col-xs-12 col-sm-6',v,[ str ]).
+html_comp_i(20,'Id','',d,[ str ]).
+html_comp_i(20,'Height',measure(0,px),d,[ measure ]).
+html_comp_i(20,'Width',measure(0,px),d,[ measure ]).
+html_comp_i(20,'Semanticcontent',div,d,[ str ]).
+html_comp_i(20,'Align',left,d,[ str ]).
+html_comp_i(20,'Valign',top,d,[ str ]).
+html_comp_i(21,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(21,'Id','Table2',v,[ str ]).
+html_comp_i(21,'Class','Table',v,[ str ]).
+html_comp_i(21,'Title','',d,[ str ]).
+html_comp_i(21,'Header','',d,[ str ]).
+html_comp_i(21,'Align',left,d,[ str ]).
+html_comp_i(21,'Backgroundgx','',d,[ str ]).
+html_comp_i(21,'Bgcolor',rgb(0,0,0),d,[ color ]).
+html_comp_i(21,'Border','0',d,[ str ]).
+html_comp_i(21,'Bordercolor',rgb(0,0,0),d,[ color ]).
+html_comp_i(21,'Cellpadding','1',d,[ str ]).
+html_comp_i(21,'Cellspacing','2',d,[ str ]).
+html_comp_i(21,'Height',measure(0,px),d,[ measure ]).
+html_comp_i(21,'Width',measure(0,px),d,[ measure ]).
+html_comp_i(21,'Rules',none,d,[ str ]).
+html_comp_i(24,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(24,'Controlname','Apagarulitmonumero',v,[ str ]).
+html_comp_i(24,'Class','Button corFundo',v,[ str ]).
+html_comp_i(24,'Event','''ApagarUlitmoNumero''',v,[ str ]).
+html_comp_i(24,'Caption',<=,d,[ str ]).
+html_comp_i(24,'Title',<=,d,[ str ]).
+html_comp_i(24,'Font',font('Microsoft Sans Serif',10,[]),d,[ font ]).
+html_comp_i(24,'Forecolor',rgb(0,0,0),d,[ color ]).
+html_comp_i(24,'Backcolor',rgb(240,240,240),d,[ color ]).
+html_comp_i(24,'Border','2',d,[ str ]).
+html_comp_i(24,'Bordercolor',rgb(255,255,255),d,[ color ]).
+html_comp_i(24,'Buttonborderstyle',standard,d,[ str ]).
+html_comp_i(25,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(25,'Class',row,v,[ str ]).
+html_comp_i(25,'Id','',d,[ str ]).
+html_comp_i(25,'Height',measure(0,px),d,[ measure ]).
+html_comp_i(25,'Width',measure(0,px),d,[ measure ]).
+html_comp_i(25,'Semanticcontent',div,d,[ str ]).
+html_comp_i(25,'Align',left,d,[ str ]).
+html_comp_i(25,'Valign',top,d,[ str ]).
+html_comp_i(26,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(26,'Class','col-xs-12 col-sm-4',v,[ str ]).
+html_comp_i(26,'Id','',d,[ str ]).
+html_comp_i(26,'Height',measure(0,px),d,[ measure ]).
+html_comp_i(26,'Width',measure(0,px),d,[ measure ]).
+html_comp_i(26,'Semanticcontent',div,d,[ str ]).
+html_comp_i(26,'Align',left,d,[ str ]).
+html_comp_i(26,'Valign',top,d,[ str ]).
+html_comp_i(27,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(27,'Id','Table4',v,[ str ]).
+html_comp_i(27,'Class','Table',v,[ str ]).
+html_comp_i(27,'Title','',d,[ str ]).
+html_comp_i(27,'Header','',d,[ str ]).
+html_comp_i(27,'Align',left,d,[ str ]).
+html_comp_i(27,'Backgroundgx','',d,[ str ]).
+html_comp_i(27,'Bgcolor',rgb(0,0,0),d,[ color ]).
+html_comp_i(27,'Border','0',d,[ str ]).
+html_comp_i(27,'Bordercolor',rgb(0,0,0),d,[ color ]).
+html_comp_i(27,'Cellpadding','1',d,[ str ]).
+html_comp_i(27,'Cellspacing','2',d,[ str ]).
+html_comp_i(27,'Height',measure(0,px),d,[ measure ]).
+html_comp_i(27,'Width',measure(0,px),d,[ measure ]).
+html_comp_i(27,'Rules',none,d,[ str ]).
+html_comp_i(30,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(30,'Controlname','Aoquadrado',v,[ str ]).
+html_comp_i(30,'Class','Button corFundo',v,[ str ]).
+html_comp_i(30,'Event','''AoQuadrado''',v,[ str ]).
+html_comp_i(30,'Caption','X²',d,[ str ]).
+html_comp_i(30,'Title','X²',d,[ str ]).
+html_comp_i(30,'Font',font('Microsoft Sans Serif',10,[]),d,[ font ]).
+html_comp_i(30,'Forecolor',rgb(0,0,0),d,[ color ]).
+html_comp_i(30,'Backcolor',rgb(240,240,240),d,[ color ]).
+html_comp_i(30,'Border','2',d,[ str ]).
+html_comp_i(30,'Bordercolor',rgb(255,255,255),d,[ color ]).
+html_comp_i(30,'Buttonborderstyle',standard,d,[ str ]).
+html_comp_i(31,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(31,'Class','col-xs-12 col-sm-4',v,[ str ]).
+html_comp_i(31,'Id','',d,[ str ]).
+html_comp_i(31,'Height',measure(0,px),d,[ measure ]).
+html_comp_i(31,'Width',measure(0,px),d,[ measure ]).
+html_comp_i(31,'Semanticcontent',div,d,[ str ]).
+html_comp_i(31,'Align',left,d,[ str ]).
+html_comp_i(31,'Valign',top,d,[ str ]).
+html_comp_i(32,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(32,'Id','Table5',v,[ str ]).
+html_comp_i(32,'Class','Table',v,[ str ]).
+html_comp_i(32,'Title','',d,[ str ]).
+html_comp_i(32,'Header','',d,[ str ]).
+html_comp_i(32,'Align',left,d,[ str ]).
+html_comp_i(32,'Backgroundgx','',d,[ str ]).
+html_comp_i(32,'Bgcolor',rgb(0,0,0),d,[ color ]).
+html_comp_i(32,'Border','0',d,[ str ]).
+html_comp_i(32,'Bordercolor',rgb(0,0,0),d,[ color ]).
+html_comp_i(32,'Cellpadding','1',d,[ str ]).
+html_comp_i(32,'Cellspacing','2',d,[ str ]).
+html_comp_i(32,'Height',measure(0,px),d,[ measure ]).
+html_comp_i(32,'Width',measure(0,px),d,[ measure ]).
+html_comp_i(32,'Rules',none,d,[ str ]).
+html_comp_i(35,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(35,'Controlname','Potencia',v,[ str ]).
+html_comp_i(35,'Class','Button corFundo',v,[ str ]).
+html_comp_i(35,'Event','''Potencia''',v,[ str ]).
+html_comp_i(35,'Caption','Potencia',d,[ str ]).
+html_comp_i(35,'Title','Potencia',d,[ str ]).
+html_comp_i(35,'Font',font('Microsoft Sans Serif',10,[]),d,[ font ]).
+html_comp_i(35,'Forecolor',rgb(0,0,0),d,[ color ]).
+html_comp_i(35,'Backcolor',rgb(240,240,240),d,[ color ]).
+html_comp_i(35,'Border','2',d,[ str ]).
+html_comp_i(35,'Bordercolor',rgb(255,255,255),d,[ color ]).
+html_comp_i(35,'Buttonborderstyle',standard,d,[ str ]).
+html_comp_i(36,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(36,'Class','col-xs-12 col-sm-4',v,[ str ]).
+html_comp_i(36,'Id','',d,[ str ]).
+html_comp_i(36,'Height',measure(0,px),d,[ measure ]).
+html_comp_i(36,'Width',measure(0,px),d,[ measure ]).
+html_comp_i(36,'Semanticcontent',div,d,[ str ]).
+html_comp_i(36,'Align','Right',v,[ str ]).
+html_comp_i(36,'Valign',top,d,[ str ]).
+html_comp_i(37,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(37,'Id','Table3',v,[ str ]).
+html_comp_i(37,'Class','Table tableCalc',v,[ str ]).
+html_comp_i(37,'Title','',d,[ str ]).
+html_comp_i(37,'Header','',d,[ str ]).
+html_comp_i(37,'Align',left,d,[ str ]).
+html_comp_i(37,'Backgroundgx','',d,[ str ]).
+html_comp_i(37,'Bgcolor',rgb(0,0,0),d,[ color ]).
+html_comp_i(37,'Border','0',d,[ str ]).
+html_comp_i(37,'Bordercolor',rgb(0,0,0),d,[ color ]).
+html_comp_i(37,'Cellpadding','1',d,[ str ]).
+html_comp_i(37,'Cellspacing','2',d,[ str ]).
+html_comp_i(37,'Height',measure(0,px),d,[ measure ]).
+html_comp_i(37,'Width',measure(0,px),d,[ measure ]).
+html_comp_i(37,'Rules',none,d,[ str ]).
+html_comp_i(40,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(40,'Controlname','Raizquadrada',v,[ str ]).
+html_comp_i(40,'Class','Button corFundo',v,[ str ]).
+html_comp_i(40,'Event','''RaizQuadrada''',v,[ str ]).
+html_comp_i(40,'Caption',v,d,[ str ]).
+html_comp_i(40,'Title',v,d,[ str ]).
+html_comp_i(40,'Font',font('Microsoft Sans Serif',10,[]),d,[ font ]).
+html_comp_i(40,'Forecolor',rgb(0,0,0),d,[ color ]).
+html_comp_i(40,'Backcolor',rgb(240,240,240),d,[ color ]).
+html_comp_i(40,'Border','2',d,[ str ]).
+html_comp_i(40,'Bordercolor',rgb(255,255,255),d,[ color ]).
+html_comp_i(40,'Buttonborderstyle',standard,d,[ str ]).
+html_comp_i(41,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(41,'Class',row,v,[ str ]).
+html_comp_i(41,'Id','',d,[ str ]).
+html_comp_i(41,'Height',measure(0,px),d,[ measure ]).
+html_comp_i(41,'Width',measure(0,px),d,[ measure ]).
+html_comp_i(41,'Semanticcontent',div,d,[ str ]).
+html_comp_i(41,'Align',left,d,[ str ]).
+html_comp_i(41,'Valign',top,d,[ str ]).
+html_comp_i(42,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(42,'Class','col-xs-12 col-sm-3',v,[ str ]).
+html_comp_i(42,'Id','',d,[ str ]).
+html_comp_i(42,'Height',measure(0,px),d,[ measure ]).
+html_comp_i(42,'Width',measure(0,px),d,[ measure ]).
+html_comp_i(42,'Semanticcontent',div,d,[ str ]).
+html_comp_i(42,'Align',left,d,[ str ]).
+html_comp_i(42,'Valign',top,d,[ str ]).
+html_comp_i(43,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(43,'Controlname','Add7',v,[ str ]).
+html_comp_i(43,'Class','Button corFundo',v,[ str ]).
+html_comp_i(43,'Event','''Add7''',v,[ str ]).
+html_comp_i(43,'Caption','7',d,[ str ]).
+html_comp_i(43,'Title','7',d,[ str ]).
+html_comp_i(43,'Font',font('Microsoft Sans Serif',10,[]),d,[ font ]).
+html_comp_i(43,'Forecolor',rgb(0,0,0),d,[ color ]).
+html_comp_i(43,'Backcolor',rgb(240,240,240),d,[ color ]).
+html_comp_i(43,'Border','2',d,[ str ]).
+html_comp_i(43,'Bordercolor',rgb(255,255,255),d,[ color ]).
+html_comp_i(43,'Buttonborderstyle',standard,d,[ str ]).
+html_comp_i(44,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(44,'Class','col-xs-12 col-sm-3',v,[ str ]).
+html_comp_i(44,'Id','',d,[ str ]).
+html_comp_i(44,'Height',measure(0,px),d,[ measure ]).
+html_comp_i(44,'Width',measure(0,px),d,[ measure ]).
+html_comp_i(44,'Semanticcontent',div,d,[ str ]).
+html_comp_i(44,'Align',left,d,[ str ]).
+html_comp_i(44,'Valign',top,d,[ str ]).
+html_comp_i(45,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(45,'Controlname','Add8',v,[ str ]).
+html_comp_i(45,'Class','Button corFundo',v,[ str ]).
+html_comp_i(45,'Event','''Add8''',v,[ str ]).
+html_comp_i(45,'Caption','8',d,[ str ]).
+html_comp_i(45,'Title','8',d,[ str ]).
+html_comp_i(45,'Font',font('Microsoft Sans Serif',10,[]),d,[ font ]).
+html_comp_i(45,'Forecolor',rgb(0,0,0),d,[ color ]).
+html_comp_i(45,'Backcolor',rgb(240,240,240),d,[ color ]).
+html_comp_i(45,'Border','2',d,[ str ]).
+html_comp_i(45,'Bordercolor',rgb(255,255,255),d,[ color ]).
+html_comp_i(45,'Buttonborderstyle',standard,d,[ str ]).
+html_comp_i(46,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(46,'Class','col-xs-12 col-sm-3',v,[ str ]).
+html_comp_i(46,'Id','',d,[ str ]).
+html_comp_i(46,'Height',measure(0,px),d,[ measure ]).
+html_comp_i(46,'Width',measure(0,px),d,[ measure ]).
+html_comp_i(46,'Semanticcontent',div,d,[ str ]).
+html_comp_i(46,'Align',left,d,[ str ]).
+html_comp_i(46,'Valign',top,d,[ str ]).
+html_comp_i(47,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(47,'Controlname','Add9',v,[ str ]).
+html_comp_i(47,'Class','Button corFundo',v,[ str ]).
+html_comp_i(47,'Event','''Add9''',v,[ str ]).
+html_comp_i(47,'Caption','9',d,[ str ]).
+html_comp_i(47,'Title','9',d,[ str ]).
+html_comp_i(47,'Font',font('Microsoft Sans Serif',10,[]),d,[ font ]).
+html_comp_i(47,'Forecolor',rgb(0,0,0),d,[ color ]).
+html_comp_i(47,'Backcolor',rgb(240,240,240),d,[ color ]).
+html_comp_i(47,'Border','2',d,[ str ]).
+html_comp_i(47,'Bordercolor',rgb(255,255,255),d,[ color ]).
+html_comp_i(47,'Buttonborderstyle',standard,d,[ str ]).
+html_comp_i(48,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(48,'Class','col-xs-12 col-sm-3',v,[ str ]).
+html_comp_i(48,'Id','',d,[ str ]).
+html_comp_i(48,'Height',measure(0,px),d,[ measure ]).
+html_comp_i(48,'Width',measure(0,px),d,[ measure ]).
+html_comp_i(48,'Semanticcontent',div,d,[ str ]).
+html_comp_i(48,'Align',left,d,[ str ]).
+html_comp_i(48,'Valign',top,d,[ str ]).
+html_comp_i(49,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(49,'Controlname','Dividir',v,[ str ]).
+html_comp_i(49,'Class','Button corFundo',v,[ str ]).
+html_comp_i(49,'Event','''Dividir''',v,[ str ]).
+html_comp_i(49,'Caption',/,d,[ str ]).
+html_comp_i(49,'Title',/,d,[ str ]).
+html_comp_i(49,'Font',font('Microsoft Sans Serif',10,[]),d,[ font ]).
+html_comp_i(49,'Forecolor',rgb(0,0,0),d,[ color ]).
+html_comp_i(49,'Backcolor',rgb(240,240,240),d,[ color ]).
+html_comp_i(49,'Border','2',d,[ str ]).
+html_comp_i(49,'Bordercolor',rgb(255,255,255),d,[ color ]).
+html_comp_i(49,'Buttonborderstyle',standard,d,[ str ]).
+html_comp_i(50,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(50,'Class',row,v,[ str ]).
+html_comp_i(50,'Id','',d,[ str ]).
+html_comp_i(50,'Height',measure(0,px),d,[ measure ]).
+html_comp_i(50,'Width',measure(0,px),d,[ measure ]).
+html_comp_i(50,'Semanticcontent',div,d,[ str ]).
+html_comp_i(50,'Align',left,d,[ str ]).
+html_comp_i(50,'Valign',top,d,[ str ]).
+html_comp_i(51,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(51,'Class','col-xs-12 col-sm-3',v,[ str ]).
+html_comp_i(51,'Id','',d,[ str ]).
+html_comp_i(51,'Height',measure(0,px),d,[ measure ]).
+html_comp_i(51,'Width',measure(0,px),d,[ measure ]).
+html_comp_i(51,'Semanticcontent',div,d,[ str ]).
+html_comp_i(51,'Align',left,d,[ str ]).
+html_comp_i(51,'Valign',top,d,[ str ]).
+html_comp_i(52,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(52,'Controlname','Add4',v,[ str ]).
+html_comp_i(52,'Class','Button corFundo',v,[ str ]).
+html_comp_i(52,'Event','''Add4''',v,[ str ]).
+html_comp_i(52,'Caption','4',d,[ str ]).
+html_comp_i(52,'Title','4',d,[ str ]).
+html_comp_i(52,'Font',font('Microsoft Sans Serif',10,[]),d,[ font ]).
+html_comp_i(52,'Forecolor',rgb(0,0,0),d,[ color ]).
+html_comp_i(52,'Backcolor',rgb(240,240,240),d,[ color ]).
+html_comp_i(52,'Border','2',d,[ str ]).
+html_comp_i(52,'Bordercolor',rgb(255,255,255),d,[ color ]).
+html_comp_i(52,'Buttonborderstyle',standard,d,[ str ]).
+html_comp_i(53,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(53,'Class','col-xs-12 col-sm-3',v,[ str ]).
+html_comp_i(53,'Id','',d,[ str ]).
+html_comp_i(53,'Height',measure(0,px),d,[ measure ]).
+html_comp_i(53,'Width',measure(0,px),d,[ measure ]).
+html_comp_i(53,'Semanticcontent',div,d,[ str ]).
+html_comp_i(53,'Align',left,d,[ str ]).
+html_comp_i(53,'Valign',top,d,[ str ]).
+html_comp_i(54,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(54,'Controlname','Add5',v,[ str ]).
+html_comp_i(54,'Class','Button corFundo',v,[ str ]).
+html_comp_i(54,'Event','''Add5''',v,[ str ]).
+html_comp_i(54,'Caption','5',d,[ str ]).
+html_comp_i(54,'Title','5',d,[ str ]).
+html_comp_i(54,'Font',font('Microsoft Sans Serif',10,[]),d,[ font ]).
+html_comp_i(54,'Forecolor',rgb(0,0,0),d,[ color ]).
+html_comp_i(54,'Backcolor',rgb(240,240,240),d,[ color ]).
+html_comp_i(54,'Border','2',d,[ str ]).
+html_comp_i(54,'Bordercolor',rgb(255,255,255),d,[ color ]).
+html_comp_i(54,'Buttonborderstyle',standard,d,[ str ]).
+html_comp_i(55,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(55,'Class','col-xs-12 col-sm-3',v,[ str ]).
+html_comp_i(55,'Id','',d,[ str ]).
+html_comp_i(55,'Height',measure(0,px),d,[ measure ]).
+html_comp_i(55,'Width',measure(0,px),d,[ measure ]).
+html_comp_i(55,'Semanticcontent',div,d,[ str ]).
+html_comp_i(55,'Align',left,d,[ str ]).
+html_comp_i(55,'Valign',top,d,[ str ]).
+html_comp_i(56,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(56,'Controlname','Add6',v,[ str ]).
+html_comp_i(56,'Class','Button corFundo',v,[ str ]).
+html_comp_i(56,'Event','''Add6''',v,[ str ]).
+html_comp_i(56,'Caption','6',d,[ str ]).
+html_comp_i(56,'Title','6',d,[ str ]).
+html_comp_i(56,'Font',font('Microsoft Sans Serif',10,[]),d,[ font ]).
+html_comp_i(56,'Forecolor',rgb(0,0,0),d,[ color ]).
+html_comp_i(56,'Backcolor',rgb(240,240,240),d,[ color ]).
+html_comp_i(56,'Border','2',d,[ str ]).
+html_comp_i(56,'Bordercolor',rgb(255,255,255),d,[ color ]).
+html_comp_i(56,'Buttonborderstyle',standard,d,[ str ]).
+html_comp_i(57,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(57,'Class','col-xs-12 col-sm-3',v,[ str ]).
+html_comp_i(57,'Id','',d,[ str ]).
+html_comp_i(57,'Height',measure(0,px),d,[ measure ]).
+html_comp_i(57,'Width',measure(0,px),d,[ measure ]).
+html_comp_i(57,'Semanticcontent',div,d,[ str ]).
+html_comp_i(57,'Align',left,d,[ str ]).
+html_comp_i(57,'Valign',top,d,[ str ]).
+html_comp_i(58,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(58,'Controlname','Multiplicar',v,[ str ]).
+html_comp_i(58,'Class','Button corFundo',v,[ str ]).
+html_comp_i(58,'Event','''Multiplicar''',v,[ str ]).
+html_comp_i(58,'Caption','X',d,[ str ]).
+html_comp_i(58,'Title','X',d,[ str ]).
+html_comp_i(58,'Font',font('Microsoft Sans Serif',10,[]),d,[ font ]).
+html_comp_i(58,'Forecolor',rgb(0,0,0),d,[ color ]).
+html_comp_i(58,'Backcolor',rgb(240,240,240),d,[ color ]).
+html_comp_i(58,'Border','2',d,[ str ]).
+html_comp_i(58,'Bordercolor',rgb(255,255,255),d,[ color ]).
+html_comp_i(58,'Buttonborderstyle',standard,d,[ str ]).
+html_comp_i(59,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(59,'Class',row,v,[ str ]).
+html_comp_i(59,'Id','',d,[ str ]).
+html_comp_i(59,'Height',measure(0,px),d,[ measure ]).
+html_comp_i(59,'Width',measure(0,px),d,[ measure ]).
+html_comp_i(59,'Semanticcontent',div,d,[ str ]).
+html_comp_i(59,'Align',left,d,[ str ]).
+html_comp_i(59,'Valign',top,d,[ str ]).
+html_comp_i(60,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(60,'Class','col-xs-12 col-sm-3',v,[ str ]).
+html_comp_i(60,'Id','',d,[ str ]).
+html_comp_i(60,'Height',measure(0,px),d,[ measure ]).
+html_comp_i(60,'Width',measure(0,px),d,[ measure ]).
+html_comp_i(60,'Semanticcontent',div,d,[ str ]).
+html_comp_i(60,'Align',left,d,[ str ]).
+html_comp_i(60,'Valign',top,d,[ str ]).
+html_comp_i(61,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(61,'Controlname','Add1',v,[ str ]).
+html_comp_i(61,'Class','Button corFundo',v,[ str ]).
+html_comp_i(61,'Event','''Add1''',v,[ str ]).
+html_comp_i(61,'Caption','1',d,[ str ]).
+html_comp_i(61,'Title','1',d,[ str ]).
+html_comp_i(61,'Font',font('Microsoft Sans Serif',10,[]),d,[ font ]).
+html_comp_i(61,'Forecolor',rgb(0,0,0),d,[ color ]).
+html_comp_i(61,'Backcolor',rgb(240,240,240),d,[ color ]).
+html_comp_i(61,'Border','2',d,[ str ]).
+html_comp_i(61,'Bordercolor',rgb(255,255,255),d,[ color ]).
+html_comp_i(61,'Buttonborderstyle',standard,d,[ str ]).
+html_comp_i(62,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(62,'Class','col-xs-12 col-sm-3',v,[ str ]).
+html_comp_i(62,'Id','',d,[ str ]).
+html_comp_i(62,'Height',measure(0,px),d,[ measure ]).
+html_comp_i(62,'Width',measure(0,px),d,[ measure ]).
+html_comp_i(62,'Semanticcontent',div,d,[ str ]).
+html_comp_i(62,'Align',left,d,[ str ]).
+html_comp_i(62,'Valign',top,d,[ str ]).
+html_comp_i(63,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(63,'Controlname','Add2',v,[ str ]).
+html_comp_i(63,'Class','Button corFundo',v,[ str ]).
+html_comp_i(63,'Event','''Add2''',v,[ str ]).
+html_comp_i(63,'Caption','2',d,[ str ]).
+html_comp_i(63,'Title','2',d,[ str ]).
+html_comp_i(63,'Font',font('Microsoft Sans Serif',10,[]),d,[ font ]).
+html_comp_i(63,'Forecolor',rgb(0,0,0),d,[ color ]).
+html_comp_i(63,'Backcolor',rgb(240,240,240),d,[ color ]).
+html_comp_i(63,'Border','2',d,[ str ]).
+html_comp_i(63,'Bordercolor',rgb(255,255,255),d,[ color ]).
+html_comp_i(63,'Buttonborderstyle',standard,d,[ str ]).
+html_comp_i(64,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(64,'Class','col-xs-12 col-sm-3',v,[ str ]).
+html_comp_i(64,'Id','',d,[ str ]).
+html_comp_i(64,'Height',measure(0,px),d,[ measure ]).
+html_comp_i(64,'Width',measure(0,px),d,[ measure ]).
+html_comp_i(64,'Semanticcontent',div,d,[ str ]).
+html_comp_i(64,'Align',left,d,[ str ]).
+html_comp_i(64,'Valign',top,d,[ str ]).
+html_comp_i(65,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(65,'Controlname','Add3',v,[ str ]).
+html_comp_i(65,'Class','Button corFundo',v,[ str ]).
+html_comp_i(65,'Event','''Add3''',v,[ str ]).
+html_comp_i(65,'Caption','3',d,[ str ]).
+html_comp_i(65,'Title','3',d,[ str ]).
+html_comp_i(65,'Font',font('Microsoft Sans Serif',10,[]),d,[ font ]).
+html_comp_i(65,'Forecolor',rgb(0,0,0),d,[ color ]).
+html_comp_i(65,'Backcolor',rgb(240,240,240),d,[ color ]).
+html_comp_i(65,'Border','2',d,[ str ]).
+html_comp_i(65,'Bordercolor',rgb(255,255,255),d,[ color ]).
+html_comp_i(65,'Buttonborderstyle',standard,d,[ str ]).
+html_comp_i(66,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(66,'Class','col-xs-12 col-sm-3',v,[ str ]).
+html_comp_i(66,'Id','',d,[ str ]).
+html_comp_i(66,'Height',measure(0,px),d,[ measure ]).
+html_comp_i(66,'Width',measure(0,px),d,[ measure ]).
+html_comp_i(66,'Semanticcontent',div,d,[ str ]).
+html_comp_i(66,'Align',left,d,[ str ]).
+html_comp_i(66,'Valign',top,d,[ str ]).
+html_comp_i(67,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(67,'Controlname','Subtrair',v,[ str ]).
+html_comp_i(67,'Class','Button corFundo',v,[ str ]).
+html_comp_i(67,'Event','''Subtrair''',v,[ str ]).
+html_comp_i(67,'Caption',-,d,[ str ]).
+html_comp_i(67,'Title',-,d,[ str ]).
+html_comp_i(67,'Font',font('Microsoft Sans Serif',10,[]),d,[ font ]).
+html_comp_i(67,'Forecolor',rgb(0,0,0),d,[ color ]).
+html_comp_i(67,'Backcolor',rgb(240,240,240),d,[ color ]).
+html_comp_i(67,'Border','2',d,[ str ]).
+html_comp_i(67,'Bordercolor',rgb(255,255,255),d,[ color ]).
+html_comp_i(67,'Buttonborderstyle',standard,d,[ str ]).
+html_comp_i(68,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(68,'Class',row,v,[ str ]).
+html_comp_i(68,'Id','',d,[ str ]).
+html_comp_i(68,'Height',measure(0,px),d,[ measure ]).
+html_comp_i(68,'Width',measure(0,px),d,[ measure ]).
+html_comp_i(68,'Semanticcontent',div,d,[ str ]).
+html_comp_i(68,'Align',left,d,[ str ]).
+html_comp_i(68,'Valign',top,d,[ str ]).
+html_comp_i(69,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(69,'Class','col-xs-12 col-sm-3',v,[ str ]).
+html_comp_i(69,'Id','',d,[ str ]).
+html_comp_i(69,'Height',measure(0,px),d,[ measure ]).
+html_comp_i(69,'Width',measure(0,px),d,[ measure ]).
+html_comp_i(69,'Semanticcontent',div,d,[ str ]).
+html_comp_i(69,'Align',left,d,[ str ]).
+html_comp_i(69,'Valign',top,d,[ str ]).
+html_comp_i(70,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(70,'Controlname','Invertersinal',v,[ str ]).
+html_comp_i(70,'Class','Button corFundo',v,[ str ]).
+html_comp_i(70,'Event','''TrocarSinal''',v,[ str ]).
+html_comp_i(70,'Caption',+/-,d,[ str ]).
+html_comp_i(70,'Title',+/-,d,[ str ]).
+html_comp_i(70,'Font',font('Microsoft Sans Serif',10,[]),d,[ font ]).
+html_comp_i(70,'Forecolor',rgb(0,0,0),d,[ color ]).
+html_comp_i(70,'Backcolor',rgb(240,240,240),d,[ color ]).
+html_comp_i(70,'Border','2',d,[ str ]).
+html_comp_i(70,'Bordercolor',rgb(255,255,255),d,[ color ]).
+html_comp_i(70,'Buttonborderstyle',standard,d,[ str ]).
+html_comp_i(71,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(71,'Class','col-xs-12 col-sm-3',v,[ str ]).
+html_comp_i(71,'Id','',d,[ str ]).
+html_comp_i(71,'Height',measure(0,px),d,[ measure ]).
+html_comp_i(71,'Width',measure(0,px),d,[ measure ]).
+html_comp_i(71,'Semanticcontent',div,d,[ str ]).
+html_comp_i(71,'Align',left,d,[ str ]).
+html_comp_i(71,'Valign',top,d,[ str ]).
+html_comp_i(72,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(72,'Controlname','Add0',v,[ str ]).
+html_comp_i(72,'Class','Button corFundo',v,[ str ]).
+html_comp_i(72,'Event','''Add0''',v,[ str ]).
+html_comp_i(72,'Caption','0',d,[ str ]).
+html_comp_i(72,'Title','0',d,[ str ]).
+html_comp_i(72,'Font',font('Microsoft Sans Serif',10,[]),d,[ font ]).
+html_comp_i(72,'Forecolor',rgb(0,0,0),d,[ color ]).
+html_comp_i(72,'Backcolor',rgb(240,240,240),d,[ color ]).
+html_comp_i(72,'Border','2',d,[ str ]).
+html_comp_i(72,'Bordercolor',rgb(255,255,255),d,[ color ]).
+html_comp_i(72,'Buttonborderstyle',standard,d,[ str ]).
+html_comp_i(73,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(73,'Class','col-xs-12 col-sm-3',v,[ str ]).
+html_comp_i(73,'Id','',d,[ str ]).
+html_comp_i(73,'Height',measure(0,px),d,[ measure ]).
+html_comp_i(73,'Width',measure(0,px),d,[ measure ]).
+html_comp_i(73,'Semanticcontent',div,d,[ str ]).
+html_comp_i(73,'Align',left,d,[ str ]).
+html_comp_i(73,'Valign',top,d,[ str ]).
+html_comp_i(74,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(74,'Controlname','Addvirgula',v,[ str ]).
+html_comp_i(74,'Class','Button corFundo',v,[ str ]).
+html_comp_i(74,'Event','''Add,''',v,[ str ]).
+html_comp_i(74,'Caption',',',d,[ str ]).
+html_comp_i(74,'Title',',',d,[ str ]).
+html_comp_i(74,'Font',font('Microsoft Sans Serif',10,[]),d,[ font ]).
+html_comp_i(74,'Forecolor',rgb(0,0,0),d,[ color ]).
+html_comp_i(74,'Backcolor',rgb(240,240,240),d,[ color ]).
+html_comp_i(74,'Border','2',d,[ str ]).
+html_comp_i(74,'Bordercolor',rgb(255,255,255),d,[ color ]).
+html_comp_i(74,'Buttonborderstyle',standard,d,[ str ]).
+html_comp_i(75,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(75,'Class','col-xs-12 col-sm-3',v,[ str ]).
+html_comp_i(75,'Id','',d,[ str ]).
+html_comp_i(75,'Height',measure(0,px),d,[ measure ]).
+html_comp_i(75,'Width',measure(0,px),d,[ measure ]).
+html_comp_i(75,'Semanticcontent',div,d,[ str ]).
+html_comp_i(75,'Align',left,d,[ str ]).
+html_comp_i(75,'Valign',top,d,[ str ]).
+html_comp_i(76,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(76,'Controlname','Adicionar',v,[ str ]).
+html_comp_i(76,'Class','Button corFundo',v,[ str ]).
+html_comp_i(76,'Event','''Adicionar''',v,[ str ]).
+html_comp_i(76,'Caption',+,d,[ str ]).
+html_comp_i(76,'Title',+,d,[ str ]).
+html_comp_i(76,'Font',font('Microsoft Sans Serif',10,[]),d,[ font ]).
+html_comp_i(76,'Forecolor',rgb(0,0,0),d,[ color ]).
+html_comp_i(76,'Backcolor',rgb(240,240,240),d,[ color ]).
+html_comp_i(76,'Border','2',d,[ str ]).
+html_comp_i(76,'Bordercolor',rgb(255,255,255),d,[ color ]).
+html_comp_i(76,'Buttonborderstyle',standard,d,[ str ]).
+html_comp_i(77,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(77,'Class',row,v,[ str ]).
+html_comp_i(77,'Id','',d,[ str ]).
+html_comp_i(77,'Height',measure(0,px),d,[ measure ]).
+html_comp_i(77,'Width',measure(0,px),d,[ measure ]).
+html_comp_i(77,'Semanticcontent',div,d,[ str ]).
+html_comp_i(77,'Align',left,d,[ str ]).
+html_comp_i(77,'Valign',top,d,[ str ]).
+html_comp_i(78,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(78,'Class','col-xs-12',v,[ str ]).
+html_comp_i(78,'Id','',d,[ str ]).
+html_comp_i(78,'Height',measure(0,px),d,[ measure ]).
+html_comp_i(78,'Width',measure(0,px),d,[ measure ]).
+html_comp_i(78,'Semanticcontent',div,d,[ str ]).
+html_comp_i(78,'Align','Right',v,[ str ]).
+html_comp_i(78,'Valign',top,d,[ str ]).
+html_comp_i(79,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(79,'Id','Table1',v,[ str ]).
+html_comp_i(79,'Class','Table',v,[ str ]).
+html_comp_i(79,'Title','',d,[ str ]).
+html_comp_i(79,'Header','',d,[ str ]).
+html_comp_i(79,'Align',left,d,[ str ]).
+html_comp_i(79,'Backgroundgx','',d,[ str ]).
+html_comp_i(79,'Bgcolor',rgb(0,0,0),d,[ color ]).
+html_comp_i(79,'Border','0',d,[ str ]).
+html_comp_i(79,'Bordercolor',rgb(0,0,0),d,[ color ]).
+html_comp_i(79,'Cellpadding','1',d,[ str ]).
+html_comp_i(79,'Cellspacing','2',d,[ str ]).
+html_comp_i(79,'Height',measure(0,px),d,[ measure ]).
+html_comp_i(79,'Width',measure(0,px),d,[ measure ]).
+html_comp_i(79,'Rules',none,d,[ str ]).
+html_comp_i(82,'Isabstractlayoutcontrol',0,d,[ bool ]).
+html_comp_i(82,'Controlname','Botaoresultado',v,[ str ]).
+html_comp_i(82,'Class','Button corFundo',v,[ str ]).
+html_comp_i(82,'Event','''ChamarResultado''',v,[ str ]).
+html_comp_i(82,'Caption',=,d,[ str ]).
+html_comp_i(82,'Title',=,d,[ str ]).
+html_comp_i(82,'Font',font('Microsoft Sans Serif',10,[]),d,[ font ]).
+html_comp_i(82,'Forecolor',rgb(0,0,0),d,[ color ]).
+html_comp_i(82,'Backcolor',rgb(240,240,240),d,[ color ]).
+html_comp_i(82,'Border','2',d,[ str ]).
+html_comp_i(82,'Bordercolor',rgb(255,255,255),d,[ color ]).
+html_comp_i(82,'Buttonborderstyle',standard,d,[ str ]).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+lit_i(6,1,t('CALCULADORA TOPSTER',3),[ ctlname('Textblock1') ]).
+lit_i(5,1,div(5),[ ctlname('') ]).
+lit_i(4,1,div(4),[ ctlname('') ]).
+lit_i(11,1,t('Historico',23),[ ctlname('&Historico'),ctrltype(edit,11),pos(11),readonly,ispwd(0),e2n(1),width(0),rect(0,0,10,10),title('Nothing') ]).
+lit_i(10,1,div(10),[ ctlname('') ]).
+lit_i(9,1,div(9),[ ctlname('') ]).
+lit_i(8,1,div(8),[ ctlname('') ]).
+lit_i(7,1,div(7),[ ctlname('') ]).
+lit_i(16,1,t('Mostraruser',23),[ ctlname('&Mostraruser'),ctrltype(edit,16),pos(16),readonly,ispwd(0),e2n(1),width(0),rect(0,0,10,10),title('Nothing') ]).
+lit_i(15,1,div(15),[ ctlname('') ]).
+lit_i(14,1,div(14),[ ctlname('') ]).
+lit_i(13,1,div(13),[ ctlname('') ]).
+lit_i(12,1,div(12),[ ctlname('') ]).
+lit_i(19,1,button('''Cancelar Tudo'''),[ ctlname('Cancelartudo'),width(0),rect(0,0,10,10),title('Nothing') ]).
+lit_i(18,1,div(18),[ ctlname('') ]).
+lit_i(24,1,button('''ApagarUlitmoNumero'''),[ ctlname('Apagarulitmonumero'),width(0),rect(0,0,10,10),title('Nothing') ]).
+lit_i(21,1,table(21),[ ctlname('Table2') ]).
+lit_i(20,1,div(20),[ ctlname('') ]).
+lit_i(17,1,div(17),[ ctlname('') ]).
+lit_i(30,1,button('''AoQuadrado'''),[ ctlname('Aoquadrado'),width(0),rect(0,0,10,10),title('Nothing') ]).
+lit_i(27,1,table(27),[ ctlname('Table4') ]).
+lit_i(26,1,div(26),[ ctlname('') ]).
+lit_i(35,1,button('''Potencia'''),[ ctlname('Potencia'),width(0),rect(0,0,10,10),title('Nothing') ]).
+lit_i(32,1,table(32),[ ctlname('Table5') ]).
+lit_i(31,1,div(31),[ ctlname('') ]).
+lit_i(40,1,button('''RaizQuadrada'''),[ ctlname('Raizquadrada'),width(0),rect(0,0,10,10),title('Nothing') ]).
+lit_i(37,1,table(37),[ ctlname('Table3') ]).
+lit_i(36,1,div(36),[ ctlname('') ]).
+lit_i(25,1,div(25),[ ctlname('') ]).
+lit_i(43,1,button('''Add7'''),[ ctlname('Add7'),width(0),rect(0,0,10,10),title('Nothing') ]).
+lit_i(42,1,div(42),[ ctlname('') ]).
+lit_i(45,1,button('''Add8'''),[ ctlname('Add8'),width(0),rect(0,0,10,10),title('Nothing') ]).
+lit_i(44,1,div(44),[ ctlname('') ]).
+lit_i(47,1,button('''Add9'''),[ ctlname('Add9'),width(0),rect(0,0,10,10),title('Nothing') ]).
+lit_i(46,1,div(46),[ ctlname('') ]).
+lit_i(49,1,button('''Dividir'''),[ ctlname('Dividir'),width(0),rect(0,0,10,10),title('Nothing') ]).
+lit_i(48,1,div(48),[ ctlname('') ]).
+lit_i(41,1,div(41),[ ctlname('') ]).
+lit_i(52,1,button('''Add4'''),[ ctlname('Add4'),width(0),rect(0,0,10,10),title('Nothing') ]).
+lit_i(51,1,div(51),[ ctlname('') ]).
+lit_i(54,1,button('''Add5'''),[ ctlname('Add5'),width(0),rect(0,0,10,10),title('Nothing') ]).
+lit_i(53,1,div(53),[ ctlname('') ]).
+lit_i(56,1,button('''Add6'''),[ ctlname('Add6'),width(0),rect(0,0,10,10),title('Nothing') ]).
+lit_i(55,1,div(55),[ ctlname('') ]).
+lit_i(58,1,button('''Multiplicar'''),[ ctlname('Multiplicar'),width(0),rect(0,0,10,10),title('Nothing') ]).
+lit_i(57,1,div(57),[ ctlname('') ]).
+lit_i(50,1,div(50),[ ctlname('') ]).
+lit_i(61,1,button('''Add1'''),[ ctlname('Add1'),width(0),rect(0,0,10,10),title('Nothing') ]).
+lit_i(60,1,div(60),[ ctlname('') ]).
+lit_i(63,1,button('''Add2'''),[ ctlname('Add2'),width(0),rect(0,0,10,10),title('Nothing') ]).
+lit_i(62,1,div(62),[ ctlname('') ]).
+lit_i(65,1,button('''Add3'''),[ ctlname('Add3'),width(0),rect(0,0,10,10),title('Nothing') ]).
+lit_i(64,1,div(64),[ ctlname('') ]).
+lit_i(67,1,button('''Subtrair'''),[ ctlname('Subtrair'),width(0),rect(0,0,10,10),title('Nothing') ]).
+lit_i(66,1,div(66),[ ctlname('') ]).
+lit_i(59,1,div(59),[ ctlname('') ]).
+lit_i(70,1,button('''TrocarSinal'''),[ ctlname('Invertersinal'),width(0),rect(0,0,10,10),title('Nothing') ]).
+lit_i(69,1,div(69),[ ctlname('') ]).
+lit_i(72,1,button('''Add0'''),[ ctlname('Add0'),width(0),rect(0,0,10,10),title('Nothing') ]).
+lit_i(71,1,div(71),[ ctlname('') ]).
+lit_i(74,1,button('''Add,'''),[ ctlname('Addvirgula'),width(0),rect(0,0,10,10),title('Nothing') ]).
+lit_i(73,1,div(73),[ ctlname('') ]).
+lit_i(76,1,button('''Adicionar'''),[ ctlname('Adicionar'),width(0),rect(0,0,10,10),title('Nothing') ]).
+lit_i(75,1,div(75),[ ctlname('') ]).
+lit_i(68,1,div(68),[ ctlname('') ]).
+lit_i(82,1,button('''ChamarResultado'''),[ ctlname('Botaoresultado'),width(0),rect(0,0,10,10),title('Nothing') ]).
+lit_i(79,1,table(79),[ ctlname('Table1') ]).
+lit_i(78,1,div(78),[ ctlname('') ]).
+lit_i(77,1,div(77),[ ctlname('') ]).
+lit_i(3,1,div(3),[ ctlname('Maintable') ]).
+lit_i(2,1,div(2),[ ctlname('') ]).
+lit_i(1,1,window,[ rect(0,0,1000,1000),ctlname('Form') ]).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+var_prop_i(2,'Calculosucesso','ATT_INITIAL_VALUE',[ t('FALSE',41) ],v).
+var_prop_i(2,'Listauxresultado',idBasedOn,94,v).
+var_prop_i(2,'Operacao',idBasedOn,95,v).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+sub_info_i(146,'''Dividir''',86,102,[ [ 'Resultado','Auxresultado','Operacao','Expressiondatatypevariable','Calculosucesso','Mostraruser' ],[ 'Calculosucesso','Auxresultado','Resultado','Operacao','Expressiondatatypevariable','Mostraruser','Historico' ] ]).
+sub_info_i(146,'''Multiplicar''',105,122,[ [ 'Resultado','Auxresultado','Operacao','Expressiondatatypevariable','Calculosucesso','Mostraruser' ],[ 'Calculosucesso','Auxresultado','Resultado','Operacao','Expressiondatatypevariable','Mostraruser','Historico' ] ]).
+sub_info_i(146,'''Subtrair''',125,141,[ [ 'Resultado','Auxresultado','Operacao','Expressiondatatypevariable','Calculosucesso','Mostraruser' ],[ 'Calculosucesso','Auxresultado','Resultado','Operacao','Expressiondatatypevariable','Mostraruser','Historico' ] ]).
+sub_info_i(146,'''Adicionar''',144,161,[ [ 'Resultado','Auxresultado','Operacao','Expressiondatatypevariable','Calculosucesso','Mostraruser' ],[ 'Calculosucesso','Auxresultado','Resultado','Operacao','Expressiondatatypevariable','Mostraruser','Historico' ] ]).
+sub_info_i(146,'''AoQuadrado''',163,173,[ [ 'Resultado','Auxresultado','Expressiondatatypevariable','Operacao','Mostraruser','Calculosucesso' ],[ 'Calculosucesso','Operacao','Resultado','Auxresultado','Expressiondatatypevariable','Mostraruser','Historico' ] ]).
+sub_info_i(146,'''RaizQuadrada''',176,189,[ [ 'Operacao','Auxresultado','Resultado','Expressiondatatypevariable','Mostraruser','Calculosucesso' ],[ 'Resultado','Calculosucesso','Operacao','Auxresultado','Expressiondatatypevariable','Mostraruser','Historico' ] ]).
+sub_info_i(146,'''TrocarSinal''',195,211,[ [ 'Calculosucesso','Auxresultado','Resultado','Operacao' ],[ 'Auxresultado','Resultado','Mostraruser' ] ]).
+sub_info_i(146,'''Add,''',215,228,[ [ 'Resultado','Calculosucesso','Operacao','Auxresultado' ],[ 'Resultado','Mostraruser' ] ]).
+sub_info_i(146,'''Cancelar Tudo''',230,232,[ [ 'Calculosucesso','Resultado','Operacao','Auxresultado' ],[ 'Resultado','Auxresultado','Operacao','Historico','Mostraruser' ] ]).
+sub_info_i(146,'''ApagarUlitmoNumero''',234,241,[ [ 'Resultado','Calculosucesso','Operacao','Auxresultado' ],[ 'Resultado','Mostraruser' ] ]).
+sub_info_i(146,'''ChamarResultado''',243,249,[ [ 'Auxresultado','Resultado','Expressiondatatypevariable','Operacao','Mostraruser','Calculosucesso' ],[ 'Resultado','Auxresultado','Expressiondatatypevariable','Calculosucesso','Mostraruser','Operacao','Historico' ] ]).
+sub_info_i(146,'''Add9''',320,329,[ [ 'Calculosucesso','Resultado','Operacao','Auxresultado' ],[ 'Calculosucesso','Resultado','Mostraruser' ] ]).
+sub_info_i(146,'''Add8''',331,339,[ [ 'Calculosucesso','Resultado','Operacao','Auxresultado' ],[ 'Calculosucesso','Resultado','Mostraruser' ] ]).
+sub_info_i(146,'''Add7''',342,350,[ [ 'Calculosucesso','Resultado','Operacao','Auxresultado' ],[ 'Calculosucesso','Resultado','Mostraruser' ] ]).
+sub_info_i(146,'''Add6''',353,361,[ [ 'Calculosucesso','Resultado','Operacao','Auxresultado' ],[ 'Calculosucesso','Resultado','Mostraruser' ] ]).
+sub_info_i(146,'''Add5''',364,372,[ [ 'Calculosucesso','Resultado','Operacao','Auxresultado' ],[ 'Calculosucesso','Resultado','Mostraruser' ] ]).
+sub_info_i(146,'''Add4''',374,382,[ [ 'Calculosucesso','Resultado','Operacao','Auxresultado' ],[ 'Calculosucesso','Resultado','Mostraruser' ] ]).
+sub_info_i(146,'''Add3''',384,392,[ [ 'Calculosucesso','Resultado','Operacao','Auxresultado' ],[ 'Calculosucesso','Resultado','Mostraruser' ] ]).
+sub_info_i(146,'''Add2''',394,397,[ [ 'Resultado','Calculosucesso','Operacao','Auxresultado' ],[ 'Resultado','Mostraruser' ] ]).
+sub_info_i(146,'''Add1''',400,403,[ [ 'Resultado','Calculosucesso','Operacao','Auxresultado' ],[ 'Resultado','Mostraruser' ] ]).
+sub_info_i(146,'''Add0''',406,409,[ [ 'Resultado','Calculosucesso','Operacao','Auxresultado' ],[ 'Resultado','Mostraruser' ] ]).
+sub_info_i(146,'''Potencia''',411,427,[ [ 'Resultado','Auxresultado','Operacao','Expressiondatatypevariable','Calculosucesso','Mostraruser' ],[ 'Calculosucesso','Auxresultado','Resultado','Operacao','Expressiondatatypevariable','Mostraruser','Historico' ] ]).
+ 
+ 
+pgm_callprotocol_i(web,3,'GENERAL\CALCULADORA','INTERNAL','Unsecure').
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

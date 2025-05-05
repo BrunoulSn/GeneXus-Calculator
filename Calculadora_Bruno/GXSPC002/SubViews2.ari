@@ -1,0 +1,10 @@
+ 
+subtype_views_enabled_i(2,yes,'18_0_7-178779').
+ 
+ 
+ 
+ 
+subtype_view_last_no_i(2,500).
+ 
+subtype_view_ts_i(2,'1980-00-00 00:00:00').
+ 

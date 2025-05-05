@@ -1,0 +1,12 @@
+D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterprompt\bin\Release\net8.0\general.ui.masterprompt.dll
+D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterprompt\bin\Release\net8.0\general.ui.masterprompt.pdb
+D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterprompt\bin\Release\net8.0\GeneXus.Programs.Common.dll
+D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterprompt\bin\Release\net8.0\GeneXus.Programs.Common.pdb
+D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterprompt\obj\Release\net8.0\general.ui.masterprompt.csproj.AssemblyReference.cache
+D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterprompt\obj\Release\net8.0\general.ui.masterprompt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterprompt\obj\Release\net8.0\general.ui.masterprompt.csproj.CoreCompileInputs.cache
+D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterprompt\obj\Release\net8.0\general..EE3081CA.Up2Date
+D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterprompt\obj\Release\net8.0\general.ui.masterprompt.dll
+D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterprompt\obj\Release\net8.0\refint\general.ui.masterprompt.dll
+D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterprompt\obj\Release\net8.0\general.ui.masterprompt.pdb
+D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterprompt\obj\Release\net8.0\ref\general.ui.masterprompt.dll

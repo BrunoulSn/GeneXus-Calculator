@@ -1,0 +1,9 @@
+D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\GeneXus.Programs.Common\bin\Release\net8.0\GeneXus.Programs.Common.dll
+D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\GeneXus.Programs.Common\bin\Release\net8.0\GeneXus.Programs.Common.pdb
+D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\GeneXus.Programs.Common\obj\Release\net8.0\GeneXus.Programs.Common.csproj.AssemblyReference.cache
+D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\GeneXus.Programs.Common\obj\Release\net8.0\GeneXus.Programs.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\GeneXus.Programs.Common\obj\Release\net8.0\GeneXus.Programs.Common.csproj.CoreCompileInputs.cache
+D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\GeneXus.Programs.Common\obj\Release\net8.0\GeneXus.Programs.Common.dll
+D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\GeneXus.Programs.Common\obj\Release\net8.0\refint\GeneXus.Programs.Common.dll
+D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\GeneXus.Programs.Common\obj\Release\net8.0\GeneXus.Programs.Common.pdb
+D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\GeneXus.Programs.Common\obj\Release\net8.0\ref\GeneXus.Programs.Common.dll

@@ -1,0 +1,15 @@
+D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\bin\Release\net8.0\general.ui.masterunanimosidebar.dll
+D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\bin\Release\net8.0\general.ui.masterunanimosidebar.pdb
+D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\bin\Release\net8.0\GeneXus.dll
+D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\bin\Release\net8.0\GeneXus.Programs.Common.dll
+D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\bin\Release\net8.0\GeneXusUnanimo.dll
+D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\bin\Release\net8.0\GxMaps.dll
+D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\bin\Release\net8.0\GeneXus.Programs.Common.pdb
+D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\obj\Release\net8.0\general.ui.masterunanimosidebar.csproj.AssemblyReference.cache
+D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\obj\Release\net8.0\general.ui.masterunanimosidebar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\obj\Release\net8.0\general.ui.masterunanimosidebar.csproj.CoreCompileInputs.cache
+D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\obj\Release\net8.0\general..218EFEFE.Up2Date
+D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\obj\Release\net8.0\general.ui.masterunanimosidebar.dll
+D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\obj\Release\net8.0\refint\general.ui.masterunanimosidebar.dll
+D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\obj\Release\net8.0\general.ui.masterunanimosidebar.pdb
+D:\Modelos\Teinamento\Calculadora_Bruno\NETPostgreSQL002\build\general.ui.masterunanimosidebar\obj\Release\net8.0\ref\general.ui.masterunanimosidebar.dll
